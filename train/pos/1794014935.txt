@@ -1,0 +1,1 @@
+@SaraS85 &quot;Get Specific Version... Force get of file versions already in workspace&quot; is slower, but at least you know it works every time 

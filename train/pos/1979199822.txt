@@ -1,0 +1,1 @@
+@cypher That's handy to know - for DataMapper. Throwing models and doing relationships with memory backed databases is fun 

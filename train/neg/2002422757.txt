@@ -1,0 +1,1 @@
+@MRRSoftware Thnks.I must be doing smthing wrong.Dwnloaded fresh MGTwit proj,dragged 'src' folder of yajl into 'classes'.sill errors 

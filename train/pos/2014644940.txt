@@ -1,0 +1,1 @@
+is feeling the love of configuring top nav and left nav in a new #sharepoint master page 

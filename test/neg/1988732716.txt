@@ -1,0 +1,1 @@
+@alanjlee NO  It took forever to move the MBXes, and build the server, so I'm trying to make old &amp; new talk to each other... not working 

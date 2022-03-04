@@ -1,0 +1,1 @@
+anyone know of an idiot-proof jQuery sliding panel? I just tried one that wasn't idiot-proof enough. 

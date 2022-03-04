@@ -1,0 +1,1 @@
+@KyleGraham  Last time I switched simple hosting, I lost parts of my PHP/SQL for over a week.  Had to hire a programmer to fix it all 

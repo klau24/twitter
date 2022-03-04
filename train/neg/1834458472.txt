@@ -1,0 +1,1 @@
+*hopes that wireless lan is living long enough for emerge --sync* 

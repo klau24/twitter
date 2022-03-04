@@ -1,0 +1,1 @@
+Using blog commentary anti-spam plugin without testing = No comments to your blog  Lessons learned, reconfigured and everything is ok now

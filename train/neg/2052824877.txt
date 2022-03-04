@@ -1,0 +1,1 @@
+Still cannot print to ip4300. Print queue opens and shuts without printing  Does it on 2 machines.

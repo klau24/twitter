@@ -1,0 +1,1 @@
+@jcfiala trying the same, been slow going thanks to not being able to get pdo_mysql on my host :/ resolving those issues now though 

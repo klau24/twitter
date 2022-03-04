@@ -1,0 +1,1 @@
+@davmac @veloce but it involves installing a dev kernel and running something after each reboot. Really Pitty  http://bit.ly/zxdaJ

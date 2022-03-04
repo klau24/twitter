@@ -1,0 +1,1 @@
+Jusy got 1080p24 working without studder on the Tvix 6500, by changing to a new switch 

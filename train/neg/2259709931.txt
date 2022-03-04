@@ -1,0 +1,1 @@
+@Hydrohs  No no no.  It's sort of like... you have multiple files open in word. You can close a file, program is still running.

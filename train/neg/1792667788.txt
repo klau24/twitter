@@ -1,0 +1,1 @@
+Arrrgghh! Can someone help me how to make the web_image_link function to work in Mercury LoadRunner 

@@ -1,0 +1,1 @@
+building a CMS from scratch with AJAX, PHP, JQuery, XML and Actionscript...at least, that's my plan. I'm scared though 

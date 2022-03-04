@@ -1,0 +1,1 @@
+VM server running! Final solution was selecting a diff network connection. Don't know what was crashing it b4. Comp boots slower now 

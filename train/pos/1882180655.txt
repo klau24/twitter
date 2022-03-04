@@ -1,0 +1,1 @@
+@MikeG1 &quot;easy pull solution&quot;? I'll look into the multiruby thing, can you open a ticket on integrity.lighthouseapp.com? 

@@ -1,0 +1,1 @@
+this coffee machine should charge for a  cappuccino only R$ 0,25 and not R$ 0,50 how it do 

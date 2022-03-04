@@ -1,0 +1,1 @@
+wrapping up a module for downloadable books, then on to rebuilding the media manager &amp; the new version of the @inovat CMS will be done 

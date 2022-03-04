@@ -1,0 +1,1 @@
+@sebskuse  My desktop keeps running out of memory with 3GB in it. How the hell did apps get this bloated? =/ And where's the pagefile?!

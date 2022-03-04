@@ -1,0 +1,1 @@
+I wish developers would learn HTTP before HTML. Unfortunately that is never true. Browsers only support 25% of the HTTP request methods. 

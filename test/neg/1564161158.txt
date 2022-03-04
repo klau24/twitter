@@ -1,0 +1,1 @@
+Each time I update Notepad++ it drops certain plugins due to compat issues. I'm just gonna have regular Notepad in a few updates time 

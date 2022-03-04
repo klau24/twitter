@@ -1,0 +1,1 @@
+What code coverage tool to use for Spring and Dependency Injection ? Cobertura says my code coverage is 0 

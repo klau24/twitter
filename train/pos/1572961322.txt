@@ -1,0 +1,1 @@
+SlashNet now supports WEBIRC with Mibbit on all servers 

@@ -1,0 +1,1 @@
+creating AVD fot my Hello Android app 

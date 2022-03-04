@@ -1,0 +1,1 @@
+Pidgen no longer connects for me. Mozilla often closes down and wont reopen when I view calendar.  My Ubuntu machine is slowing dieing. 

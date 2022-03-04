@@ -1,0 +1,1 @@
+Struggling with a Linksys SPA3102 connecting the PSTN to my Asterisk PBX.  Outbound seems fine, Analogue Extension is fine, Inbounds not 

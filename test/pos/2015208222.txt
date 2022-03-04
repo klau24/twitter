@@ -1,0 +1,1 @@
+Adobes BrowserLab actually works with Flash sites. A feature to delay when image is taken would be handy. Only see loaders now 

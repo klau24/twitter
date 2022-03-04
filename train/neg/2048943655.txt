@@ -1,0 +1,1 @@
+.@kswedberg &amp; @NETTUTS, and sadly that plugin has no keyboard support, which form hijaxing should definitely ship with nowadays 

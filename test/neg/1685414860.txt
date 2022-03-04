@@ -1,0 +1,1 @@
+bah, spent 8 hrs coding C &amp; forgot it was rocket car day  beer b = malloc(sizeof(beer));

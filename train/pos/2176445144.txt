@@ -1,0 +1,1 @@
+@pluggdin Flexible layout is more of fancy stuff. It is like saying - &quot;Look! I know CSS, DHTML and blah' Fixed Layout is the way to go 

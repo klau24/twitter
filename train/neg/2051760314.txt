@@ -1,0 +1,1 @@
+Now that I have my #Win7 on our work domain I see that it also has slowness issues if I forget to unmap the work network drives.  

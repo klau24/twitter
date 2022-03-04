@@ -1,0 +1,1 @@
+@swhitley Shame to see Chat Catcher go down like that!  How much data was it consuming just in processing tweets and URLs?!

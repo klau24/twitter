@@ -1,0 +1,1 @@
+@amypaulsmom do you use the &quot;recurring dates&quot; for &quot;tasks&quot;?  There is no support for recurring ToDo's apparently in iCal natively 

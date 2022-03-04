@@ -1,0 +1,1 @@
+@destroytoday Thanks! That wasn't my prob but I was able to solve it. As soon as I changed the file to a .dtwt file it worked. Thank you 

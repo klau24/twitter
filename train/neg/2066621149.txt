@@ -1,0 +1,1 @@
+turns out modulus is used in random number generators already. i didn't discover anything new  

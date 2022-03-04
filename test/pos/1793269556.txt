@@ -1,0 +1,1 @@
+its a command line client for twitter. feed back is required.. 

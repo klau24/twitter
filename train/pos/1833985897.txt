@@ -1,0 +1,1 @@
+WOW! Amazon AWS does load balancing, auto scaling, and monitoring!  http://bit.ly/aq4Le

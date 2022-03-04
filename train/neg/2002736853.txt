@@ -1,0 +1,1 @@
+3hrs on the phone talking authentication using kerberos - SPN &amp; delegation problems  argh.

@@ -1,0 +1,1 @@
+problems with a seam based website where we have forgotten to remove dependency from jboss.com which has gone down this morning 

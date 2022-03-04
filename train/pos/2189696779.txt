@@ -1,0 +1,1 @@
+&quot;If our customer support traffic is any indication, Django is very popular with professional App Engine developers.&quot; pythonEE 

@@ -1,0 +1,1 @@
+Trying to install the current Chromium build on Fedora, using a converted version of the Debian package. Please build RPMs, Google! 

@@ -1,0 +1,1 @@
+@hakk79 its usb ssh, it works without anything done, you don't even need openSSH with it. Just no terminal commands 

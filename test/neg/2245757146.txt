@@ -1,0 +1,1 @@
+@iphone_dev Hi, Im not sure if you've received any updates. PwnageTool does not work with PPC based macs 

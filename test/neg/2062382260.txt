@@ -1,0 +1,1 @@
+In the process of converting my case-sens drobo to case-insens to allow my new droboshare to work, had to back up lots of crap, so slow 

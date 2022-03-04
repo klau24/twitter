@@ -1,0 +1,1 @@
+Practice Day 3: pedometer reads only 7545 

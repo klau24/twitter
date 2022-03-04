@@ -1,0 +1,1 @@
+Chromium for Ubuntu: Every time you try to write inside a text box, the browser crashes. Besides that, the browser is looking good 

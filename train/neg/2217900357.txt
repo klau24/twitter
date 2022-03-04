@@ -1,0 +1,1 @@
+@wmyeoh most probably yes, but we'll see how painful a 4 icon dock is. Missing SBSettings already, though 

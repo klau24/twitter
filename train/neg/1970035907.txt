@@ -1,0 +1,1 @@
+can't access ESXi from win 7 (bug) so started XP vm; can't RDP to it, so need to access console, which is broken in win 7, PERFECT CIRCLE 

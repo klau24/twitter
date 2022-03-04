@@ -1,0 +1,1 @@
+airtel dns servers suck big time , switched to opendns and it's way faster now 

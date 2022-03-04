@@ -1,0 +1,1 @@
+Pressing a key in Safari beta 4 when no input box is selected is causing it to crash. 

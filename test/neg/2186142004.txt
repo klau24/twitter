@@ -1,0 +1,1 @@
+Trying to get my Dell S2209W monitor to work with Ubuntu, no go   doesn't recognize monitor...can't find drivers either

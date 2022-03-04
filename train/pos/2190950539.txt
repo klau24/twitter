@@ -1,0 +1,1 @@
+@colnect  yes, i know what you mean. I am still looking to get a Point with doctrine to calculate proximity

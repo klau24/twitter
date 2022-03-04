@@ -1,0 +1,1 @@
+@CADbloke looks like I forgot to throw the text toUpper before comparing for replies. And yes, focus on btnReply - had forgotten, thanks! 

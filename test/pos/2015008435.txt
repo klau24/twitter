@@ -1,0 +1,1 @@
+@causticgraphics is there any documentation about the API? I've a raytracer in Java and as student I wonder what is possible 

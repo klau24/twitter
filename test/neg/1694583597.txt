@@ -1,0 +1,1 @@
+ActiveRecord::HasManyThroughSourceAssociationMacroError: Invalid source reflection macro :has_one for has_many -&gt; http://bit.ly/135UWH 

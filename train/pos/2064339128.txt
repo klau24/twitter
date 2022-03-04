@@ -1,0 +1,1 @@
+irctc refunds money on failed transactions by itself.  #irctc

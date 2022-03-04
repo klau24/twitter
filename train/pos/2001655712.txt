@@ -1,0 +1,1 @@
+@SoerenS Sounds perfect. By default it'll verify every 7 days and as 4.0.2 is only out in beta, 4.0.1 is the current stable release 

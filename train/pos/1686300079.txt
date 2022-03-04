@@ -1,0 +1,1 @@
+@headius we didn't really have a goal of making an objective perf comparison  other impls of the benchmark aren't efficient either

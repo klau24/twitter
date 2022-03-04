@@ -1,0 +1,1 @@
+@jmalonzo I lost USB auto-mount in Fedora 11. Some hal keys in gconf are gone. Not sure why at this point. Not yet at least. 

@@ -1,0 +1,1 @@
+@moopanda Hmm, it's meant to be an Apple logo.  It comes up as the Euro symbol in Firefox on Linux.  

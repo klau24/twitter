@@ -1,0 +1,1 @@
+@danudey yes. I didn't. What I'm trying to do is so specific, there isn't a built in function for it. I will have to do it myself 

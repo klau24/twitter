@@ -1,0 +1,1 @@
+Looks like Jaunty is going with Ruby-GNOME2 0.17, which is woefully out of date 

@@ -1,0 +1,1 @@
+Taking a break from coding.  Twitter library can now update statuses  made good progress, probably needs some refactoring work though.

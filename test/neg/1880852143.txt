@@ -1,0 +1,1 @@
+bah! finally got something fixed and sorted before i find that the site its going on is using jQuery! time to port that shit over 

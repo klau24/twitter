@@ -1,0 +1,1 @@
+At last I have tamed the wild horse known as rbwebkitgtk! I can now run scripts, and set cookies! 

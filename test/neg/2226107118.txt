@@ -1,0 +1,1 @@
+@snubs KonBoot broke my laptop, now it BSODs when it boots  I blame you.

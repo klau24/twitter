@@ -1,0 +1,1 @@
+I love NHibernate but not loving the linq to nh with selecting projection of a type mapped as a component. It doesn't like it 

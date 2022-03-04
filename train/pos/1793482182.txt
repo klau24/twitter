@@ -1,0 +1,1 @@
+received: 1x Arduino Duemilanove, 2x XBee, let's connect them 

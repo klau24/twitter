@@ -1,0 +1,1 @@
+exmpp, fast, reliable and scalable XMPP library in Erlang is available from ProcessOne Labs http://bit.ly/MvZB8 . Yes, we made it 

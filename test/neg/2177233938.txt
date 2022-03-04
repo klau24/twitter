@@ -1,0 +1,1 @@
+Looking for the replacement for the obsolete BuildData class... MSDN is no help 

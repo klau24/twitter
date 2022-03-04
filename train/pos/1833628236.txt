@@ -1,0 +1,1 @@
+@jsuplido Yup, but that's the whole point.  The key is to make sure it's running at a lower priority to give up CPU as needed.  

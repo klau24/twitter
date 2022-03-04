@@ -1,0 +1,1 @@
+MSTR made me setup a 32-bit env which I could only use for hadoop install 

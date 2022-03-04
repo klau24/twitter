@@ -1,0 +1,1 @@
+@squaccs don't put openoffice on your mac, everything else will grind to a halt... personal experience with it is bad... #slow #java #jdk 

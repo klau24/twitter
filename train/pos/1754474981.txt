@@ -1,0 +1,1 @@
+@winstonyw Bit shift operator? It's in Ruby, C, C++ and Java too and probably lots of other languages, especially the C-based ones 

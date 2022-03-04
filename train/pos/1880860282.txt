@@ -1,0 +1,1 @@
+@kervich I've used NSXMLParser and NSURLRequest  before  Anyway, thx for the reference.

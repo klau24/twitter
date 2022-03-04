@@ -1,0 +1,1 @@
+@KendraKellogg yeah I realize that's what I need to do, but when I go through and redo the entire code, each div within bigall is closed 

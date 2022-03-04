@@ -1,0 +1,1 @@
+Benchmarking SSD &amp; FreeNAS: I've found the issue why read was slower than write... It was the network-switch 

@@ -1,0 +1,1 @@
+two silverlight apps each with their own webservice attached on one host, working one day now not working.  WCF setup is confusing me 

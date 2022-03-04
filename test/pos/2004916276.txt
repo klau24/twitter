@@ -1,0 +1,1 @@
+@wnas and what I meant was that clearfix is used by people who don't understand floats. 

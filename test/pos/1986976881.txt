@@ -1,0 +1,1 @@
+@CaroMcC It's not your # of tweets. It's number of server calls tweetdeck(?) has made to the twitter API for you 

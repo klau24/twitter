@@ -1,0 +1,1 @@
+Finally, i found out that it's the problem of jrails which set the accept header for each request,   Now i manage that myself.

@@ -1,0 +1,1 @@
+while MiniTest may be faster, it's even less extensible than Test::Unit 

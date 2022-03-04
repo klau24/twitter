@@ -1,0 +1,1 @@
+@tobias_a Quick question - does the app work in all browsers? Didn't seem to do much in Safari 

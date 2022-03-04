@@ -1,0 +1,1 @@
+@dpreacher wp.com hosted doesn't allow javascript in widgets and strips the review widget itself out. sorry  works in custom wp installs.

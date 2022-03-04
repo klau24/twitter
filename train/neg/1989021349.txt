@@ -1,0 +1,1 @@
+darn i can't seem to work out this jQuery modal window problem even after checkin out the possible solution 

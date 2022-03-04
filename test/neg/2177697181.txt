@@ -1,0 +1,1 @@
+Work going well. Got a web-app displaying the data and associations I want and fixed a bug in my mapping. Next is more XML 

@@ -1,0 +1,1 @@
+@SteveStreza @atebits Yes, menu bar icon ugly, and unnecessary. I'd like a preference to not show it. CMD-drag won't work. 

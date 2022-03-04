@@ -1,0 +1,1 @@
+@jorge the plugin package is bundled with !gnome-do .. not that i have a choice in the matter, its comes with the gnome-do package 

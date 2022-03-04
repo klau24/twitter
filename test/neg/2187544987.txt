@@ -1,0 +1,1 @@
+Tweetie is playing up  only gives one result for nearby,search, and trends. And then will not load the tweet profile. Should I switch app?

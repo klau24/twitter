@@ -1,0 +1,1 @@
+Latest tweetdeck doesn't seem to remember where you'd placed it on the screen. Always goes top left on startup.  #tweetdeck

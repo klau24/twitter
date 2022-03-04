@@ -1,0 +1,1 @@
+@b50 'ichat+jabber' should do just fine on the Mac. Gtalk is based on Jabber, an open IM standard - thus it just works 

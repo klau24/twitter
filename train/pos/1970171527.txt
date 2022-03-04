@@ -1,0 +1,1 @@
+Useful tip : you can easily change your gmail account by creating a new one and import your old gmail via pop3 

@@ -1,0 +1,1 @@
+... except that enabling tethering stops MMS from working 

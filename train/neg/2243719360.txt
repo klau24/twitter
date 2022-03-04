@@ -1,0 +1,1 @@
+@motocomm yeah i got a custom ipsw from the new pwnagetool but it wont work .. must wait for windows version 

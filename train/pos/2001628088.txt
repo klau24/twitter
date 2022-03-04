@@ -1,0 +1,1 @@
+Trying to get a root folder name with #Nintex workflow to add metadata to a document.. this seems more dev stuff than is good for me  

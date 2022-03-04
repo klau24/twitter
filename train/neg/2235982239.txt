@@ -1,0 +1,1 @@
+anyone know how to open files from Terminal in #coda and/or #espresso ? would be really useful. http://tr.im/p20E didn't work for me 

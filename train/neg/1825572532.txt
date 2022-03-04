@@ -1,0 +1,1 @@
+@leevigraham most browsers will accept an onclick on pretty much any element, except IE  putting it in a &lt;a&gt; tag will work on all browsers

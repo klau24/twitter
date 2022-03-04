@@ -1,0 +1,1 @@
+@phaus Very nice! Would you be open to release that as a sample code project? We would be interested to ship it with MacRuby itself 

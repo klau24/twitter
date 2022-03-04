@@ -1,0 +1,1 @@
+Making JS code from 2003 work on modern browsers == no fun 

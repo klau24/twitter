@@ -1,0 +1,1 @@
+@notahat Fair enough but a TimedObserver I can write in about 5 mins. Calendar widgets, progress meters, etc. I'd rather not write myself 

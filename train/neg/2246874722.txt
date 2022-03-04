@@ -1,0 +1,1 @@
+in a gemspec, I cannot specify a gem dependency for a specific version of rails (json for 1.8.6, but not 1.9). T/F? from docs suspect T 

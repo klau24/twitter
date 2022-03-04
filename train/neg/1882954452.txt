@@ -1,0 +1,1 @@
+Major problem with actionscript #fisix engine is its Vector class, which conflicts with FP10's top-level Vector class. 

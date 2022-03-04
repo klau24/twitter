@@ -1,0 +1,1 @@
+trying to install x64 oracle 10gR2 client on Win2003x64  any suggestions?

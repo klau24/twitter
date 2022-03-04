@@ -1,0 +1,1 @@
+@EvertB trying unsuccessfully to connect the xbox online through my ubuntu box but it keeps saying the nat type is strict 

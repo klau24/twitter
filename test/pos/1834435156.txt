@@ -1,0 +1,1 @@
+If anyone needs help with setting up Trac with mod_python let me know 

@@ -1,0 +1,1 @@
+iMovie Crap: The Event Name can't include &quot;/ . * ?&quot;  WTF? Is that Windows, or what? Shiny Cocoa World... where fragile Paths rule 

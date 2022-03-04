@@ -1,0 +1,1 @@
+Omg I'm still at work   Trying to do some mad optimizations on a T-Sql stored procedure cause it takes way to long to execute.

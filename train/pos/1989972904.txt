@@ -1,0 +1,1 @@
+Mannex uses the new Mercurial (DVCS) support from Google Code. Clone away.  http://bit.ly/YCGWS

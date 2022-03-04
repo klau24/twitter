@@ -1,0 +1,1 @@
+@twitterapi I reset my consumer keys and now I'm getting &quot;Failed to validate oauth signature and token&quot; with the new keys 

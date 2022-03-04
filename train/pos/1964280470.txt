@@ -1,0 +1,1 @@
+Rock on! Hacked a 'current issue' page in Drupal. Created pg w/ php code to get MAX year &amp; month for all issues and redirect to that pg. 

@@ -1,0 +1,1 @@
+@HilariousCow Yeah, but the only options for windows are xWMA, PCM, and ADPCM. xWMA doesn't work. 

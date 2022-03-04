@@ -1,0 +1,1 @@
+@shaf Can't you run another project? I have a quadcore machine, running WGC &amp; rosetta@home, because rosetta randomly stop giving out WU's 

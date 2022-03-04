@@ -1,0 +1,1 @@
+facebook connect logout bug in PHP library  Finally I found the problem and fixed it!  http://bit.ly/yYMLM

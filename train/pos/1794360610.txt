@@ -1,0 +1,1 @@
+And on the verge of the vSphere GA release we are configuring a 3.5U4 cluster 

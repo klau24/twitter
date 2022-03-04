@@ -1,0 +1,1 @@
+@stringerr Working out how to send the control keystrokes to screen was tricky too. probably will be an emergency only thing 

@@ -1,0 +1,1 @@
+Added a new Activity Updater Widget to the website using jQuery slide  you can now update your activity from any page. http://is.gd/QKoe

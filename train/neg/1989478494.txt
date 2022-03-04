@@ -1,0 +1,1 @@
+angry because TweetDeck stopped responding, so i ended it, and now it won't open but if i ctrl+alt+del, the exe is still running 

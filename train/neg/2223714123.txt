@@ -1,0 +1,1 @@
+@AdrianHiggs Have you had any issues with the URL shortener? - find it's not as good as in previous version, sometimes hangs 

@@ -1,0 +1,1 @@
+@mathiasx they're doing it wrong... a GUID should never change... submit it as a bug 

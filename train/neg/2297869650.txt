@@ -1,0 +1,1 @@
+Where are &quot;original&quot; .NET OSS projects like Hadoop/WEKA/Lucene/etc (not just ports)? Seems like they're all just Mock/Test/IoC frameworks 

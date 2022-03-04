@@ -1,0 +1,1 @@
+Firefox seems to have gone into a crash-loop  WTF am I supposed to do with it now?

@@ -1,0 +1,1 @@
+@andycroll You should try SQLBuddy, a beautiful alternative to PHPMyAdmin  http://www.sqlbuddy.com/

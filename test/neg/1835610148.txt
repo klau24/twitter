@@ -1,0 +1,1 @@
+Well... it works for sending tweets, but not to read them    Will be looking for new client

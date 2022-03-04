@@ -1,0 +1,1 @@
+@tothepc Thanks but the problem is, I want to save ONLY urls to text file (can use http://tinyurl.com/kmbok9) but manual work .. ah!! 

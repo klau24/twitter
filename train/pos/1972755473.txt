@@ -1,0 +1,1 @@
+@djangodash yes, thank you, all works like a charm! 

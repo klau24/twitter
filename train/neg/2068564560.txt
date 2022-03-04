@@ -1,0 +1,1 @@
+Everything fine and cool about using a Chromium browser alpha nightly build, but it keeps crashing on using the back button 

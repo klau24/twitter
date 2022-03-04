@@ -1,0 +1,1 @@
+So someone has hacked my main computer, put a password on system startup which i didn't even know was possible on a tripartitioned mac 

@@ -1,0 +1,1 @@
+parallels and xp install for testing css browser issues 

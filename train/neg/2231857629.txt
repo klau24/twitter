@@ -1,0 +1,1 @@
+@smtibor : seems the yahoo-based iCal's aren't bringing data into the iphone calendar 

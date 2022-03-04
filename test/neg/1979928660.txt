@@ -1,0 +1,1 @@
+Dreamhost, Trac, one-click install: index.fcgi is missing, never got confirmation e-mail. I already got excited 

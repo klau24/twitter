@@ -1,0 +1,1 @@
+I noticed my little WiFi signal scouting app crashes under iPhone OS 3.0.  

@@ -1,0 +1,1 @@
+ARGH at you PHP and MYSQL calendars! I just want to be able to modify msg_time 

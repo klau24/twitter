@@ -1,0 +1,1 @@
+Exercises in futility #2346: Trying to load a retrotranslated JAXB2 client into an Oracle 10g DB JVM (1.4). Pah 

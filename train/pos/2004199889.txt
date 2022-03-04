@@ -1,0 +1,1 @@
+Pro tip, grubs menu.lst is 0 indexed, and the next selection down is probably recovery mode.. the mystery of recovery mode boot is solved 

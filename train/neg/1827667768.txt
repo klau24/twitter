@@ -1,0 +1,1 @@
+A disappointment in my new GPS logger M-241, I couldn't get it to log speed for the route. Turns out  speed logging is not available 

@@ -1,0 +1,1 @@
+@soggydave Javascript JavaBans style amazon API calls not possible now   They need your &quot;secret&quot; API key too so sign each request

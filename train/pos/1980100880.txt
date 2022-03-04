@@ -1,0 +1,1 @@
+Found a bug in Word  in Review mode, if you delete a character from a new page - Word freezes, not knowing if to display the page or not.

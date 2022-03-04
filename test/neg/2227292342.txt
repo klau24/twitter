@@ -1,0 +1,1 @@
+@AlethaMcManama I'm having issues upgrading to WP 2.8 - click update automatically and it errors  What do I do

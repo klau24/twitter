@@ -1,0 +1,1 @@
+Dear Lazy Web, unrecoverable error (vmx) re scsi NOT_IMPLEMENTED on ESX 3.5.0. Anyone ? PLEASE 

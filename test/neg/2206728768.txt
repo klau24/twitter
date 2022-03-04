@@ -1,0 +1,1 @@
+Why does my WPF application keeps crashing on my fresh installed Windows XP virtual PC 

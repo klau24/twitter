@@ -1,0 +1,1 @@
+@askseesmic The clear button doesn't work on detatched userlists 

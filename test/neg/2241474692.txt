@@ -1,0 +1,1 @@
+have u every created an elaborate query from the master database, forget to set the limiter and execute, ARGH....3.8 mil records &amp; cnting 

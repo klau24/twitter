@@ -1,0 +1,1 @@
+@GenDraftComic @dannyson1 He doesnt have the right timedate stamp inside the &lt;pubdate&gt; &lt;/pubdate&gt; itself 

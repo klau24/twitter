@@ -1,0 +1,1 @@
+@chicagokarl Yes Contiki is pure C. Also does low-power routing, shell, telnetd, httpd, etc., can even post to twitter  http://is.gd/CkR1

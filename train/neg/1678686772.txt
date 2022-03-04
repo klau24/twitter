@@ -1,0 +1,1 @@
+Seeing &quot;The device, \Device\Harddisk0\DR0, has a bad block.&quot; errors in my Laptop hard-disk. Not good. Time to backup the entire disk. 

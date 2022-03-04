@@ -1,0 +1,1 @@
+Can't properly access webct material through @opera browser either. Looks like it's time to search for a new browser again 

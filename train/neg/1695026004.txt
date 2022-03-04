@@ -1,0 +1,1 @@
+writing the most stupid invalid #HTML 4.0 to satisfy #iTextSharp HTML Parser - This deserves a blog post, another pending  to-do/to-blog 

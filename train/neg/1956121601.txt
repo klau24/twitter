@@ -1,0 +1,1 @@
+'s Internet connection just went out momentarily?�?mere minutes from the ping in my shell's icmp_seq rolling over 

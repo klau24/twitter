@@ -1,0 +1,1 @@
+@CreativeWolf do you have another usb stick lying around ? if so try that to boot off ? else Ubootn can d/l the iso 

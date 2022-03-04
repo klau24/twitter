@@ -1,0 +1,1 @@
+@texantiff upload folder containing theme files into the themes directory, then go into WP to the themes section, click it to install 

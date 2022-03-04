@@ -1,0 +1,1 @@
+Extbase and Fluid are on the #typo3 core list now 

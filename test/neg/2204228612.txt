@@ -1,0 +1,1 @@
+Playing with #groovy! Writing groovy tests for maven projects works fine. But the #testng #ecipse plugin does not execute them! 

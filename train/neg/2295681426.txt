@@ -1,0 +1,1 @@
+trying another client, Witty, allows filtering tweets by keyword OR regular expression!  no multi-column view though   (windows only)

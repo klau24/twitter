@@ -1,0 +1,1 @@
+Beginning to think Airport base stations are plain buggy. Both Extreme and Express are munging a TSIG key pair that works fine with OS X. 

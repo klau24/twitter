@@ -1,0 +1,1 @@
+@danlev I only know about extracting both comments and posts.  Maybe search the wordpress plug in page

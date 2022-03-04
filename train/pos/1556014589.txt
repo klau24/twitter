@@ -1,0 +1,1 @@
+Coding with SS7 stacks for the HITB conference in Dubai next week. Real ss7 &amp; SIGTRAN test bed demo coming 

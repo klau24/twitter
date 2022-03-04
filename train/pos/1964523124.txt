@@ -1,0 +1,1 @@
+(@ericholscher) Note to self: Ctrl-D = Page Up, Ctrl+B = Page down (In vim, and komodo with Vim keybindings 

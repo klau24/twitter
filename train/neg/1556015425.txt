@@ -1,0 +1,1 @@
+yeah...turns out the graphics card on my old laptop doesn't support open gl 1.4 which is a Boxee requirement.  All that for nothing 

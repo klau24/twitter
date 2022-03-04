@@ -1,0 +1,1 @@
+@bobmorse the same question in another light: why do we still care to develop sites to be IE6 compatible. Both things make me sad 

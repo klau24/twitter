@@ -1,0 +1,1 @@
+more tidying up of http://www.beyondbasscamp.com/ getting the booking details and dates nice 'n' clear 

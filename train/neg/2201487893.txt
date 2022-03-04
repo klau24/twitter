@@ -1,0 +1,1 @@
+@MalloryDuVal how doni get ustream to see the USB can? It only picks up the built in cam 

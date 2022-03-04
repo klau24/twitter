@@ -1,0 +1,1 @@
+@weyandch ne, mit compat10. aber auch das tuts nicht  #upgrade-hell #symfony

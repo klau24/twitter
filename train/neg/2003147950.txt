@@ -1,0 +1,1 @@
+ESX hosts in a DMZ environment + bloody minded network admins + crappy customer infrastructure = waste of the rest of my week 

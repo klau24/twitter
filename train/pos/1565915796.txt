@@ -1,0 +1,1 @@
+@Sire_TRM I now have it set to check every hour for new tweets. 

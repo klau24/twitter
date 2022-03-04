@@ -1,0 +1,1 @@
+MySQL install went awry  error 1045. I'm stuck.

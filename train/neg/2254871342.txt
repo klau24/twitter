@@ -1,0 +1,1 @@
+@smashingmag first thing i notice is in the picture, they are defining ISBN has CHAR(13) and not VARCHAR  what about ISBN11 ?!

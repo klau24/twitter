@@ -1,0 +1,1 @@
+@rsyncpalace Like the new design, however the login box on the front page (using right details) returns invalid login credentials error 

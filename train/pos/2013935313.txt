@@ -1,0 +1,1 @@
+@gsmbk If those two are in sequence, there's no logical problem. &quot;AND&quot; is an insufficient operator. 2 clauses need time comparison. 

@@ -1,0 +1,1 @@
+old DVI-&gt;component  adapter doesn't chain with mini display port-&gt;DVI. Tried bending contacts. Didn't work. #modfail http://bit.ly/mxYLU 

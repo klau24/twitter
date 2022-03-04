@@ -1,0 +1,1 @@
+Radio buttons in IE6 are spraying bits of text at random spots on the page. IE sucks. 

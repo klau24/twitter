@@ -1,0 +1,1 @@
+@lokkju (regarding XSS...&quot;valuable attack tool on sites which use accounts&quot;...), true, he's shown the same issues on many banking sites 

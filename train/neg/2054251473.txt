@@ -1,0 +1,1 @@
+Downloaded #windows Vista SP2 (crap crap crap) yesterday but failed to apply it to my existing Vistas; ERROR_NOT_FOUND (0x80070490) 

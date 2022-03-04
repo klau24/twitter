@@ -1,0 +1,1 @@
+Linux Mint is slick. EZ compiz. Hassle on install(compat mode THEN detect GFX card).  Air installer segfaults, can't install Twitter apps 

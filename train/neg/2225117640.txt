@@ -1,0 +1,1 @@
+Ok the backend stuff is in place. About to start the design for album listing, photo listing &amp; photo view 

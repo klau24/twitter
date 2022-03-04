@@ -1,0 +1,1 @@
+Replacing an IBM AIX server, making an INFORMIX BACKUP in the old one, then upload the backup to the new one...Yeah I know its SUNDAY  

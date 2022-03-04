@@ -1,0 +1,1 @@
+Loaded 4.5 kloc XAML file in VS2008. Cursor stopped blinking 10s after first keystroke. Resharper memory usage incr. to 680MB. VS crashed 

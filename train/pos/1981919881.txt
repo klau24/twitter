@@ -1,0 +1,1 @@
+@hostelmana we are working on an update to the Viigo bar that will take less screen estate and will allow you to hide it optionally 

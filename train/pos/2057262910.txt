@@ -1,0 +1,1 @@
+I have managed to overcome the ordeal of installing the correct drivers for my wireless card in Ubuntu 64 bit Jaunty 

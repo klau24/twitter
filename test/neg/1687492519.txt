@@ -1,0 +1,1 @@
+Any suggestion for light weight editor for PHP, JS, CSS with intellisense, syntax highlighting and SFTP support? Aptana is kinda heavy 

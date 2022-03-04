@@ -1,0 +1,1 @@
+@Kam  ... also they have decided to dump NHibernate whilst I was away ... damit all that hair pulling for no reason!

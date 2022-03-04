@@ -1,0 +1,1 @@
+Hmm, CSSEdit documentation says Go to Line should be &quot;Apple+L&quot; but then I get the preview windows instead  Anyone who can help? #CSSEdit

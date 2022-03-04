@@ -1,0 +1,1 @@
+umbraco cant empty my recycle bin...Deleting one by one with own C# code 

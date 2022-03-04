@@ -1,0 +1,1 @@
+I wish AMD would move to LGA rather than using pins, it's harder to kill a mobo than bend cpu pins 

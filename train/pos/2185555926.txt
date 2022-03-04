@@ -1,0 +1,1 @@
+@TweetDeck might v0.26 include &quot;Check for updates&quot; feature from w/in the API? ... eh? ... eh? 

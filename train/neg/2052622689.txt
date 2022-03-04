@@ -1,0 +1,1 @@
+How do I edit the index.php template on #WordPress 2.7.1? I searched for ten minutes, but can't find the template editor anymore  #fb

@@ -1,0 +1,1 @@
+@akesterson Or the usual GCC &quot;You did something really dumb, but fuck it, I'm gonna let you do it anyway&quot; response. I hate segfaults. 

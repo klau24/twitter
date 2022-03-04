@@ -1,0 +1,1 @@
+urgently (&quot;do this yesterday!&quot;) copy/pasted 150+ printers into db... actually AutoIt did  *happy*

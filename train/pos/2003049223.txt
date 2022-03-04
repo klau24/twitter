@@ -1,0 +1,1 @@
+@AdamDempsey I drop a image to a container and need a script that can add watermark to that image. Yes, I'm a Mac 

@@ -1,0 +1,1 @@
+In maven talk at #javaone, with John Fergusson Smart - I think he's got m2eclipse in his demo!  Sweet maybe it's finally ready? 

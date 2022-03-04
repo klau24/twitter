@@ -1,0 +1,1 @@
+Fitting Cu EPR signals with easyspin...it's killing my laptop 

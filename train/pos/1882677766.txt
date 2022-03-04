@@ -1,0 +1,1 @@
+@mtc06 Can you tell that I'm sick of Java?  Don't even get me started on the lack of chaining, operator overloading and closures.

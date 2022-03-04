@@ -1,0 +1,1 @@
+@ianfnelson Exactly the same reason why I went with Windsor.. Silverlight 3 looks awesome, but at this point, I won't be using it 

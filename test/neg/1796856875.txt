@@ -1,0 +1,1 @@
+@montemplar   Raid 0 - the king of dataloss.

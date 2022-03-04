@@ -1,0 +1,1 @@
+@rbates Tell me about it. Even simple stuff. Tutoring someone in Ruby. Oh, install XCode. Oh, upgrade RubyGems. /Now/ you can run Sinatra 

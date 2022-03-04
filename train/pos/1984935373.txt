@@ -1,0 +1,1 @@
+Hmm. Code works 100%. But the way I intended it, it should have crashed with that last test run.  Darn, now I need to know why it works!

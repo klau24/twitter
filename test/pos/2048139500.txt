@@ -1,0 +1,1 @@
+While web2py downloads off bzr, Android 1.5 has an update. Hope it doesn't break the phone  #g1

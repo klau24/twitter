@@ -1,0 +1,1 @@
+Linus on Linux 0.01: It is NOT portable and it probably never will support anything other than AT-harddisks, as that's all I have 

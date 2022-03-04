@@ -1,0 +1,1 @@
+@alfgoetz That's a great suggestion! Unfortunately, I've found that it's a bit buggy. Pinch zooming in js repeatedly locked up my iPhone 

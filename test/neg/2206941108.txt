@@ -1,0 +1,1 @@
+www.adiumxtras.com -&gt; Table './adiumx_data/xtras' is marked as crashed and should be repaired 

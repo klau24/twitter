@@ -1,0 +1,1 @@
+Still working on QuickIndex 3, using Delphi. Was needed to refactor a lot of part of my code 

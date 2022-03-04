@@ -1,0 +1,1 @@
+I *finally* fixed the email sending from my phone. It would be much easier for me to send stuff from my phone via email now. 

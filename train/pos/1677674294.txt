@@ -1,0 +1,1 @@
+My &quot;line following&quot; robot actually follows lines, yay! Only two light sensors and simple algorithm but it works 

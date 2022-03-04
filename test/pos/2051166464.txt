@@ -1,0 +1,1 @@
+@jballanc So, in 1.8 and 1.9 this expression returns 42, in MacRuby we return the X object. Will be hard to support the 1.8/1.9 way 

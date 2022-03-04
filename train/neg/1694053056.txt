@@ -1,0 +1,1 @@
+@shuuro I tried tweetphoto but could not upload photos via web (Internet Explorer and Firefox).  Got an &quot;incorrect MIME type&quot; error. 

@@ -1,0 +1,1 @@
+@wimleers I remember having that epiphany  It gets even worse once you've experimented with Smalltalk/Squeak: http://bit.ly/VrvBt

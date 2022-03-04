@@ -1,0 +1,1 @@
+Blah, why is SCOM discovering domain controllers but not member servers? I have the right management packs...I think.  #scom07 #scom

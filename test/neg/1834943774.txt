@@ -1,0 +1,1 @@
+Lunch hour distraction: Sorting out the mess created by migrating an old VB project to vs 2008. Got the app to build, setup still a mess. 

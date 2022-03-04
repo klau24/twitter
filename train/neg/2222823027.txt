@@ -1,0 +1,1 @@
+#Titanium developer beta 4.3 wont launch in #ubuntu 64  alpha 3 did.

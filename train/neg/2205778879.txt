@@ -1,0 +1,1 @@
+In a mess, I now how 2 get copy of files from server using SVN but wht abt CVS?  Installed CVS on Ubuntu, but still 2 learn how 2 use it 

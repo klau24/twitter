@@ -1,0 +1,1 @@
+Well this is interesting. It seems that the PS3 version of the MadCatz sticks do not work on usb ports powered by nVidia/ATI chipsets yet 

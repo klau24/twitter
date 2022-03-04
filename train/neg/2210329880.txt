@@ -1,0 +1,1 @@
+Persistant Sinknet disconnection keeps interrupting my firmware downloads  gonna sleep and get them while in the office tmr

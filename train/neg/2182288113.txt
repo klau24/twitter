@@ -1,0 +1,1 @@
+case of the mundays. fixed a _simple_ bug but testing it lead me down a rabbit hole 

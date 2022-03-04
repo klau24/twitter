@@ -1,0 +1,1 @@
+@RickStrahl tell us how you really feel  re: going back/forth between SQL compact/full, do you mean data migration, and/or something else?

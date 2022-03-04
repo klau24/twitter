@@ -1,0 +1,1 @@
+@symantecnews HEY! I'm missing my job log tab when I go to my jobs.  I'm using Backup Exec 12.5  HELP please

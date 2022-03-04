@@ -1,0 +1,1 @@
+@mynameisgoku can't personalize messages for FB and Myspace without Java. If we add java to the links, they get stripped out by ESPs 

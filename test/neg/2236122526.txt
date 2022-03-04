@@ -1,0 +1,1 @@
+facebook application search doesn't work correctly. runs since 30 minutes 

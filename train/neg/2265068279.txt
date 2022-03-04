@@ -1,0 +1,1 @@
+@Mr_Soft yes, I had worked out gallons per lap rather than laps per gallon (or the other way round) and this screwed it up 

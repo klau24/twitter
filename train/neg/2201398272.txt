@@ -1,0 +1,1 @@
+is sad that Firefox 3.5 RC1 currently only supports OGV, not MP4.  Hopefully the final version can decode MP4 video.

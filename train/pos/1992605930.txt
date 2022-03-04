@@ -1,0 +1,1 @@
+starting a project in NetBeans  .. so far, it's great to use Visual tools .. though plain programming is more fun ;)

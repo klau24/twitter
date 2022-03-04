@@ -1,0 +1,1 @@
+There's a lot of cool stuff (not just eye candy) that depends on having the X Composite extension -- but NX doesn't have it 

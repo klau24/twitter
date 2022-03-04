@@ -1,0 +1,1 @@
+http://bit.ly/8GU6n: NOT WORKING, get error message: iTunes was unable to load data class info serv from sync services 

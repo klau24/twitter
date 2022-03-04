@@ -1,0 +1,1 @@
+No way around it. Seems I'll have to roll my own WebDAV server, as I can't find any open source Cocoa code. 

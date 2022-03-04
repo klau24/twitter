@@ -1,0 +1,1 @@
+@dh_patrickm my dreamhost wordpress installs again report 500 and 503 errors 

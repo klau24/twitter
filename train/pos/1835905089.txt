@@ -1,0 +1,1 @@
+#gr8conf &quot;smart configuration&quot; is basically replacing XML by groovy. FTW!  (via @oliverwi)

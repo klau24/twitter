@@ -1,0 +1,1 @@
+@amitsaha: Sorry, that didn't do the trick either. It seems that the Flash plugin can't cope with multiple microphone channels 

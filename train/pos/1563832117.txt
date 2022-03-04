@@ -1,0 +1,1 @@
+debian lenny + git + gitosis + nvidia 180.44 drivers. it's awesome. 

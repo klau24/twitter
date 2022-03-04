@@ -1,0 +1,1 @@
+Gah, installing Adobe AIR on Fedora 10 is a bitch. &quot;yum whatprovides&quot; is your friend and it still doesn't work 

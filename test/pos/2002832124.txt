@@ -1,0 +1,1 @@
+@ascordellis A commit button, with configurable permissions (who can edit vs who can commit) would be good. 

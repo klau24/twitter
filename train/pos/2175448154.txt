@@ -1,0 +1,1 @@
+working on a max/msp step sequencer to be used in ableton 7 through pluggo so that i can control battery with my touchOSC on my iphone. 

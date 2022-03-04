@@ -1,0 +1,1 @@
+@Regolio dia butuh install Adobe AIR, dan yah, you WILL need it, provided that you have Windows, tho 

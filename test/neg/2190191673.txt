@@ -1,0 +1,1 @@
+Why is my dojo build not properly interning the locale stuff i set via localeList? 

@@ -1,0 +1,1 @@
+ok, alert for IE6 users is fixed. sorry peeps. I'm sick of IE6. the flickr badge makes my code invalid, have to take a look at that later 

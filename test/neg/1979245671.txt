@@ -1,0 +1,1 @@
+@dogcow smcfan control also says left fan 0rpm. need to run the hardware test on my mbp disc I thinks. disc is in VIC, me in QLD 

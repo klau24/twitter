@@ -1,0 +1,1 @@
+@neethiisaac google web toolkit. good way to code Ajax, just code in java and it converts it to javascript. not sure if you know the diff 

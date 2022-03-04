@@ -1,0 +1,1 @@
+@Ferreira firefox is taking up core 0 all the time, but the room is fresh and the CPU is at minimum speed shouldn't be this hot imho 

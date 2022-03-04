@@ -1,0 +1,1 @@
+Test failing due to text encoding of a copyright symbol. That took too long to find 

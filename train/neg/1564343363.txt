@@ -1,0 +1,1 @@
+Why is Lotus Notes so crap? Why is AVG playing havoc with Thunderbird? Why does WebSphere heapdump to the point of exhausting disk space? 

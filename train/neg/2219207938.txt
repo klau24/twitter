@@ -1,0 +1,1 @@
+Computer boots into Safe Mode, but shuts off when try to boot normally. -_- idk what is going on. 

@@ -1,0 +1,1 @@
+I've upgraded Hogo to Rails 2.3.2 now I'm having a pint of Polish Zubr as a reward 

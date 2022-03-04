@@ -1,0 +1,1 @@
+@BertHB thanks! related: with the power of SharpSVN we made this http://code.google.com/p/svnrevtoassemblyinfo u might like to hear 

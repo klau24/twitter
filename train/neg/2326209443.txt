@@ -1,0 +1,1 @@
+@CocoaGeek Huh? What's the point of a C64 emulator that doesn't emulate one of it's defining features? (The BASIC interpreter). 

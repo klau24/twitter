@@ -1,0 +1,1 @@
+There's a problem in one of the weight files, so now I have to decode vertex weights again, all by hand  urg

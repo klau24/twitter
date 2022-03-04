@@ -1,0 +1,1 @@
+Think I may have found the issue with my Hadoop Secondary Sort Map Reduce - its in my Grouping Comparator for the binary compare 

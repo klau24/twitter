@@ -1,0 +1,1 @@
+Fortunately, each frame is rendered to disk so assuming Vista boots back up and doesn't BSOD on the way, I can start from the last frame 

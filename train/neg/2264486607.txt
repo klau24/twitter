@@ -1,0 +1,1 @@
+@GavinOsborn Had #vs2008 first then put #SQL2008 express. Did it on one go. No errors. Don't ever attempt to install #SQL2008 via WebPI. 

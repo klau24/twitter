@@ -1,0 +1,1 @@
+@newsarse Since adding Google Ads the newsarse site doesn't render correctly on iPhone. The Ads wrap and overlap the main text. 

@@ -1,0 +1,1 @@
+@notetoself: Don't set max CPC in Adwords to £15 instead of £0.15 

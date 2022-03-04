@@ -1,0 +1,1 @@
+@PinchHost your phpMyAdmin page is incredibly slow 

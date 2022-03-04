@@ -1,0 +1,1 @@
+@wheelyweb thanks for the help but it won't owerup for more than 1 sec. I reset the Pmu which can fix power issues but not this time 

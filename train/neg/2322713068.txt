@@ -1,0 +1,1 @@
+Codec drama solved. QT and FrontRow play all files gorgeously with no dropped frames. XBMC/Boxee not nearly as well. 

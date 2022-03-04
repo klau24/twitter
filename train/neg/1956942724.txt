@@ -1,0 +1,1 @@
+@kencamp Skype final version will have chat over network and voice ONLY over wifi. Carrier's rules 

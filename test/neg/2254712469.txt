@@ -1,0 +1,1 @@
+It seems dumb to not have a 'concede' option in #dotp multiplayer yet to count wins.  Need 1 more win for achievement but opponent quit 

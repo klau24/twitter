@@ -1,0 +1,1 @@
+@beriberikix You can actually run Umbraco from a USB stick using VistaDB and Cassini web server 

@@ -1,0 +1,1 @@
+Free cross-browser/cross-platform testing with https://browserlab.adobe.com/ . Unfortunately couldn't register 

@@ -1,0 +1,1 @@
+rolling back to Grails 1.1. The 1.1.1 release breaks two of my integration tests where I am testing transactional services 

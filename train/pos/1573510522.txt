@@ -1,0 +1,1 @@
+@abishadh VLC can 'stream' video over LAN. Dunno about conferencing. Wanna test it on BP's network? 

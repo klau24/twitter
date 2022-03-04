@@ -1,0 +1,1 @@
+Installing JDK 6 update 14... But I can't use the G1 Garbage Collector because I'm not a Sun support suscriptor 

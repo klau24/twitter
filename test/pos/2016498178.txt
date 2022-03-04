@@ -1,0 +1,1 @@
+@msamson code my own SharePoint RSS viewer web part to work with auth feeds? Hehe no thanks, and no need, testing other RSS webparts 

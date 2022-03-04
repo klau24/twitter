@@ -1,0 +1,1 @@
+@scott_gonzalez the google ajax libs hosting actually only caches for 1 day  it caches much longer if you do the google.load('jquery') tho

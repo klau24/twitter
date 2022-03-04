@@ -1,0 +1,1 @@
+At last - Wordpress 2.7.0 is online and all databases migrated. Holy shit this took me ages. The update to 2.7.1 is still not working 

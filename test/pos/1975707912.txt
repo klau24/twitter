@@ -1,0 +1,1 @@
+@mixero after a couple of crashes seems to work fine on a  old hp notebook running ubuntu 

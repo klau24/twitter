@@ -1,0 +1,1 @@
+Having to work with Visual Studio 6 - not like I remembered it at all. It's gone all slow and using up most of my CPU 

@@ -1,0 +1,1 @@
+FINALLY got around to releasing Pretty Smarties ( Pretty URLs + Smarty ) - http://url.timcinel.com/h - It's GNU GPL 

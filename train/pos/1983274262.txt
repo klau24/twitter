@@ -1,0 +1,1 @@
+enabling es-CL, es-MX, hr, kk, rm, vi locales on mozilla.com now 

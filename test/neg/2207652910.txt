@@ -1,0 +1,1 @@
+@shauninman any reason why I can't enter my internal-db.sxxxxxx.gridserver.com address for the db server? can't connect to db server. 

@@ -1,0 +1,1 @@
+TF2: Added &quot;sv_allow_voice_from_file&quot; can prevent clients from using the &quot;voice_inputfromfile&quot; feature to broadcast wav files over voice 

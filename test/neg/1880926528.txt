@@ -1,0 +1,1 @@
+.@fjkinnit oh it's a problem with Adobe Air. the settings are set to not connect to internet, so it's fucked!! i've reinstalled heaps 

@@ -1,0 +1,1 @@
+Did I mention that Selenium is now 1.0? Better get cracking with 2.0 now  http://seleniumhq.org

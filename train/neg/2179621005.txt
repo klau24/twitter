@@ -1,0 +1,1 @@
+@jackmcdade Cufon uses html canvas, which can't be inside a button or input 

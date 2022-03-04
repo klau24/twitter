@@ -1,0 +1,1 @@
+@entrepranu  You need a box you have ssh access to.. then you can wget straight to the box.. much easier! or use a host with fantastico!

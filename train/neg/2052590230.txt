@@ -1,0 +1,1 @@
+/me is disappointed - JavaFX is not really opensourced  ... I guess I won't give it a try, I can as well use Flash.

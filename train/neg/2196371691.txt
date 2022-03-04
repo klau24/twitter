@@ -1,0 +1,1 @@
+New Labs Blog - Using JavaScriptCore as the QtScript Back-end http://ow.ly/eq6H (via @qtsoftware)  // about 3 months too late 

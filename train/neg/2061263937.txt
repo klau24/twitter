@@ -1,0 +1,1 @@
+@contrapuntist not yet  there are (atom) feeds for nearly every collection in twine that if you have a &quot;feed&quot; widget it should be compat

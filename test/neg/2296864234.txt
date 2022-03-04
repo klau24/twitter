@@ -1,0 +1,1 @@
+@benzado Just tried it and Xcode sits at 'Waiting for Device'.  I'll give iTunes 7 a try later and hope that works.

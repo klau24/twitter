@@ -1,0 +1,1 @@
+Trying to get tethering working with my #iPhone via USB to #Debian lenny...  any hints?

@@ -1,0 +1,1 @@
+#Dubai how many Twitter users in Media City? Lets count. (usage: #dmctweetcount: number)  #dmctweetcount: 1 

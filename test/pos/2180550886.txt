@@ -1,0 +1,1 @@
+@iMandarinPod bt cn u do this in 中文?  Interestingly 中文 is actually 6 bytes in UTF8 bt it cms twitter cnts chars nt bytes 

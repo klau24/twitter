@@ -1,0 +1,1 @@
+Fixed an annoying bug exhibited by IE in our CMS. Yay 

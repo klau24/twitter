@@ -1,0 +1,1 @@
+@beansbaxter Been using Splitweet, will look at Tweetie. And yeah, a couple of things aren't working quite right since my 10.5.7 update 

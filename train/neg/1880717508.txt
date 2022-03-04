@@ -1,0 +1,1 @@
+Google, my employer, doesn't allow me to release my developed-in-my-free-time Android application unless I open source it.  Oh well.

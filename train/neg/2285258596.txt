@@ -1,0 +1,1 @@
+@SkypeHelp my skype doesn't start up. The icon appears in the taskbar, but when I mouse over it, it disappears. I have 1 anti-virus: AVG. 

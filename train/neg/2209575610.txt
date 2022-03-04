@@ -1,0 +1,1 @@
+After Twitter maintenance, my Firefox extension (Twitbin) seem to be broken. 

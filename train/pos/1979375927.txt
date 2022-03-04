@@ -1,0 +1,1 @@
+@LizNix If you want to see your php pages, you would need to install a php server onto your computer.       http://bit.ly/TwqU1

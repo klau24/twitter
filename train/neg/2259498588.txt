@@ -1,0 +1,1 @@
+my bad... i didn't supply power to all the power pins... schematic looked fine, but in reality, pin 13 went 'nowhere'. 

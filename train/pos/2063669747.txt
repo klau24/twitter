@@ -1,0 +1,1 @@
+@Habbie all i want is rounded corners - jquery-corner plugins fail for me on some browsers, so IE and Opera users will have to do without 

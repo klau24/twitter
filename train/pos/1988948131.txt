@@ -1,0 +1,1 @@
+@LaTtEX It's going to be a lot more fun once I start dynamically adding methods in C# 4.0 and using the dynamic keyword 

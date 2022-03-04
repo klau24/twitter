@@ -1,0 +1,1 @@
+OK if FxCop displays a message in an assembly, and you add the SuppressMessage in a totally different assembly, the message won't go away 

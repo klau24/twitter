@@ -1,0 +1,1 @@
+@eranevenkesef No problem.  As for your ubuntu question, you can't use gparted to resize Windows paritions, use the windows tool or PM!

@@ -1,0 +1,1 @@
+@pypants what will you do with the konami jquery plugin?  #djangodash

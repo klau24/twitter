@@ -1,0 +1,1 @@
+Awesome! Backup&amp;Migrate module for #Drupal can run as a cron job and backup automatically at set intervals on webserver  &lt;-yes I is geek.

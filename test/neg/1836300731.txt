@@ -1,0 +1,1 @@
+using #rails and #firebird is so cool, too bad rake db:create does not work though 

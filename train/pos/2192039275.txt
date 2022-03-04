@@ -1,0 +1,1 @@
+@JeremySkinner Ohh I see that now  My previous problem was fixed by simply changing the RenderHeader method to not check for empty data.

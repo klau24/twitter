@@ -1,0 +1,1 @@
+Wish IES4Linux emulated IE7 properly. Opens, but doesn't load any website 

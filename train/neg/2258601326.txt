@@ -1,0 +1,1 @@
+Tweetdeck has been crashing at least once an hour ever since I updated to 0.26.  @TweetDeck

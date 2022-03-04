@@ -1,0 +1,1 @@
+@jaredwsmith I'm using a custom tumblr theme right now that I didn't write. I can't find where I need to include the Disqus stuff. 

@@ -1,0 +1,1 @@
+Address book backup from 3.0 Beta 5 doesn't work in Official 3.0. 

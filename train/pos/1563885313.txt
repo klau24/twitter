@@ -1,0 +1,1 @@
+@mschaffel 5, REM &quot;My Program by M Schaffel&quot; ,10 PRINT &quot;Hello Gadget Show&quot;, 20 GOTO 10.    

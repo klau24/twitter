@@ -1,0 +1,1 @@
+IE7 bug fixing on a saturday afternoon  Can anyone help with this neg margin floating bug? http://gist.github.com/105450

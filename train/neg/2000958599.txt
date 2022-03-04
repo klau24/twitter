@@ -1,0 +1,1 @@
+twitters caching is not perfect, displays new direct message status as &quot;1&quot;, even after i read/deleted it 

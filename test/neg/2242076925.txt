@@ -1,0 +1,1 @@
+Note to self: save local copies of your spec, incase sharepoint server goes down while you are syncing and corrupts your file.  #fb

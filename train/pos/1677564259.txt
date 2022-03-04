@@ -1,0 +1,1 @@
+just started learning 'Cocoa with Objective-C' (AIM = to learn the basics before xmas)... my first 'app' works!  its nothing special! 

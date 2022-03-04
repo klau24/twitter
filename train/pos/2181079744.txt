@@ -1,0 +1,1 @@
+@cswingler I like C# a lot but I dislike ASP.NET quite a bit. I haven't found a web framework that I can get excited about. Maybe Tomcat? 

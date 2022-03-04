@@ -1,0 +1,1 @@
+@minispalla been setting up a library management system, setting up a jabber server, setting up a custom ubuntu for the students laptop 

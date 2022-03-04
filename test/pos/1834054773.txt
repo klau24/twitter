@@ -1,0 +1,1 @@
+@MikeOrmond Wooo - finally confirmation that it's a setup and not a VHD.  Have my Win RC x64 VM ready and waiting 

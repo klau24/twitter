@@ -1,0 +1,1 @@
+@lavernesoh You should be using a Twitter client to tweet, not the web. Clients will auto refresh every n minutes 

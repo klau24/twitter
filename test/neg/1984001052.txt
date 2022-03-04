@@ -1,0 +1,1 @@
+@Brad_Isaac Our portal is  built on top of Oracle Application Server. (Bad Choice ) We now can see whats wrong. Need a little more work  

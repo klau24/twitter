@@ -1,0 +1,1 @@
+hostees: please update yourselves to WP 2.8. if I have to update you, I will break your Japanese support. 

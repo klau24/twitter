@@ -1,0 +1,1 @@
+@technoweenie Nor will it display your webapp views without ridiculous reformatting into tables. Makes sending nice notices PAINful. 

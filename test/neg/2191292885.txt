@@ -1,0 +1,1 @@
+any tips for converting mrsid files from 16 bit to 8 bit? they are over 4GB so ArcGIS is out, and autocad 9 won't read 16 bit sids. 

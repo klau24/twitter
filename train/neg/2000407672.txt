@@ -1,0 +1,1 @@
+I want to start a new Objective-C/Cocoa project but I just don't have any good ideas right now 

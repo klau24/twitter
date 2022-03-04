@@ -1,0 +1,1 @@
+Just found out that opendns does not work with windows update. I have to look for another dns server 

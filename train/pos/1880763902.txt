@@ -1,0 +1,1 @@
+was trying to bind footer value in grid.Getting exception then came to know that one can only set footer after binding the grid 

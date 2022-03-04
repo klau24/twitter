@@ -1,0 +1,1 @@
+Win7 installed. Feels very zippy. But where is TweetDeck database? I can't get into User/../ApplicationData folder 

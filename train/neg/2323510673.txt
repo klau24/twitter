@@ -1,0 +1,1 @@
+Making an EditablePolygon for Google Maps for Flash. I wish this was already implemented on the API 

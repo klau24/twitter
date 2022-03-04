@@ -1,0 +1,1 @@
+Recipe for havoc: use some magic numbers, &quot;add&quot; some arithmetic, make inconsistent/incomplete changes to the code base ==&gt; done 

@@ -1,0 +1,1 @@
+Just finished installing a LAMP server, then I installed wordpress. This time I didnt have any problems 

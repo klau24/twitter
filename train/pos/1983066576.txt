@@ -1,0 +1,1 @@
+@adunk thanks. I have a few functions where the switch is critical and a driver or two with a duffs device that would be nice to keep 

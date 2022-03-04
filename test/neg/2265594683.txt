@@ -1,0 +1,1 @@
+hmmm.... no wonder flickr_fu is slow - it returns info on each image from a search - not what I wanted 

@@ -1,0 +1,1 @@
+Is resetting up tweetdeck after deleting it's cache files. It would start and just show a blank screen. 

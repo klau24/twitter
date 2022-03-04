@@ -1,0 +1,1 @@
+@maiki Part of my console report read: &quot;Error reading PCIE lane config. Unable to check PCIE slots for changes&quot; Genuis bar tomorrow 

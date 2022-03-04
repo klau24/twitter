@@ -1,0 +1,1 @@
+Is it Air or Tweetdeck that is borked? clicking links opens them in Safari instead of Firefox 

@@ -1,0 +1,1 @@
+@DrJosephWarren publisher requires word-compatible docs  if it were up to me i'd definitely be using emacs

@@ -1,0 +1,1 @@
+#fail Sad to say the code libraries are irreparable, even the backup was fried. Plan B will require recovery from live sites; take longer 

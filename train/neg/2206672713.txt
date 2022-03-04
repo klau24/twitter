@@ -1,0 +1,1 @@
+Sorry for the strip nav bar being broken. Nobody told me so I could fix them   I put in a temporary fix until I have a bit of time later.

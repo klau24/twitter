@@ -1,0 +1,1 @@
+Minor ticket panics aren't good. Found my Manics ticket for tonight though 

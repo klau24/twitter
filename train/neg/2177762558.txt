@@ -1,0 +1,1 @@
+@navn33t I did find twibble but it dusnt use the BIS service. Uses TCP. And there's no u/l data for TCP, from vodafone 

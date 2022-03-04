@@ -1,0 +1,1 @@
+@barndrama  Maybe try swapping out for different X11? Like the Darwin .app one? Random luck dip of what else might stop working in X11 tho

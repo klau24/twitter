@@ -1,0 +1,1 @@
+Most irritating: All the Excel formulas are different in the Dutch version of the program.  Want =SUM!  

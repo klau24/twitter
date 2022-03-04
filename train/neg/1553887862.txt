@@ -1,0 +1,1 @@
+@bluesmoon Good catch, didn't notice that. The \b regex shouldn't cause that to break 

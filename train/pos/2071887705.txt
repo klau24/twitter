@@ -1,0 +1,1 @@
+Jabber SSL certificates are valid to 2014 - so I did *something* right 

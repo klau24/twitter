@@ -1,0 +1,1 @@
+It's a shame that there doesn't seem to be anything as nice as TortoiseSVN for the mac 

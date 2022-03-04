@@ -1,0 +1,1 @@
+Writing Android code on a Eee 900 works surprisingly well... if you use a device. It, uh, doesn't handle the emulator well. 

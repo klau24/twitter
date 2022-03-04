@@ -1,0 +1,1 @@
+@cwiis you can now run Fedora 10 with yum at reasonable speed! 

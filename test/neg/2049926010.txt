@@ -1,0 +1,1 @@
+Protip: Firefox 3 eats about 500mb less RAM after clearing 3 months of history. My location bar is much less useful now though 

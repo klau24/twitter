@@ -1,0 +1,1 @@
+@DD32 nice work on the new WP_Upgrader class. still trying to wrap my head around it 

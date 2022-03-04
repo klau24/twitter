@@ -1,0 +1,1 @@
+@carlmasak I'd like to port Rx (rjbs.manxome.org/rx) to Perl 6 sometime this year, but right now I just can't follow the list.  Too busy! 

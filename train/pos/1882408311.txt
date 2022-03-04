@@ -1,0 +1,1 @@
+&quot;&lt;?php echo @++$i%2; ?&gt;&quot; who cares about readability? 

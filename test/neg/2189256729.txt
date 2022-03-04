@@ -1,0 +1,1 @@
+@sdjmchattie it's actually quite a nice 17&quot; LCD... just looks crap because Linux was panicing due to a corrupt swap file 

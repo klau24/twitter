@@ -1,0 +1,1 @@
+How can I connect SCSI hard drives to a computer with no SCSI ports? Ah, shucks. 

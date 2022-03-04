@@ -1,0 +1,1 @@
+@NimrodA I'm trying to write code to access from my gmail inbox. IMAP is ancient and misses features like normal search. No alternatives. 

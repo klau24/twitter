@@ -1,0 +1,1 @@
+Tweetdeck was insisting that even tweets without '@' in them were unable to be delivered because 'recipient not following you'.  

@@ -1,0 +1,1 @@
+Surprised I wasn't aware of VisualVM before #JavaOne but why is it not in the JDK on Mac like other platforms 

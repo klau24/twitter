@@ -1,0 +1,1 @@
+@rtmfd git clone http://twitter.com/rtmfd/rtmfd.git is working for me. Not sure what your problem is. 

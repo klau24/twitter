@@ -1,0 +1,1 @@
+Kernel panic while copying files to the Drobo. Now it won't mount, doesn't show up in Disk Utility, etc. 

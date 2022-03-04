@@ -1,0 +1,1 @@
+SMTP's problem on drupal fixed! by help of SMTP module. Thanks @marcOmatic  for an advice.  

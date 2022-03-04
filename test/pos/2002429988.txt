@@ -1,0 +1,1 @@
+Managed to hack old router, now I have a nice default netgear firmware on it, not restricted ISP one 

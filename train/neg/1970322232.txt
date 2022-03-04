@@ -1,0 +1,1 @@
+manually switching between dvi and vga connection works but that's not a perfect solution 

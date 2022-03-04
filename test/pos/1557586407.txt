@@ -1,0 +1,1 @@
+@definatalie It will only sense a right click if your left finger is not touching the mouse (and you've enabled right clicks). 

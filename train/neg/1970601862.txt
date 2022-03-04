@@ -1,0 +1,1 @@
+@andrew_rickmann Oh! My FF started crashing yesterday on WP ajax popup on various sites and I need to start it in Safe Mode to avoid that 

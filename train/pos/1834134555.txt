@@ -1,0 +1,1 @@
+wow. amazon just launched monitoring, auto scaling and load balancing for EC2 this is a big step forward  watch out rightscale and co 

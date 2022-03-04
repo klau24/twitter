@@ -1,0 +1,1 @@
+@cfjedimaster flush DNS and if that doesn't work wait 

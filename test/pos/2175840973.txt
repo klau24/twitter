@@ -1,0 +1,1 @@
+@timhastings yea something like that - a Google Charts API generated histogram would also be very cool. 

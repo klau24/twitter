@@ -1,0 +1,1 @@
+@snowcrashme often thought it would be nice to have the ability to log out of one grid and log in to another without closing the viewer 

@@ -1,0 +1,1 @@
+is wondering how a windows server acquired an IP without a DHCP lease on a card with no cable attached?! 

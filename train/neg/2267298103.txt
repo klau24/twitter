@@ -1,0 +1,1 @@
+Can everyone see the layout now? It looks great...but only on ff3 and windows  can someone help me make it compatible in the other things?

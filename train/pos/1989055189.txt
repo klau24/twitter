@@ -1,0 +1,1 @@
+Sun May 31 09:30:02 PDT 2009р load average: 244.77, 232.05, 206.54 (new world record of a certain server) 

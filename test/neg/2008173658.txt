@@ -1,0 +1,1 @@
+@evaddnomaid Yep memory error again... Back to the drawing board me thinks  It only freaks out after it has established  a connection

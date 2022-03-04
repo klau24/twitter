@@ -1,0 +1,1 @@
+@rsmck I was meaning to ask - what would you say is the best firmware version for the 7970 with asterisk/trixbox? I'm still on 8.0.2 

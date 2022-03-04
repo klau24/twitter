@@ -1,0 +1,1 @@
+@turn_self_off Same problem here. It reads 0.6.1 in the installed packages section however, still doesn't fix the replies issue it has 

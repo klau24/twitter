@@ -1,0 +1,1 @@
+Annoyed I didnt know about the 200mb WinRE partition option in #windows7 while installing, now I cant use #truecrypt 

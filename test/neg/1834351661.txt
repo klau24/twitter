@@ -1,0 +1,1 @@
+Short.ie has no mobile interface, and relies on some sort of AJAX magicness that doesn't work in Opera on my phone 

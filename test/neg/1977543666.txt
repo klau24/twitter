@@ -1,0 +1,1 @@
+I think i have a working diff amp! Now for the oscillator.. 

@@ -1,0 +1,1 @@
+@twitterfon just installed the 1.4.5 update, cleared the cache but the &quot;not following&quot; bug is still there 

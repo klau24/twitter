@@ -1,0 +1,1 @@
+@thom_white I manually typed his name instead of using Reply button. This makes tweet public but breaks &quot;in Reply to&quot; threading. 

@@ -1,0 +1,1 @@
+Apologies to @horuskol @amykate @tristancameron and all who tried @bing_bot, it seems its auto memcache flush played havoc today 

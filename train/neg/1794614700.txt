@@ -1,0 +1,1 @@
+@Kaysis_bcn no it wasn't maintenance. We kept loosing our API's on tweetdeck even though tweets wouldn't show up 

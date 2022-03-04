@@ -1,0 +1,1 @@
+@bradshorr Well, in our case it's just that I can't add a column of numbers twice and get the same answer. 

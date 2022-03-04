@@ -1,0 +1,1 @@
+Engineers turn up from BT run tests its fine, now I reconnect my gear and its dropped 2mbs a sec to 1.2 

@@ -1,0 +1,1 @@
+Upgrading ubuntu to bleeding edge to support internal wifi. Currently using external usb 

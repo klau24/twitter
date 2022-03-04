@@ -1,0 +1,1 @@
+There's a &quot;favorite&quot; and &quot;reply&quot; icon (top right corner) for each tweet. The &quot;refresh&quot; looking icon is your reply. Happy tweeting 

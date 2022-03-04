@@ -1,0 +1,1 @@
+Had to switch back to Firefox 3.0 due to problems with Firebug 1.4 beta. 

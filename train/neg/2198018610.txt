@@ -1,0 +1,1 @@
+Wow... Every time I try to use a jQuery plugin I end up having to rewrite it to make it beyond generically useful. 

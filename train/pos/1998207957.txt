@@ -1,0 +1,1 @@
+@OwenGoss I used IB to set up my TabBar + NavBar + TableView + View Controllers. It's possible. Just better to do most in code 

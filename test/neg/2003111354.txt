@@ -1,0 +1,1 @@
+Uups, I did it again  Nekam na viditelne misto si musim napsat: &quot;Z MS ADO se *NEDAJI* volat Oracle stored procedury s parametrem boolean!&quot;

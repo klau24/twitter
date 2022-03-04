@@ -1,0 +1,1 @@
+Excanvas has no support for clipping, now I have to use flash  MS please implement canvas instead of messing with silverlight stupidity!

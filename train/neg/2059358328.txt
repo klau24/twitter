@@ -1,0 +1,1 @@
+the good news is I got webcam recording working! the bad news is it writes like 16 gigs per day 

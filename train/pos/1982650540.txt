@@ -1,0 +1,1 @@
+@djberg @sgoodger yeah we had an Ethernet CC terminal and used a Buffalo wifi bridge to make it mobile too. As long as there's wifi 

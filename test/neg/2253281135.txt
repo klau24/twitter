@@ -1,0 +1,1 @@
+@mgsteciu http://is.gd/17nO6 Apparently an issue with silverlight running from 'File://' and not 'http://', but I need 'file://' 

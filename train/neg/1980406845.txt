@@ -1,0 +1,1 @@
+@pydanny hmm... I'm working on a project where the table names have been changed from their default (despite the Django ORM)... PIA 

@@ -1,0 +1,1 @@
+@groovymag well the company i am employed with used #php for most of our sites, we are migrating to #groovy and #grails. so LEARNING! 

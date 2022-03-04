@@ -1,0 +1,1 @@
+I would like to have an object oriented life where everything remain abstract so that you can fit and fit anything on req basis 

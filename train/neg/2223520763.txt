@@ -1,0 +1,1 @@
+@AIMRunningMan: 3rd bug since 1 year aimmail: when emails are sent to an invalid address they are not stored in sent folder, means lost! 

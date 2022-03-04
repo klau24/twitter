@@ -1,0 +1,1 @@
+@RightPundits Tech note: Your tiny urls need fixing. All go to tinyurl.com rather than intended link. 

@@ -1,0 +1,1 @@
+There isn't a 1Gb memory limit on Vs2008, right? every time it uses &gt;1Gb is locks and I have to restart it 

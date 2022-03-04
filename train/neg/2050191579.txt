@@ -1,0 +1,1 @@
+Also, if Sims 3 keeps crashing to desktop for you on the Mac, disable Time Machine/your Time Capsule. Fixes everything. No backups though 

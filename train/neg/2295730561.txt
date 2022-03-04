@@ -1,0 +1,1 @@
+@shanepearson Yeah, I just figured that out.  Realize it's not GNIP's fault but still sucks: I was filtering on actors and need coverage.

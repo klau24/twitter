@@ -1,0 +1,1 @@
+Got esxi4 running on Dell Sudio on i7 CPU, without hyperthreading  still got 4 cores ;)

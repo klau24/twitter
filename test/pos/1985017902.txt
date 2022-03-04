@@ -1,0 +1,1 @@
+Hooray! GQSB has finally started associating &quot;term&quot; with Terminal.app instead of TextMate  Took ages to teach it that.

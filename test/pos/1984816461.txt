@@ -1,0 +1,1 @@
+Holy cow. This Orca refactor is, like, actual work.  I'm glad @wwalker did the speechgenerator stuff first.

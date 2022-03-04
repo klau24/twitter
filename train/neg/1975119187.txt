@@ -1,0 +1,1 @@
+@hub @warthog9 some people worry that if the AGPL sets precedent, it could open the door for new evil licenses. 

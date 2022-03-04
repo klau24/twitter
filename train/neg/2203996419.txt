@@ -1,0 +1,1 @@
+Nope, after restart Mail.app started, but crashed again after syncing my imap box 

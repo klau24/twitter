@@ -1,0 +1,1 @@
+is finally settled on /^http(s?):\/\/([\w-]+\.)+[\w-]+(\/[\w-\.\/\?%&amp;=]*)?$/ Phew, I'm not good at this 

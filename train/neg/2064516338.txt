@@ -1,0 +1,1 @@
+Rev3 gps tracking doesn't work for me, b/c I need Internet Explorer 

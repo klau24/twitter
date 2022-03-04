@@ -1,0 +1,1 @@
+@khouryrt Forward your hotmail emails to a Gmail address (you can do that somewhere in the options) and use Gmail's IMAP feature, voil�. 

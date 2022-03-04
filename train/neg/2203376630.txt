@@ -1,0 +1,1 @@
+@kapkap The latest version (0.26) of Tweetdeck now support multiple accounts. BUT it doesn't work for me... can't see my tweets 

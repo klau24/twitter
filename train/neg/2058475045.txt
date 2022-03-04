@@ -1,0 +1,1 @@
+Google contacts on Pre. Problem is that it imports all contacts while the iphone just imports 1 folder 'my contacts'. Have to clean'em up 

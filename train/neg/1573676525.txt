@@ -1,0 +1,1 @@
+ok, using gwibber. Not stable but good on Ubuntu. Ping.fm is buggy 

@@ -1,0 +1,1 @@
+No 64-bit support for Microsoft Fingerprint reader? I've gotten so used to just scanning in @ home and now I have to type a pass again. 

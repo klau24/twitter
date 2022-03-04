@@ -1,0 +1,1 @@
+@kirstywiseman You know when you go to a website, and it shows you an error message? Exceptioneer tells the developers about them 

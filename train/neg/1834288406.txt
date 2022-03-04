@@ -1,0 +1,1 @@
+Tip of the day: Having your disks mirrored does not save you from accidentally deleting files 

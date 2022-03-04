@@ -1,0 +1,1 @@
+well I upgraded to Ubiquity 0.5 and half my commands don't work with Parser 2 

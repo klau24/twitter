@@ -1,0 +1,1 @@
+@ddphotographics you web page no longer renders properly in safari on a mac 

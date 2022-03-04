@@ -1,0 +1,1 @@
+@gnat dnscolos.com reports no NS record for your domain, no MX, no mailserver. looks KAPUT to me mate 

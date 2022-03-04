@@ -1,0 +1,1 @@
+Neat, hopefully more Twitter utilities will start using this Flickr-like auth http://icanhaz.com/signin (via @adactio, via @ronalddevera 

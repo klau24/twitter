@@ -1,0 +1,1 @@
+@atebits P.S. on the tweetie-mac page, under 'bookmarklet' change 'single from' to 'single click from'. I believe that's what you meant. 

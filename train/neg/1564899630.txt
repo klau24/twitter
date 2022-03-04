@@ -1,0 +1,1 @@
+There's nothing more depressing than still having to use MSIE 6 to test HTML templates in.  That browser is older than your car people!

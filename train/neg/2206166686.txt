@@ -1,0 +1,1 @@
+Looks like I might have been wrong - All is I see Amazon releasing the mods to GPL code they use, not the actual Kindle source. 

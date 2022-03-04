@@ -1,0 +1,1 @@
+@ExciteMike Remember messing with accessibility options out of curiosity?  That autochecked &quot;silently fail future background changes.&quot; 

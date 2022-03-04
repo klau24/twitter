@@ -1,0 +1,1 @@
+#iPhone 3.0 Notes sync seems quite weird - Mac stores Notes on MobileMe, iPhone can sync Notes w/Mac but not MobileMe??? No live update 

@@ -1,0 +1,1 @@
+I'm trying to boot ESXi 4 from iSCSI but I'm still out of luck  &quot;Failed to find boot partition&quot; 

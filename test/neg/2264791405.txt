@@ -1,0 +1,1 @@
+@seriog tried, it allows only chars, numbers and underscore  I'll go with jankowarpspeed

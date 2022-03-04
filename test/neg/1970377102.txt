@@ -1,0 +1,1 @@
+@duckbox FF and Chrome are meant to produce the same looking design, not different  That is IE's job 

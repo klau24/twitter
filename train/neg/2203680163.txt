@@ -1,0 +1,1 @@
+Initial TweetDeck use crashes more often than Twitterific or Twitterfon..also slower to load on startup 

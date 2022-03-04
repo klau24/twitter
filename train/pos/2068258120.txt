@@ -1,0 +1,1 @@
+@tijmensmit it's a firefox extention that makes it behave like VIM  http://vimperator.org/trac/wiki/Vimperator

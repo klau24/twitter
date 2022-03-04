@@ -1,0 +1,1 @@
+I mentioned it before, but scrolling through long manpages in the Terminal app without PageUp/PageDown is hell  #MacBook

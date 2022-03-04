@@ -1,0 +1,1 @@
+Conclusion: I need a new way to charge my eeePC 4G, it seems. Wart shows 10V drop at barrel plug, but 0.5V as soon as it hits a load 

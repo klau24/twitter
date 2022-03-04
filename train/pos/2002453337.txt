@@ -1,0 +1,1 @@
+@serialseb *2/3 if you have 3 drives, or n-1 more generally. Stumbled on a raid array calculator 

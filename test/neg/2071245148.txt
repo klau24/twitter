@@ -1,0 +1,1 @@
+@cieslak I'm unclear on what the trick is. if it's just removing &amp; replacing it, yes. also the power button/ringer switch combo, too 

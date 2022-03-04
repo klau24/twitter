@@ -1,0 +1,1 @@
+Got myself psych-ed up for writing save-restore code. Turns out I managed to do it properly in 2 lines ({args} &lt;-&gt; unpack(argstbl)). 

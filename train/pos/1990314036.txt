@@ -1,0 +1,1 @@
+If MS reveals new controller, I hope for XNA 3.1 to support it. 

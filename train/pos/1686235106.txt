@@ -1,0 +1,1 @@
+@derb up to 320 faders, all have 12 layers. 96kHz and swappable I/O. That's insane 

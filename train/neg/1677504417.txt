@@ -1,0 +1,1 @@
+@tgadget Just thought I should let you know: Full Screen/Canvas was working for me yesterday, but is not today. Don't know why this is 

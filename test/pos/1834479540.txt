@@ -1,0 +1,1 @@
+I: &quot;what's up&quot;, Wolfram Alpha: &quot;Input interpretation: Hello. Response: Hello, human.&quot; 

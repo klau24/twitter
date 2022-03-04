@@ -1,0 +1,1 @@
+Speed reduced by disk malfunction: 7 // demonios el contador va en 7 

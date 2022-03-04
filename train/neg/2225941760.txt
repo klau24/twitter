@@ -1,0 +1,1 @@
+so 3.0 update changes some of the text &quot;suggestions&quot;.   Pro: no longer changing &quot;lol&quot; to &quot;LOL&quot;;  CON: no longer changes &quot;yall&quot; to &quot;y'all&quot; 

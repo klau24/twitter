@@ -1,0 +1,1 @@
+Thx 4 info @yozh looks like you have your own rack (home lab).Cant afford that now..Have to work with dynamips/GNS3. Thx 2 the developers 

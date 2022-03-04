@@ -1,0 +1,1 @@
+&lt;font color=purple&gt; Purple, &lt;font color=blue&gt; blue &lt;font color=black&gt; and &lt;font color=green&gt; green 

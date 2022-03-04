@@ -1,0 +1,1 @@
+@Biappi I have just done complex cherry-picking with Git and it merged the xcodeproj right without a hitch 

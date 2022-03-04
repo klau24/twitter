@@ -1,0 +1,1 @@
+why am I the only one in the whole world using crappy cpu? am getting 6fps on 2k poly scene, client is getting 18fps on 15k poly scene 

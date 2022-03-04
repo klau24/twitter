@@ -1,0 +1,1 @@
+@CFJamesAllen My blogging engine is a scientifically designed combination of ColdFusion, ducttape, rubber bands, and luck 

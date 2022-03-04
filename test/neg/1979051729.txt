@@ -1,0 +1,1 @@
+@dvirreznik Windows Firewall worked for me on XP for a long time. The only reason I switched to ZA was that Cisco VPN client broke Win FW 

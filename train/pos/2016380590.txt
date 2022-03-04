@@ -1,0 +1,1 @@
+playing around with some XML libraries in order to parse the nike+ xml data 

@@ -1,0 +1,1 @@
+hates upper-case file and folder names, because I don't like file systems shouting at me 

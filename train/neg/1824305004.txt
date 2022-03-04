@@ -1,0 +1,1 @@
+damn - the doc server publib.boulder.ibm.com is down. wishing i'd got my own copy of the InfoCenter docs now  #cloudfail

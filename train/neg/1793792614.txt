@@ -1,0 +1,1 @@
+I've just had 2 crashes (one blue screen) with Windows 7. One looked like gfx driver issue, the other was while watching a DVD with VLC! 

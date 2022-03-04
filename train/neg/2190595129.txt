@@ -1,0 +1,1 @@
+@CalEvans try #safari with blending colors  crashes are okay, but greyscale surfing sucks

@@ -1,0 +1,1 @@
+@snookca or add noise via the filters dialog in the PI to add non destructive always editable noise effects. 

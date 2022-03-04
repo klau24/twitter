@@ -1,0 +1,1 @@
+@TweetDeck 'Group' is not working. I only get random tweets. I keep having to check specific users in firefox to catch the missed ones. 

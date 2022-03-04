@@ -1,0 +1,1 @@
+Annoyed at phantom code on #hadoop, despite recompiling and checking that the code is correct, the new println's just aren't showing up 

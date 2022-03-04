@@ -1,0 +1,1 @@
+Additions to gec worked. Now have a stack trace with line numbers when an uncaught exception is raised 

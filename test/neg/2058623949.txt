@@ -1,0 +1,1 @@
+text editors have to go a long way. size exceeds 5-6mb and it hangs 

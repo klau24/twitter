@@ -1,0 +1,1 @@
+so i was attempting to upgrade wordpress to 2.8 and it totally hosed my web server 

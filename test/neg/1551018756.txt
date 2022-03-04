@@ -1,0 +1,1 @@
+it appears that jQuery plugin for making round borders in navigation doesn't work on all OS, in Ubuntu round borders aren't visible 

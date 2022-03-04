@@ -1,0 +1,1 @@
+#protip make sure you if ENV[&quot;RAILS_ENV&quot;} ==&quot;production&quot; your google analytics code.  throws off your numbers elsewise 

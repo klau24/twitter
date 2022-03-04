@@ -1,0 +1,1 @@
+Theorem 20.7: Every finite field is perfect. 

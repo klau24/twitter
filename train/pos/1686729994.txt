@@ -1,0 +1,1 @@
+Going to install Windows Server 03 and Seven Beta 1 on Vmware Workstation 

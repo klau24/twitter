@@ -1,0 +1,1 @@
+@euan Checked the Activity Monitor, thanks. Nothing there but re-started anyway. Still happening. 

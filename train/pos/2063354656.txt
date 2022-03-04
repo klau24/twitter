@@ -1,0 +1,1 @@
+@luckeyme Oh, i just noticed - most of that PSD is raster. Im interested in keeping it all in shapes for easier scaling. 

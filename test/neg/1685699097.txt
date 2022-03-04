@@ -1,0 +1,1 @@
+@soumen08 Geany has a plugin architecture, the problem being that it can be written only using C and they need to be compiled 

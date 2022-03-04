@@ -1,0 +1,1 @@
+Hmm, Spring Web Flow strips parameters from a request with a filter, another obstacle for my JSF/WebFlow-security-framework 

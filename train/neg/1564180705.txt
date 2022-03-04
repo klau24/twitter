@@ -1,0 +1,1 @@
+grmbl..all the good extra functionality of php's functions I find are always &gt;php4 

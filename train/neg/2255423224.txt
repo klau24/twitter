@@ -1,0 +1,1 @@
+@berutt sometimes it'll crash 3 or 4 times just starting the app. 

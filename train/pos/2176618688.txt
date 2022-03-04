@@ -1,0 +1,1 @@
+@fredrikeriksson Very often it's easier to write a new plugin than to discover if a similar one already exists 

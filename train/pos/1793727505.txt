@@ -1,0 +1,1 @@
+@pjeby It's funny - I'm writing my book this way as well. Recursive approximation works. 

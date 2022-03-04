@@ -1,0 +1,1 @@
+the tips don't seem to help though, #firefox's still hogging the CPU 

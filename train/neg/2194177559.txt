@@ -1,0 +1,1 @@
+my GChrome stopped working after i had cancelled an GooglePack installation. I type the URL &amp; hit enter, the page still stays in blank 

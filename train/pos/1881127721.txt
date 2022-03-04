@@ -1,0 +1,1 @@
+@z0nic Yep. Wasn't sure at first but have been using Safari 3.2 for a while now. Done a cmd line in terminal to restore the progress bar 

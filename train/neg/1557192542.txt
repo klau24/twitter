@@ -1,0 +1,1 @@
+@projct It's my wife's old laptop. CD drive is dead, won't boot from usb. Part-man, Wubi, LVPM, GRUB, and a lot of console hacking 

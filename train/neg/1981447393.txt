@@ -1,0 +1,1 @@
+Damn it... Anyone got a way to generate logarithmic distributed random numbers in java? Can't find an algorithm 

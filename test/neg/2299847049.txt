@@ -1,0 +1,1 @@
+bad itunes: doesn't burn mp3 files in directory structure 

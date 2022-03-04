@@ -1,0 +1,1 @@
+Just discovered MXML doesn't like the Vector type and gives a 'internal build error' - that wasted a few hours of my time 

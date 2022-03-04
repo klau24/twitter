@@ -1,0 +1,1 @@
+vista fail: boots up, login ok, but doesn't show anything besides a blue screen 

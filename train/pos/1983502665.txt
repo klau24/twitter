@@ -1,0 +1,1 @@
+@davidolrik Will get you far for sure - But having a nice IDE that helps you refactor and does so safely will beat that any day 

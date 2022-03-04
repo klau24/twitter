@@ -1,0 +1,1 @@
+@refractalize To me SOA seems to stand for System Of Abstractions 

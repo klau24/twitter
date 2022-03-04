@@ -1,0 +1,1 @@
+awesome to see mtrt taking up 300% CPU on carnage.  concurrent GCs are fun.   until, of course, it reveals a nasty crash!  d'oh!

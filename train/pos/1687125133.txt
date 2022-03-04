@@ -1,0 +1,1 @@
+@Jurate Not sure being able to regress predictors on a DV in a natural language search engine necessarily makes quant work redundant 

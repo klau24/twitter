@@ -1,0 +1,1 @@
+Renamed some stuff, and now my VSIX project won't launch the VS test env when trying to run project 

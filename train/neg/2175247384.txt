@@ -1,0 +1,1 @@
+ubuntu install complete! but the display are 800x600 

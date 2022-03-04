@@ -1,0 +1,1 @@
+Suck: my Mercurial install was broken. Rock: a simple 'emerge mercurial' fixed it.  #gentoo #macosx

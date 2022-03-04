@@ -1,0 +1,1 @@
+@sourcemaking  Nice to hear that  My team and I did a 'lil program with JBoss Seam to show the usage of the refactors in #sourcemaking

@@ -1,0 +1,1 @@
+iTunes messes up the order of the songs in an album if you sort the songs by album. But if sorted by artist, it's fine. How inconvenient. 

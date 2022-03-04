@@ -1,0 +1,1 @@
+I just learned that yes, you can use Acronis to clone a single drive to a RAID0+1. Saved me having to re-install XP. 

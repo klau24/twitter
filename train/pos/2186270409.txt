@@ -1,0 +1,1 @@
+Soo glad that comments are working again at justwriteclick.com. I missed you guys!  Turned out, the wp_comments table had crashed.

@@ -1,0 +1,1 @@
+tried hard coding few things in to xul file of firefox and compiled. Compilation went well but firefox popping buffer overflow detected 

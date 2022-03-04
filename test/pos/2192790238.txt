@@ -1,0 +1,1 @@
+@Skychrono Use interfaces to get multiple inheritance 

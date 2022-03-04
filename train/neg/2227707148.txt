@@ -1,0 +1,1 @@
+Quark 7.5 is laughing at me in binary every time it crashes. Yes, I know they fixed it in 8, but we don't have 8. We're stuck with 7.5. 

@@ -1,0 +1,1 @@
+Ugh. Bug due to a rounding error in PHP and the client's pissed... I'm already unmotivated enough as it is, I don't need this 

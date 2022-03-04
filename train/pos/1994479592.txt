@@ -1,0 +1,1 @@
+@bb_nation :-p gravity still up and no memory issue 

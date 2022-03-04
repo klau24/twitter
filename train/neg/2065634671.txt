@@ -1,0 +1,1 @@
+Am playing with the Facebook API (again!), I dont get why I cant set the callback url dynamically  I want to use it on a hostable solution

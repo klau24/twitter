@@ -1,0 +1,1 @@
+I think it's tragic that Python Magazine's URL is http://pymag.phparch.com/ and the site's running on PHP 

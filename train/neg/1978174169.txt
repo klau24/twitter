@@ -1,0 +1,1 @@
+Finally done with the story boarding and IA of my online game. Only thing left to do is code it... but I can't decide over Jaxer or PHP. 

@@ -1,0 +1,1 @@
+Trying to compile Mencoder under #Windows with theora and vorbis support, but it's just not working! 

@@ -1,0 +1,1 @@
+Why does @ABCiView take so long to open? Latency (stupid)! Lots of little requests take longer than one big one. Cache resistant too 

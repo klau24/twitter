@@ -1,0 +1,1 @@
+I'm starting to loathe C++, well not the language, but badly manage projects... i.e. what I have to work on 

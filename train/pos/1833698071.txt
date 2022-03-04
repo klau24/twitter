@@ -1,0 +1,1 @@
+@sharemefg gaim (nonlinux=pidgin IM)  has had an irc plugin for years...did they port that code?  twitter...exciting! adium's a bit heavy

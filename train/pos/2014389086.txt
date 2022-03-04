@@ -1,0 +1,1 @@
+YAY, *finally* figured out how to get turbo.264 to crop my full-screen vids to 16:9 

@@ -1,0 +1,1 @@
+@zeldman Manually typing @name or placing character before @ breaks &quot;in rely to&quot; function, making it very difficult to follow convos. 

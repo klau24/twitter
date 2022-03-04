@@ -1,0 +1,1 @@
+First my certificate expired. Then it took me almost an hour to figure out that profiles can no longer have wildcards in them. 

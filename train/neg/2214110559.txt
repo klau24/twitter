@@ -1,0 +1,1 @@
+itunes australia keeps timing out when trying to update to version 3.0 

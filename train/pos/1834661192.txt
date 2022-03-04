@@ -1,0 +1,1 @@
+@gulpanag No. of cancellations = # of Bookings? or 

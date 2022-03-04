@@ -1,0 +1,1 @@
+@writingvixen it looks like it's going to open the game, but after a second, the window closes itself.  re-installing didn't work

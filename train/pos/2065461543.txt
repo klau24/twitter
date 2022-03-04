@@ -1,0 +1,1 @@
+Every time I start working in JavaScript or ActionScript I write Class.new instead of new Class() grrr. ruby habit 

@@ -1,0 +1,1 @@
+Looking at the Guice framework... looks interesting... can't wait till I have time to do a quick toy project again 

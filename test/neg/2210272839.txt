@@ -1,0 +1,1 @@
+For those jailbroken, remember to remove your Cydia-installed apps before upgrading, or else you'll have undeletable data, like mine. 

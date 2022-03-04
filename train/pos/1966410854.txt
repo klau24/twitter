@@ -1,0 +1,1 @@
+@frubiliciousdz9 I've got External SATA drives as main archive, internal as 2nd, Drobo as 3rd, more externals SATAs as 4th, DVDs as 5th 

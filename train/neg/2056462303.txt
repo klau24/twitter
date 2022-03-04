@@ -1,0 +1,1 @@
+Whats wrong with Twitter Search? It cannot found any older tweets, results differ between API and web etc. Very strange and frustrating 

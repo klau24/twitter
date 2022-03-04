@@ -1,0 +1,1 @@
+Got to mend the 1TB RAID array on our file server. /dev/sdc is down, but I don't know which physical disk that is  Backing up files first

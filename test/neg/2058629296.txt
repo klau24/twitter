@@ -1,0 +1,1 @@
+I think I found a bug in the pocket wizard FlexTT5/MiniTT1.. Second Curtain never fires just before the shutter closes  #photog

@@ -1,0 +1,1 @@
+@stroughtonsmith *some* people have it. Don't know if it's on general release yet. Emulator is still very restricted, including no sound 

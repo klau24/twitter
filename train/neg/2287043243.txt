@@ -1,0 +1,1 @@
+@simplytweet actually I found the autocorrection in 2.2.1 to be more accurate.  I get completely unrelated word suggestions with 3.0 

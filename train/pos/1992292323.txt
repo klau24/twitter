@@ -1,0 +1,1 @@
+I seriously need to optimize this query. Explain plan returns a cost of 184,976,433,497. That's a tad high.  #oracle

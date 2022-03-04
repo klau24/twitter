@@ -1,0 +1,1 @@
+@tuxplanet Have Spotify running on Wine (Ubuntu Netbook Remix) but periodically just stops working and requires a reboot to get it back 

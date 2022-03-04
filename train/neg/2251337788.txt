@@ -1,0 +1,1 @@
+@MuscleNerd Great. redsn0w also crashes on PPC. Are you guys silently abandoning PPC support? 

@@ -1,0 +1,1 @@
+@TweetDeck nice iphone version, but doesn't support dashes (-) in e-mail address' for tweetdeck accounts  (is supported in AIR version)

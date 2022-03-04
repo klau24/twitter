@@ -1,0 +1,1 @@
+@alejandradd  Last time they took away the number of unread tweets, and now the collapse-to-taskbar option is gone.  

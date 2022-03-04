@@ -1,0 +1,1 @@
+To fully uninstall iTunes 8.2 on Mac, close all iTunes and do this from Terminal.app.  Do NOT mistype it  .. https://twerbose.com/t8791

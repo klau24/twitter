@@ -1,0 +1,1 @@
+any symbian guru here .. why the fuck is CFBsBitmap::Load()   not loading the MBM file !! 

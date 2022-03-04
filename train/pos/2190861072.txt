@@ -1,0 +1,1 @@
+Need to put together a keynote today, then I'm going to take a proper look at Objective C and Cocoa 

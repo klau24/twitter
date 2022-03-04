@@ -1,0 +1,1 @@
+@reverbstudios In the English theme if (is_tag('DE')) then don't show German. Feck! 140 chars is not enough to explain this 

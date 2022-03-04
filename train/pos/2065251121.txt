@@ -1,0 +1,1 @@
+Vista can read up to 3.3 MB of RAM. That mistake might just start giving Mac the lead 

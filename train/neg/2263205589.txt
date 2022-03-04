@@ -1,0 +1,1 @@
+Looking at Infinitest after @RichardVowles mentioned it this week, it's a pity its locked to JUnit 

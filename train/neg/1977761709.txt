@@ -1,0 +1,1 @@
+@bitninja Nice, I'm writing a Twitter app myself, it's the XML parsing I'm having trouble with 

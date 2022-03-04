@@ -1,0 +1,1 @@
+I Wish IE8s compatibility mode would do something different with the tab to tell you it is running that way. The button in the toolbar is 

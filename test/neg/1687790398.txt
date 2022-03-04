@@ -1,0 +1,1 @@
+Ok, so after breaking ma head with this; only can sync gCal with iCal. The sync between iCal and Entourage is not working. 

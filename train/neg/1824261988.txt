@@ -1,0 +1,1 @@
+@gnutel0 Not sure about autoloaders? I've seen some deskstop stuff for Linux but if can't install simple software then Linux fails. 

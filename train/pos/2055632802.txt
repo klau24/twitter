@@ -1,0 +1,1 @@
+@grantmichaels nah, write code that sucks, then if you find you really need to maintain it, refactor it 

@@ -1,0 +1,1 @@
+Playing #SF4 with Guile and 550BP.  Getting royally beat up by guys with 2000+ BPs is pretty discouraging. 

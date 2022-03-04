@@ -1,0 +1,1 @@
+Stuck up with symbol-level model for equalization in HSDPA signals 

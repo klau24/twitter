@@ -1,0 +1,1 @@
+@thattalldude  Video card is PCI-E 2.0, PCI-E port in the computer is apparently 1.0. Yet the card fits in the slot, just doesn't work.

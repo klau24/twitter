@@ -1,0 +1,1 @@
+moved content that map control was pointing to, changed folder, now map control does not want to display content, even after republishing 

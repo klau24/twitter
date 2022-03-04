@@ -1,0 +1,1 @@
+I was able to connect my HTC touch to Ubuntu 9.04, but not able to browse the files on the phone 

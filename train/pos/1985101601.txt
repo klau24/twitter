@@ -1,0 +1,1 @@
+@haneol Don't worry OS X is the main OS, VirtualBox just runs Windows 7 in a Virtual Machine. So no need for a dual boot configuration. 

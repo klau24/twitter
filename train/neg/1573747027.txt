@@ -1,0 +1,1 @@
+!Identica currently has rather severe problems concerning performance, availability, and its gateway to Twitter.  #fail !laconica

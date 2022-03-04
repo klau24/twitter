@@ -1,0 +1,1 @@
+the servers are ready for soft launch, but gotta finish benchmarking mysql before I can use anything 

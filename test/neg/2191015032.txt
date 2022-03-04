@@ -1,0 +1,1 @@
+Looking forward to using the XSDL 1.1 xs:all to replace xs:sequence, but for FpML it objects to the xs:groups 

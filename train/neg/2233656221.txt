@@ -1,0 +1,1 @@
+@samotage I haven't played around with previous versions enough to gauge the diff, but I can tell you my gnome shell is a little flaky 

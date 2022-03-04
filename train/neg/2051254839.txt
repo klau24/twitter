@@ -1,0 +1,1 @@
+i found out they removed support for F# from vs2008 was planning to use  no way to run mono on windows  ..day of sorrows

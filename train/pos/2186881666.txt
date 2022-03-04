@@ -1,0 +1,1 @@
+RDP over VPN is working much better than it did previously. Finally I can do work from the comfort of bed 

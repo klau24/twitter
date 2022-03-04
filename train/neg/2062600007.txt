@@ -1,0 +1,1 @@
+No outgoing connections to external E-Mail servers at Marvell  . Weird enough, twitter works fine.

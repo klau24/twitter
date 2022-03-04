@@ -1,0 +1,1 @@
+Coming upto an hour trying to upload #magento to my webserver via FTP. Shame it wouldn't work on localhost 

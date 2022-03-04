@@ -1,0 +1,1 @@
+oooo... I now have a builds library mapped in my host OS to my main build drop in my hyper-v network...  @coatsy ur the man!

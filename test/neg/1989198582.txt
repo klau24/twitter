@@ -1,0 +1,1 @@
+find out the way to display Thai language, use adodb.php instead of msaccess.php, but some errors for inserting, updating 

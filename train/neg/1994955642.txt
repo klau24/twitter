@@ -1,0 +1,1 @@
+Ubiquity is cross platform, sorry about that. Currently only works with google stuff  Hope it will work with Mail soon.

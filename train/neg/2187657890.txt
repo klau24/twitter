@@ -1,0 +1,1 @@
+@alfredtwo I have moonlight installed but it hasn't had a release since March and all the silverlight stuff now requires a newer version 

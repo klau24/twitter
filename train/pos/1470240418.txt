@@ -1,0 +1,1 @@
+@hewball Looks like Drobo's website is getting a hammering. Would be interesting to see if the DroboPro works with ESXi! 

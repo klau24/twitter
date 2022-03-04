@@ -1,0 +1,1 @@
+/me has discovered that by disabling aero in windows 7 there is a HUGE performance boost, althought its not nearly as pretty 

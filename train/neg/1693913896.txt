@@ -1,0 +1,1 @@
+After upgrading Winamp, it stopped starting. So I re-installed it from scratch, and now it crashes if I install Advanced Controls. 

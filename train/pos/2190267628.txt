@@ -1,0 +1,1 @@
+oh, I got it  it's done by: oh, I got it  it's done by putting the QEmailServer::Send($objMessage); in a &quot;tr.. http://tinyurl.com/ms7eay

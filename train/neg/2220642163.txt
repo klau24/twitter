@@ -1,0 +1,1 @@
+@rpycroft it turns out I had to point the apn settings to another URL  thanks for the tweet tho!

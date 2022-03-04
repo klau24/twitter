@@ -1,0 +1,1 @@
+reading STL (Josuttis ) in an attempt to systematize my patched knowledge on the subject 

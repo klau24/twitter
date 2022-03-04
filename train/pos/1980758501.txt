@@ -1,0 +1,1 @@
+@dszp I've got our shutdown process 100% automated now, so hopefully power failures won't be exciting for me anymore. 

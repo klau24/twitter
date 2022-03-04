@@ -1,0 +1,1 @@
+finally managed my bash script to run well.. it will save lot of my times 

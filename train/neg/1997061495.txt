@@ -1,0 +1,1 @@
+@TinyURL ...how do I prevent ZoneAlarm from blocking all the links created through your service and leading me to your 404 page? 

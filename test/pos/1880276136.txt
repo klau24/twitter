@@ -1,0 +1,1 @@
+If Mac DW CS3 is painfully slow, click on it in app's, 'get info' and tick  'Open using Rosetta' http://tinyurl.com/rdnywo worked 4 me 

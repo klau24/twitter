@@ -1,0 +1,1 @@
+I have partial XML parsing and GLSL shading in my engine now!  I'll be making a blog-post about it soon.

@@ -1,0 +1,1 @@
+37signals fixed a bug for me in Highrise. Thanks. That's a way better approach than arguing with me on Twitter 

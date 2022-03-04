@@ -1,0 +1,1 @@
+Upgrade Tweetdeck, now it only shows up if the window is maximized. Can't see it in a small window 

@@ -1,0 +1,1 @@
+Just finished Twitter addon so shortened URLs could be tweeted too  as well as bookmarked on @sponter

@@ -1,0 +1,1 @@
+@adean Having problems finding IResource in your repo? 

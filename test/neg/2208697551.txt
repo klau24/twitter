@@ -1,0 +1,1 @@
+@qtsoftware ended up transitioning to V8 instead of QScriptEngine for the backend for performance in April.  I miss QScriptEngine. 

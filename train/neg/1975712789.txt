@@ -1,0 +1,1 @@
+@dandyid Some feedback, as you asked for it: the &quot;Upgrade to Pro&quot; link doesn't result in a dialog box prompting me for the upgrade code 

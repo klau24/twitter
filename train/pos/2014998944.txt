@@ -1,0 +1,1 @@
+add fluid plane to EnvironmentMapFilters via @DerSchmale example  http://trunc.it/bfhs #Flash10 #PixelBender

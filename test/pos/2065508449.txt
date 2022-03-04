@@ -1,0 +1,1 @@
+Reformatted to ext4 and reinstalled Jaunty then restored my home folder: all good and purring like a kitten. Boot time: 20 sec. 

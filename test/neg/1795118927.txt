@@ -1,0 +1,1 @@
+Struggling with a nasty bug in PHP with '#' in the url 

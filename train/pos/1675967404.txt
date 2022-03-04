@@ -1,0 +1,1 @@
+Right click on the sys prefs icon in your dock and you get a list of all components in it. Choose what you want to load 

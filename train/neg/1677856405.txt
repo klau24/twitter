@@ -1,0 +1,1 @@
+Trying to recover Cindy's MacBook. Filesystem seems to be corrupt. Ubuntu live to the rescue. Hope it will work 

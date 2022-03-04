@@ -1,0 +1,1 @@
+IIS Directory Security &gt; IP Restrictions... Added the correct ip but didn't work... Log shows 192.168.0.1 despite pc being 192.168.0.200 

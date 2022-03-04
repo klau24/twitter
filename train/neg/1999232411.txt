@@ -1,0 +1,1 @@
+Firefox and Flock both crashed on an older iMac but still work fine on the new iMac. No new programs. removed and re-loaded no luck 

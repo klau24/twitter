@@ -1,0 +1,1 @@
+That's odd, hello_world compiled with no errors or warnings. Must be because it's a happy Friday 

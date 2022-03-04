@@ -1,0 +1,1 @@
+die, gconf, die! gconfd-2 is writing endlessly to my HD. 

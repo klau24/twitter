@@ -1,0 +1,1 @@
+Trying to help a guy get his site back in order but just discovered his wpcontent-themes and plugins folder has 777 for permissions 

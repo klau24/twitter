@@ -1,0 +1,1 @@
+@Internode I noticed mpegmedia.abc.net.au is slow and feeding out of akamkai. Not hostcentral 

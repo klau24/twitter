@@ -1,0 +1,1 @@
+@tranvinhnt Chắc chắn password kg phải là random generated. Một vụ rất đáng quan ngại 

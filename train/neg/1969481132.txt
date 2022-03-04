@@ -1,0 +1,1 @@
+@yonaa Yes, lots of trouble with SSL and since yesterday some phones even don't accept twitter's SSL cert anymore 

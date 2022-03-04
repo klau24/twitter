@@ -1,0 +1,1 @@
+.@jamesmears did you find a fix for your OSX 10.5.7 upgrade fail? I've got the same problem - fans on full, grey apple logo 

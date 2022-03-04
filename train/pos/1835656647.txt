@@ -1,0 +1,1 @@
+@rexxars  I did some SMS dev in PHP today and it rocked.

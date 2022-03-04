@@ -1,0 +1,1 @@
+@subeta Main site is working for me now, seems DNS refreshing only took about 30 minutes. Working like a charm! 

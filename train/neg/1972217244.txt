@@ -1,0 +1,1 @@
+@Lozzykinz Unfortunately not, I had to model infinite languages in Linear Temporal Logic with Buchi finite state automata 

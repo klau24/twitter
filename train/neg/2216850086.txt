@@ -1,0 +1,1 @@
+3.0 doesn't *quite* work with HBH-DS205. 

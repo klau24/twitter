@@ -1,0 +1,1 @@
+@Synoiz i haven't tried the multipleIE thing - normally i use old ie6 standalone but i'll try the dev toolbar might be handy!!! 

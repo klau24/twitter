@@ -1,0 +1,1 @@
+avast freezes  my explorer due to RPC error  (Resident scanner couldn't start) how can i solve this 

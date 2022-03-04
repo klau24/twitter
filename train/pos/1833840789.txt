@@ -1,0 +1,1 @@
+#twitterfon - no way to see &quot;full size&quot; user avatar/picture.  Twitter web site has this function. I need it to see small icons better! 

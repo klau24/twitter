@@ -1,0 +1,1 @@
+Version 2 of #quasecinema !openframeworks based vj software was released. Fun weekend ahoy  http://quasecinema.org

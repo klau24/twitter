@@ -1,0 +1,1 @@
+How open is Facebook via the API? I'd like to play with building a non-shithouse UI with their data 

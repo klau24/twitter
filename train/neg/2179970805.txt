@@ -1,0 +1,1 @@
+Spring ActionScript spike was an epic fail. Using interfaces required some hackery and too many errors around casting to interface. 

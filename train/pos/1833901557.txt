@@ -1,0 +1,1 @@
+Snaptu data usage experiment results - it uses very less data &amp; can be kept running in background without fear of excess data usage. Cool 

@@ -1,0 +1,1 @@
+Sweet - I've managed to get #ColdFusion 8 running under #MAMP Pro on my MBP (not just plain MAMP). Will document shortly 

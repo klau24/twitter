@@ -1,0 +1,1 @@
+@notahat i tried @myobject.track_methods(MyType.instance_methods), but since track_methods is expecting symbol names it doesn't work 

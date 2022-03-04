@@ -1,0 +1,1 @@
+I will never ever configure the dom0 remotely again.. just had to drive with my bike to the office to restart the networking 

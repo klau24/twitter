@@ -1,0 +1,1 @@
+got windows xp now running on my ubuntu laptop via virtualbox. Hey don't blame me it was a necessity. No mac emulators will work 

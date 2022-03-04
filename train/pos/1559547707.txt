@@ -1,0 +1,1 @@
+Triggers and LINQ 2 SQL is a no go...I wonder if LINQ 2 SQL will ever be a real go 

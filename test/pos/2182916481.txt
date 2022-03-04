@@ -1,0 +1,1 @@
+@garybernhardt well, my_object.my_method.__module__ looks more like what I was asking. 

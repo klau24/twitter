@@ -1,0 +1,1 @@
+@devot_ee EE tip: If EE users get 403 errors when trying to pull data from their site elsewhere, the Bad Behavior ext may be the culprit. 

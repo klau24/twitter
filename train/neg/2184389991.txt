@@ -1,0 +1,1 @@
+ATI Catalyst 9.6 is released. To bad that they haven't fix the Install Manager, it still crash in Windows 7. 

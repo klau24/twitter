@@ -1,0 +1,1 @@
+@dave1022 I don't have that  I'll probs have to delete the partition from windows, fix the mbr then reinstall  it with a larger partition

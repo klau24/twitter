@@ -1,0 +1,1 @@
+Trying to install Windows 7 via Parallels via Boot Camp... not going too well at the moment 

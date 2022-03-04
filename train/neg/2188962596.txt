@@ -1,0 +1,1 @@
+@LeafyVC Server is free, workstation isn't  I don't have it set up yet, because you have to install VM.S. from the terminal and I'm stuck.

@@ -1,0 +1,1 @@
+. @njbartlett FYI, if you use the IBM JVM you can trigger a heapdump on all sorts of events using the -Xdump flag (I wrote the dump code 

@@ -1,0 +1,1 @@
+Cái lỗi rundll32 làm mình mất time quá 

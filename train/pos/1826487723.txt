@@ -1,0 +1,1 @@
+had several epiphanies this weekend. No. 1: JSF is dead, Dojo is the future (as some people have been telling me for a while  )

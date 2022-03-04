@@ -1,0 +1,1 @@
+woohoo. my ubuntu live usb installation works! now i have a bootable os on my external hdd  no more worries about crashing os

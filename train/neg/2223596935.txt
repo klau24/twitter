@@ -1,0 +1,1 @@
+@WindowsAzure When will load balancing on the .NET Service Bus be available? I can't run more than one WebRole now 

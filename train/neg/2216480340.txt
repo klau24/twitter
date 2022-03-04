@@ -1,0 +1,1 @@
+something seems to be broken with the 'trends' feature in Tweetie, it only load one tweet at a time??? 

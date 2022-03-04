@@ -1,0 +1,1 @@
+Palm Pre 1.0.3 update enables sync with non-SSL Exchange servers, but still no support for servers that require device PINs. 

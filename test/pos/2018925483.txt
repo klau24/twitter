@@ -1,0 +1,1 @@
+#communityone #opensolaris In midst of my own update to 2009.06. Been running recent build, but now  letting Update Mgr do its thing.  

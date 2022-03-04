@@ -1,0 +1,1 @@
+@mparaz already started learning scala.  loving &quot;everything is an object&quot;. haven't explored the actors api that much.

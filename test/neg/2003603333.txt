@@ -1,0 +1,1 @@
+Got the Plazmic theme builder to build a custom BB theme, but after seeing how much work is involved I don't want to anymore 

@@ -1,0 +1,1 @@
+@cg219 Hey thanks! but i'm working with a standalone flash app with as2 codebase  but I managed to find a workaround.. really ugly code..

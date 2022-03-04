@@ -1,0 +1,1 @@
+my lappy is running dead slow, processor at 90 mhz  as soon as I start any process, the CPU usage shoots up to 100% (

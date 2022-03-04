@@ -1,0 +1,1 @@
+Dipping my toes into Ruby On Rails. The framework is supposed to come installed in Leopard. Man this is a bitch to get running 

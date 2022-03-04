@@ -1,0 +1,1 @@
+@Beverleyknight Tweet limit is an limit set by Twitter and not dependent on the software you use - they allow 100 &quot;API&quot; calls per hour 

@@ -1,0 +1,1 @@
+@quizbiz you know if you can install wordpress to it? I have already install wordpress to a free host, but its too slow 

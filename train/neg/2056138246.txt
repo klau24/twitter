@@ -1,0 +1,1 @@
+@squarespace  exported styles .xml is created \w all whitespace removed (I have to spend loads of time adding it so I can read the file) 

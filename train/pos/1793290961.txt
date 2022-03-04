@@ -1,0 +1,1 @@
+@merak didn't microsoft go around and destroy any .NET1.0 code still living in the wild? 

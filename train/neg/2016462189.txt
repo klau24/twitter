@@ -1,0 +1,1 @@
+huh!?! jQuery UI effects work in all browsers except in IE8? I use pulsate and it just won't work unless I turn on compatibility mode 

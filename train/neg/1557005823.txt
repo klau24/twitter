@@ -1,0 +1,1 @@
+Adding first level of polish to walk cycle. Should be finished soon hopefully, as render time is going to kill me 

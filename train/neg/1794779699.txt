@@ -1,0 +1,1 @@
+my itunes hd got a b-tree node size error. no longer readable/writeable. brought it to a datarecovering agency ... they gotta fix this 

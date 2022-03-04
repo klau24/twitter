@@ -1,0 +1,1 @@
+@dpinn it's a bad sad that their solution was maven + transitive deps... there's no enforcement at runtime 

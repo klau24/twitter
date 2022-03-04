@@ -1,0 +1,1 @@
+Apple folks — waste of my to log copious Radars about valgrind failures? Hopefully you are already fixing them for 10.6 

@@ -1,0 +1,1 @@
+Just started reading O'Reilly's XMPP book. Good stuff. Now off to sleep so I can dream of some massively scalable Internet architecture. 

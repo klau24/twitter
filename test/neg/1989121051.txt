@@ -1,0 +1,1 @@
+complex SQLite-based xul tree, instantaneous rendering; the same if jQuery enabled: 6 seconds to render!!! Dropping jQuery in XUL 

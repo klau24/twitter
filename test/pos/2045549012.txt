@@ -1,0 +1,1 @@
+@lmacvittie I remember when VMware didn't allow USB devices. If it wasn't storage, NIC, or primitive video, you didn't get to use it. 

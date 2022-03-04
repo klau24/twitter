@@ -1,0 +1,1 @@
+len(reversed([1,2,3])) == 3 in Py 2.5 and 2.6.1 but not in 2.6.2 

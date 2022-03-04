@@ -1,0 +1,1 @@
+Putting own not currently focused app to foregound makes me crazy. I do not seem to find a rialable way of doing this 

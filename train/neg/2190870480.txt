@@ -1,0 +1,1 @@
+Shame that drag-n-drop text editing is not supported in Topstyle 4, I found this a great time saving feature. Why was it removed 

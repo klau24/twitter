@@ -1,0 +1,1 @@
+@janl Well, while Rails is indeed work, Joose is great fun that even motivates you on sundays  + there is a chance for upstream merges.

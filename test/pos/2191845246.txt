@@ -1,0 +1,1 @@
+Sweet, converted the Olson TZ database into sql, thx mysql 

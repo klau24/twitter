@@ -1,0 +1,1 @@
+Ah, yesterday's maddening quest to make group index look like flickr group search... I thought blueprint-css had 40 columns instead of 24 

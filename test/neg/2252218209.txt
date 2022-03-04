@@ -1,0 +1,1 @@
+@SilkCharm When IE explains why they aren't supporting the :before &amp; :after - content: image classes, I'll think about using it again 

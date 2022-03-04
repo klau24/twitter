@@ -1,0 +1,1 @@
+@snappingturtle Yep, that's the Twitter integration at the moment. Kinda like that &quot;Twitter-to-Facebook Status&quot; plugin. 

@@ -1,0 +1,1 @@
+@thurrott tweetdeck on iPhone doesn't jump back to last read when loading new updated like twitterfon does. My only gripe about it 

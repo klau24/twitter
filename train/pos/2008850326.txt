@@ -1,0 +1,1 @@
+@bobbychaz Haven't tried Azure, let alone ELMAH on Azure.  Do you know the reason for the 404?

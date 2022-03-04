@@ -1,0 +1,1 @@
+Fixing bug in CXF/DOSGi client-side proxies. The equals() method was sent to the other side as well - oops 

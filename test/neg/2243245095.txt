@@ -1,0 +1,1 @@
+testing out chrome on a mac...liking it for the most part...but i'm noticing i'm going to have to start creating some CSS fixes for it 

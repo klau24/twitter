@@ -1,0 +1,1 @@
+@TheColonial binary data from a proprietary communication protocol, rather complex. And there are MANY different data structures 

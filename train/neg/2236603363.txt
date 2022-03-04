@@ -1,0 +1,1 @@
+Considering uninstalling #TwitterFox as the higher number of tweets downloading is slowing down Firefox 

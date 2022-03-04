@@ -1,0 +1,1 @@
+@davepeterson - One problem with firmware update - it has to enter the camera through a CF card (which is the problem). Non-starter.  

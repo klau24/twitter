@@ -1,0 +1,1 @@
+I find the lack of method chaining in Python disturbing  dear hmac library: why do you make me think in C!? www.›.ws/ also urllib, etc.

@@ -1,0 +1,1 @@
+@matthodder There are hooks before and after the content area: thesis_hook_before_content_area and thesis_hook_after_content_area 

@@ -1,0 +1,1 @@
+2400dpi files make everything go slower. 

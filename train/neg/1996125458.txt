@@ -1,0 +1,1 @@
+Facebook and Twitter Xbox apps look cool, but can you build your own? XNA doesn't provide network access outside of XBL 

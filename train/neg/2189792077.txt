@@ -1,0 +1,1 @@
+one of the issues with hosting in the US is the timezone difference - off-peak outage for them = peak time outage for me 

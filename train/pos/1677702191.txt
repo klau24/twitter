@@ -1,0 +1,1 @@
+Use .hasClass() method to check if an element has specific class. Some developers forget about the existance of that method 

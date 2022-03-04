@@ -1,0 +1,1 @@
+Ugh. Same issue on 10.6 with do_sqlite3 as I had with nokogiri. Seems I'm pioneering here 

@@ -1,0 +1,1 @@
+Finished JavaScript debugging task  Now onto an algorithm for php - fun stuff

@@ -1,0 +1,1 @@
+I am trying to download a 12mb file. It is going to take an hr.  A 1.2mb file took well over 10 minutes, earlier.

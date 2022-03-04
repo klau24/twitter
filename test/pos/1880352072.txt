@@ -1,0 +1,1 @@
+Well I almost have sphinx + php + codeignitor working on speedtrap.org Some actual searching can be done now with keywords ect.. 

@@ -1,0 +1,1 @@
+@PacmanRetro it appears that push only works in AP app if your region (within app) is set to USA, was like that in beta app as well 

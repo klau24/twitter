@@ -1,0 +1,1 @@
+started creating my own linux cheat-sheet. Very useful when you are in a middle of a data center and can't look it up online 

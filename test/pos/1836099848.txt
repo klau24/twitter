@@ -1,0 +1,1 @@
+@drewmccormack ... w/a &quot;SeriesData&quot; class. No data source methods in my design, though in retrospect it might've been easier. 

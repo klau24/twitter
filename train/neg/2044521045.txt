@@ -1,0 +1,1 @@
+Still at work. A python app is refusing to run correctly when started by cron. Starting from CLI works. Sourcing profile no help 

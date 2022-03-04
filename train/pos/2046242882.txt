@@ -1,0 +1,1 @@
+#javaone the JPA session was solid.  Now onto concurrency programming for multi-processor systems!

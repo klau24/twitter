@@ -1,0 +1,1 @@
+@shopadidasuk &quot;Gateway Timeout The proxy server did not receive a timely response from the upstream server.&quot; Can't get to the checkout 

@@ -1,0 +1,1 @@
+Wow...VS2010# has sticky note style debug watchers...it's called &quot;Data Tips&quot;...nice one! 

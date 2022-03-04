@@ -1,0 +1,1 @@
+from inquirer.net: ...with University of the Philippines settling for runner-up and Jose Rizal University taking third place. 

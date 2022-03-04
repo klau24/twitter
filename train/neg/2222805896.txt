@@ -1,0 +1,1 @@
+No luck trying to unlock an AMD Phenom X2 550 CPU... after activating the ACC the system doesn't boot, so the other 2 cores are defective 

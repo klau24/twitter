@@ -1,0 +1,1 @@
+Had to move hosting from Rackspace cloud to Hostgator dedicated servers - site wasn't built to suit cloud! New servers are ultra fast 

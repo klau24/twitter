@@ -1,0 +1,1 @@
+@realworldobject yes, that's part of it (but a separate issue?).  I think issues apply to all media types, i.e. beware rel. on conneg 

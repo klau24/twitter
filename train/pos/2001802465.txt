@@ -1,0 +1,1 @@
+@havardstranden That is why a mapping framework also should support automatic verification of the mapping 

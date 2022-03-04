@@ -1,0 +1,1 @@
+sudo apt-get install #couchdb just for the fun 

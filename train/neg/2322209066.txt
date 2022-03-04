@@ -1,0 +1,1 @@
+I've set black theme for Twitterfox.  the textarea background and the font color are black. I cudnt see what I'm typing.. UI sucks 

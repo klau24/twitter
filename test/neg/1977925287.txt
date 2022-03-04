@@ -1,0 +1,1 @@
+now I feel more accomplished with my archlinux after installing CrossOver, IE6 runs like a charm, WINE is giving me problems 

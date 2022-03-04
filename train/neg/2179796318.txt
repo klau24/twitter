@@ -1,0 +1,1 @@
+yes, my first windows 7 blue screen, doing nothing than just an rdp session from my macbook, after that my outlook doenst start anymore 

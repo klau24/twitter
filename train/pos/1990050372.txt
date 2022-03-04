@@ -1,0 +1,1 @@
+@reybango It's just the &quot;remove embeds&quot; tutorial code, but inserts a &quot;style&quot; element instead. No spectacular code, but oh, so useful. 

@@ -1,0 +1,1 @@
+@oisin is ok, I had the linux FID distro and put the FID-1.2-dependencies folder into the dropins folder and it's all sweet now, thx! 

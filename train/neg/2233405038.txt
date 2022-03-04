@@ -1,0 +1,1 @@
+my TweetDeck (linux) uses over 308MB of ram    ... always slows my machine.

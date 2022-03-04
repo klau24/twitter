@@ -1,0 +1,1 @@
+Tweetdeck for iPhone doesn't let you tap links from the feed view, you have to go to the tweet detail screen.  Back to Twitterfon for now.

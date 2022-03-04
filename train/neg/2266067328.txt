@@ -1,0 +1,1 @@
+ I seem to have found a bug in HotSpot. My GLL combinators test suite stack overflows under &gt;=1.6.0_10, but not on other versions.

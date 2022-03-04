@@ -1,0 +1,1 @@
+@snorestore IE is a massive pain for web designers and developers as it just doesn't properly adhere to rules. Alas, most people use it. 

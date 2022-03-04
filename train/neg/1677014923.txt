@@ -1,0 +1,1 @@
+grrr Vista install not going well. Boot record corrupted after reinstalling drivers. Start again 

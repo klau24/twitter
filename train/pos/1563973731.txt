@@ -1,0 +1,1 @@
+@gblock Amen to that one. We REALLY need that. And those compiler hooks coming in C# 5 

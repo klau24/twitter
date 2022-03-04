@@ -1,0 +1,1 @@
+@codinghorror Unfortunately not - time to implement rate limiting via squid/F5/switch unfortunately. 

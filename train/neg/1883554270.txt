@@ -1,0 +1,1 @@
+kde4 on portable ubuntu did not go too well  would need some more attention to see how the hell they launch gnome in that thing

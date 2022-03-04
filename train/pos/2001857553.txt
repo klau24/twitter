@@ -1,0 +1,1 @@
+@ibz nope, but you can build one on top of UIWebView, if you want (still Safari underneath though  )

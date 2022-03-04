@@ -1,0 +1,1 @@
+@Artnez oh gotcha... Actually I didnt had deep hierarchy so I was getting same result for both. Anyways Thanks alot 

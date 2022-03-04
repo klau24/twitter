@@ -1,0 +1,1 @@
+@akfarrell Right. Book, bold and italic are usually weights that are most useful. Extrabold, heavy, thin and ultralight == less versatile 

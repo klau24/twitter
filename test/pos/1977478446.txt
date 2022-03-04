@@ -1,0 +1,1 @@
+@writingclasses: @_decode_ It should takes, if not days, to find just the &quot;write&quot; opening line.     ---- HUH? Weeks?Months?centuries?

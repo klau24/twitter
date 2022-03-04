@@ -1,0 +1,1 @@
+@NeilDaniels Well, most of upper level math is done by hand. You don't really need a calculator for calc, and everything else is a proof. 

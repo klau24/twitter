@@ -1,0 +1,1 @@
+The new MS Outlook seems to be dumping CSS-support - leaving developers to build HTML-mails like in the stoneage.  See fixoutlook.org

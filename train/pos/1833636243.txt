@@ -1,0 +1,1 @@
+@hohoteam try issue sql &quot;SET NAMES 'utf-8'&quot; after calling mysql_connect 

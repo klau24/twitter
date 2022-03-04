@@ -1,0 +1,1 @@
+Rhubarb all claimed! Now trying to generate the perfect bad pixel mask, something that I should ideally have already. Bad ESO calibs. 

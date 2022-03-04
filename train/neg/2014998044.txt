@@ -1,0 +1,1 @@
+is downloading a redhat install image(s) from hurlsey disappointed to find no prebuilt 64bit vmware on the ftp..  this could take forever!

@@ -1,0 +1,1 @@
+ErlIDE once again hangs up.     I think I have my Erlang configuration messed up.

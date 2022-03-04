@@ -1,0 +1,1 @@
+if instead of referring to the datasourceid I refer directly to the datasource I get no data. por que?! Stupid web forms. 

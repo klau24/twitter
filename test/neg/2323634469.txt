@@ -1,0 +1,1 @@
+Need Aspell 0.6.6 for Windows in binary. It sucks to develop on Windoze - many OSS tools feel like 2nd class citizen there 

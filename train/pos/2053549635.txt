@@ -1,0 +1,1 @@
+My wild WWDC prediction: IPhone runtime to get a Garbage Collector. Consequently, #MacRuby to be fully supported as a target language. 

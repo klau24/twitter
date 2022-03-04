@@ -1,0 +1,1 @@
+We're working on new extension - Core Design Hot Keys plugin, which enable to manage your J! administration via hot keys 

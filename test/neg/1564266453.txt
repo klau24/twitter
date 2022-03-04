@@ -1,0 +1,1 @@
+@robertmeta snap links isn't working with the 3.0.8 release of firefox  I was looking forward to trying it. Good find.

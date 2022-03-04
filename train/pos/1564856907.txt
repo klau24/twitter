@@ -1,0 +1,1 @@
+@crazylabel ok up and running  one of the criticism for Tweetie seems to be not showing you the number of new msgs since last logged in.

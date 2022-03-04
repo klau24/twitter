@@ -1,0 +1,1 @@
+the sweet smell of css success turns to utter stench on first test in IE6!!! 

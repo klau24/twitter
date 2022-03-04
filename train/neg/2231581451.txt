@@ -1,0 +1,1 @@
+=SUM(A1:A3)/COUNTIF(A1:A3,&quot;&gt;0&quot;) works for positive values, but fails if all fields are zero, or if the files have negative values 

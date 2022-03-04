@@ -1,0 +1,1 @@
+@phillipsdj Also rem the flash, java and shockwave plugins so all the main sites still look like they oughta 

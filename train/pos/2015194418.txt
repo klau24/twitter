@@ -1,0 +1,1 @@
+verified: bug 277611 is fixed, target platform works  - today #eclipse35 democamp munich - then I start blog #galieo and enterprise apps

@@ -1,0 +1,1 @@
+Fixed the famous HFS+ partition error on my WinMac dual boot. 

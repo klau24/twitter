@@ -1,0 +1,1 @@
+gitosis is hard.  The documentation is inconsistent and skips steps.  Someone who knows the process could probably grok easier 

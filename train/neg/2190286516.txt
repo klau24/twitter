@@ -1,0 +1,1 @@
+Thinking about suspending TweetDeck. It just managed to use up more memory than all other processes on my machine  Client suggestions?

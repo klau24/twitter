@@ -1,0 +1,1 @@
+@indyan no idea! when powered on, i can hear the disk running but pc doesn't get past initial splash screen and into the bios/bootloader 

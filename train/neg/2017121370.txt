@@ -1,0 +1,1 @@
+@_hb nice tip about the technet sub, won't work properly in Firefox 3.5b on Ubuntu tho', it doesn't even like IE6 thru WINE  #WINE #Ubuntu

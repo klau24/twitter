@@ -1,0 +1,1 @@
+@blue_fenix Is it stable enough for real use? Also, I really need VS integration. I just love AnkhSVN, and I want AnkhGit 

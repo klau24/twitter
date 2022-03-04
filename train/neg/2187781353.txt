@@ -1,0 +1,1 @@
+Looks like option parsing in IronRuby is broken. That means I can't tell igem to install wrapper scripts to another directory. Filed bug. 

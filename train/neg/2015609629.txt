@@ -1,0 +1,1 @@
+Cannot find SS.INI file for user Dan. I hate Souce Safe 

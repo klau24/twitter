@@ -1,0 +1,1 @@
+DNS Propagation takes WAY too long!  There should be a way to speed that stuff up

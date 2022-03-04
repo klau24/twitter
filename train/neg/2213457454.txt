@@ -1,0 +1,1 @@
+@braceta Nope. This bug is well reported on Apple discussion forum and other sites. It's a rendering bug.  Thanks for the tip, though.

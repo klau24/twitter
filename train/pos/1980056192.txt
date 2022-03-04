@@ -1,0 +1,1 @@
+managed to make my bitmap fonts to work with button captions by changing just ONE functions 

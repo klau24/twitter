@@ -1,0 +1,1 @@
+#Transmit FTP problem : My sync only updates 'new' files, so if I make 2 changes in 1 minute, it won't recognize the second one. Help  ?

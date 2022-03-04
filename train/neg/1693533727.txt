@@ -1,0 +1,1 @@
+@twitter Typing tweets on ubuntu/firefox-3.0.10 is very slow  looks like you are firing too many js events. Text appears after a long time

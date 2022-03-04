@@ -1,0 +1,1 @@
+t is not possible to detach a tab in Internet Explorer 8 !  

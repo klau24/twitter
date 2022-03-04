@@ -1,0 +1,1 @@
+Anyone out there familiar with Sony Vegas 9.0? The audio works fine in my rendered video, but it's just a black screen. So frustrating 

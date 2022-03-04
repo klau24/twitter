@@ -1,0 +1,1 @@
+OpenOffice 3.0.1 bug concerning wrong extensions after saving has been fixed in 3.1.0  that's enough

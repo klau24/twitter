@@ -1,0 +1,1 @@
+@matt231 So use a local one as primary and openDNS as secondary, problem solved 

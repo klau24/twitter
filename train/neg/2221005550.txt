@@ -1,0 +1,1 @@
+I can't believe I spent a whole working day trying to get a button to center correctly in GWT. And I still didn't get it quite right 

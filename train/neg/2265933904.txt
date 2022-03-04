@@ -1,0 +1,1 @@
+Firefox is quite a bit slower with Nouveau vs nvidia. 

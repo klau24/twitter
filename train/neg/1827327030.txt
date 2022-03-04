@@ -1,0 +1,1 @@
+Fixing an old USB mouse GPS that apparently had the antenna cable broken. My eyes are not as they used to be for smt soldering 

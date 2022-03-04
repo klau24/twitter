@@ -1,0 +1,1 @@
+only watches origin when qld are in a position where they can't lose 

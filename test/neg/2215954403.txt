@@ -1,0 +1,1 @@
+Attempting to migrate Google Calendars to Zimbra. It's not as straightforward as you would think. Seemingly-basic features are missing. 

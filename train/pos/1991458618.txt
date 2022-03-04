@@ -1,0 +1,1 @@
+@gmail_team, is there a reason why IMAP isn't supported in #mail_fetcher, if it were, I might throw away TB and switch to #gmail! 

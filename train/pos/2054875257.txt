@@ -1,0 +1,1 @@
+I finally was able to get rid of that pesky CLCapSvc error on my laptop's startup! Good riddance! 

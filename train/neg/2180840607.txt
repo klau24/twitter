@@ -1,0 +1,1 @@
+If you disable functions in JavaScript (using //).  Don't forget to re-enable them before you debug why they aren't working.  

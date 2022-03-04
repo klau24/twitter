@@ -1,0 +1,1 @@
+Problem with config at one of our customers meant emails were starting “Dear Firstname Lastname (null)“ - French customers not impressed 

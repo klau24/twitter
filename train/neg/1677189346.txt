@@ -1,0 +1,1 @@
+Added Mozilla plugin for Twitter. Nice but not as nice as a working Gnome screenlet would be. 

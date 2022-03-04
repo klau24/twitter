@@ -1,0 +1,1 @@
+@lisacrispin from web interface, click on the time-stamp (e.g. 3 minutes ago) and tweet is shown. Get URL from location bar in browser 

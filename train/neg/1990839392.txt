@@ -1,0 +1,1 @@
+Don't find the solution for the &quot;jumping&quot; div with jQuery slideToggle... Have to bookmark more sites when I needed them the first time 

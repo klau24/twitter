@@ -1,0 +1,1 @@
+managed to run PPS on XP without MOSS 

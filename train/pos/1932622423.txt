@@ -1,0 +1,1 @@
+@ivyclark You have my sympathy  I once tried to skin Sharepoint to W3C standards and to use semantic mark-up. ASP just sucks for that.

@@ -1,0 +1,1 @@
+Managed to create a webpage that crashes IE6, only with valid HTML and CSS! YAY! 

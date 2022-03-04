@@ -1,0 +1,1 @@
+#WPF error - &quot;cannot modify the logical children for this node at this time because a tree walk is in progress&quot; - has zero google hits 

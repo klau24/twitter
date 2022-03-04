@@ -1,0 +1,1 @@
+@IdleThumbs NVIDIA or ATI?  I tried the demo on my 4870 and it performed terribly.  I don't think it likes ATI cards 

@@ -1,0 +1,1 @@
+@GrosenFriis @larsbachmann parser  echo preg_replace(array('/skema/','/raekke/','/kolonne/','/fed/'),array('table','tr','td','b'),$str);

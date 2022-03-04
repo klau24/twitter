@@ -1,0 +1,1 @@
+@eghm I haven't yet. I was hoping that it would boot fine from the DVD, but it didn't. Wiping out the win partition is next 

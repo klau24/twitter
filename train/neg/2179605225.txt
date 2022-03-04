@@ -1,0 +1,1 @@
+shoveling content around today, can't stop to fix my wordpress 2.8 update mishap until later  .htaccess + 302 to the rescue

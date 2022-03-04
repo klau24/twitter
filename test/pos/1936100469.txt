@@ -1,0 +1,1 @@
+thought of writing a footnote inside a footnote but seems like it's not possible with LaTeX 

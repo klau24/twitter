@@ -1,0 +1,1 @@
+If the C# code I'm looking at right now was instead written in assembly language, I probably wouldn't have noticed the difference 

@@ -1,0 +1,1 @@
+It also doesn't update-on-post so you don't see your new tweet until the next scheduled update 

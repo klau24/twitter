@@ -1,0 +1,1 @@
+Developing an application for mobile devices with JSF/Seam but w/o RichFaces...Pocket IE seems to dumb 

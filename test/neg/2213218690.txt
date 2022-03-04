@@ -1,0 +1,1 @@
+@hak5darren I tried the whole process aormon - cowpatty on ubuntu with a bellin USB and it worked great except kismet server crashed 

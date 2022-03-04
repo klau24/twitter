@@ -1,0 +1,1 @@
+Meh, I really expected &quot;incompatible character encodings: ASCII-8BIT and US-ASCII&quot; to be passé in HEAD.. I feel so alone on 1.9 

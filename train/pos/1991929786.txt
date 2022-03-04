@@ -1,0 +1,1 @@
+@jfroebe I wouldn't mind if I had tests - or examples - or a vaguely comprehensible class hierarchy 

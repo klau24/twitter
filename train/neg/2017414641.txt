@@ -1,0 +1,1 @@
+Thats a little annoying. SSMS addin works in 2005, not 2008 

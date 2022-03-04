@@ -1,0 +1,1 @@
+'Dark Room' cannot save in Unicode. 12 hours of effort writing in Tamil gone waste 

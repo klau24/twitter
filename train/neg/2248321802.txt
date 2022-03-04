@@ -1,0 +1,1 @@
+@nathanborror — Looked at the code and didn't see any sort of function for that.  Guess I should poke the Pocoo guys about it.

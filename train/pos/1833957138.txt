@@ -1,0 +1,1 @@
+@CassiusChaerea Oops, that is a bug. Thx for finding. I'll upload the fixed Sudoku on Shoes to github repo tonight. 

@@ -1,0 +1,1 @@
+trying to do upgrade work on a sql 2000 database that's already been upgraded to a sql 2005 server 

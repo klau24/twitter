@@ -1,0 +1,1 @@
+Sun is out here  @ ERROR - SEND REQUIRED FIELDS (URL, USER, API). CHECK http://snipurl.com/site/api FOR INSTRUCTIONS.

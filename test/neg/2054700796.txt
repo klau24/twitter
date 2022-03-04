@@ -1,0 +1,1 @@
+why aren't flash .sol files deleted when browser caches are cleared? its so incredibly unintuitive to explain to clients how to clear em 

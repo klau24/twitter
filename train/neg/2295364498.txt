@@ -1,0 +1,1 @@
+I &lt;3 Qemu, but it sucks trying to get networking working on Windows. 

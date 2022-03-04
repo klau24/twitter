@@ -1,0 +1,1 @@
+@rbates I don't see how using attr_accessible(:all) can be less dangerous than using attr_protected. Please enlighten me 

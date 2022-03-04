@@ -1,0 +1,1 @@
+json.dumps(glob.glob(&quot;run/indexed/new/*&quot;))  wow, that was so hard. 

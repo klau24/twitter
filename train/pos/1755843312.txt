@@ -1,0 +1,1 @@
+@dazjones  the built-in firewall is fully integrated into the OS and plays well with the existing networking technologies and stack

@@ -1,0 +1,1 @@
+Tried the notebook cooler under cpu and gpu heavy stress and.. WOW! Nearly 20�C cooler  It's this one http://tinyurl.com/3dcm4g

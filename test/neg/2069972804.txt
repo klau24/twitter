@@ -1,0 +1,1 @@
+@curryml Does CS ever have the problem of a = -a? Cause that's what I'm facing at the moment, and its not working out at all! 

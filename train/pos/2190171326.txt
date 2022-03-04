@@ -1,0 +1,1 @@
+@JMe9ka writing up an automation script to run a bunch of circuit simulations  remember PSPICE? woo hooo!!! I need sleep 

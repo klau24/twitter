@@ -1,0 +1,1 @@
+This bug http://is.gd/Q8zM will see me reverting to 2008.11  #opensolaris

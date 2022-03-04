@@ -1,0 +1,1 @@
+@ubertwiter I'm trying to refresh the public timeline and it won't update. Is this a bug?  

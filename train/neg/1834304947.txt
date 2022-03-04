@@ -1,0 +1,1 @@
+Gah. Started making some major headway on my crashreporter app, and then I hit Symphony's subsection field limitations again 

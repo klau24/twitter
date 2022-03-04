@@ -1,0 +1,1 @@
+&quot;tabs anywhere&quot; feature in #MightyMorph is 100% working now &amp; even works perfectly with multiple instances on a page 

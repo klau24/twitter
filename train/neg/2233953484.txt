@@ -1,0 +1,1 @@
+The new Ubuntu kernel broke my audio  Have gone back to the previous one

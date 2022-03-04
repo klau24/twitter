@@ -1,0 +1,1 @@
+@tomaw I've tried that with two IRC clients, neither seem to work. I've seen some colloquy instructions involving macports and patches 

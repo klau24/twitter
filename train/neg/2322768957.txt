@@ -1,0 +1,1 @@
+@jswanhart aha right you are. My bad I was actually working with php-5.2.x and posted the wrong thing entirely 

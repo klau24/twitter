@@ -1,0 +1,1 @@
+Anyone fiddled with Lightbox Gone Wild for Rails? Got it working but loads page content twice 

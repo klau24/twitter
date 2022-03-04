@@ -1,0 +1,1 @@
+Playing in the OS X Console: can't see any errors for en1 and no relevant errors for airport.  So no answer there.

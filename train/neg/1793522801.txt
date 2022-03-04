@@ -1,0 +1,1 @@
+Of course there is a downside as well. Opening a connectivity port for XI, requested in March... Still not working  Affects 3 use cases.

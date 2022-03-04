@@ -1,0 +1,1 @@
+crap - direct !identica !laconica login broken in latest @adium !adium 1.4 from svn - switching to xmpp 

@@ -1,0 +1,1 @@
+Confusion: twitterfeed is not picking up RSS properly for me. 

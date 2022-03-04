@@ -1,0 +1,1 @@
+Mail app only appears to store 2-3 weeks worth of mail 

@@ -1,0 +1,1 @@
+Gah, now it seems that gpg doesn't work correctly if you've sshed into the box.  /dev/tty doesn't exist.  

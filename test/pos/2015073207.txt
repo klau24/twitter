@@ -1,0 +1,1 @@
+@joshmarinacci thx for your response on multiple inheritance  Hope that mix-ins will solve some of these issues.

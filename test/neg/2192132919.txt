@@ -1,0 +1,1 @@
+tweetdeck seems to be broken. it does  not update and when I restart it the geometry is set to appear off-screen 

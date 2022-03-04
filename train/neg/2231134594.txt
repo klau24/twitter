@@ -1,0 +1,1 @@
+@Interbike I've done a  bunch of updates to my apps, but other than saying tested on 3.0, none seem to have gained push functionality yet 

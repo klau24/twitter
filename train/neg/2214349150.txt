@@ -1,0 +1,1 @@
+Yay! TheCatholicSpirit uses CSS/div layout techniques instead of ugly tables. But they also have Joomla and jomcomment  @catholicspirit

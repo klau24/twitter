@@ -1,0 +1,1 @@
+@sshawnn problem solved.  needed to import from a video camera.

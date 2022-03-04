@@ -1,0 +1,1 @@
+@tehlike You need to have ruby and rake installed on the client machine.  Luckily we have nant scripts that work now. RIP horn rake 

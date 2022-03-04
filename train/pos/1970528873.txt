@@ -1,0 +1,1 @@
+@PlaneMad Hmm... create an extended partition. That way you can keep ubuntu also. 

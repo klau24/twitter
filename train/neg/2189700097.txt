@@ -1,0 +1,1 @@
+got my #zendframework - #jquery tool working... now database is out 

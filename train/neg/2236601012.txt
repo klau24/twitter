@@ -1,0 +1,1 @@
+@CoTweet the sidebar to the right doesn't seem to work in FF3.5 (post an update, search twitter, add a twiter account) 

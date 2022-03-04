@@ -1,0 +1,1 @@
+@johnMu Do you have any details on the nofollow?  What happens to the PageRank of the nofollow links? Distributed to the rest of the web?

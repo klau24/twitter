@@ -1,0 +1,1 @@
+About to start building a Questions &amp; Answers community area in Rails. If anyone has any good tips, now would be great! 

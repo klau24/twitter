@@ -1,0 +1,1 @@
+back from mozilla maemo weekend (#mozmae), thanks to keesj and jeremiah libliqbase has a proper -dev package 

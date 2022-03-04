@@ -1,0 +1,1 @@
+On a related note, 120k worth of &lt;li&gt; and 400 images does not render in the speediest manner imaginable 

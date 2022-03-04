@@ -1,0 +1,1 @@
+@simonives unfortunately that would involve installing the KDE libs, dont feel like doing that just now  ... might give KDE  a go soon

@@ -1,0 +1,1 @@
+Transmission is heavy on resources ... VLC stutters when it's on, even when Transmission is in 'slow' mode 

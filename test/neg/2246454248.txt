@@ -1,0 +1,1 @@
+I deactivated the AZIndex Plugin at my blog because it stopped working after upgrading my blog to 2.8. So for now there is NO Index 

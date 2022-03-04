@@ -1,0 +1,1 @@
+@brennig now to figure out why installed themes show header text in wrong place. 

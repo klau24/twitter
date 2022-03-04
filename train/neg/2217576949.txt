@@ -1,0 +1,1 @@
+@japansoc Im having a problem signing in to JapanSoc. Im using Google ID and once I clicked Sign In, it goes back to Registration page 

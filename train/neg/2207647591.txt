@@ -1,0 +1,1 @@
+@xinsight Hehe, that's what I was trying to avoid. Adding shadows to the images makes resizing them more complicated  #iphonedev

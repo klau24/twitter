@@ -1,0 +1,1 @@
+@binnyva: The bug is probably the space between &lt; and = in the for loop definition 

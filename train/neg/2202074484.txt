@@ -1,0 +1,1 @@
+@hagus I agree about git supremacy but it's also true that git-svn is a pain 

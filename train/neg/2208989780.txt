@@ -1,0 +1,1 @@
+@hinshelm if everybody followed that rule, we wouldn't have any logging frameworks 

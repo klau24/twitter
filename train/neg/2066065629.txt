@@ -1,0 +1,1 @@
+how can one put widgets, buttons etc. in the mid of the sidebar? this just looks awful 

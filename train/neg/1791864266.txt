@@ -1,0 +1,1 @@
+Reading the python doc tutorial and at a point where none of the examples work on python 2.5.2 but only on 2.6 . hard to try out 

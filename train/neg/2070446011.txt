@@ -1,0 +1,1 @@
+Great - joda-time blows up when using Long.MAX_VALUE as a millisecond value 

@@ -1,0 +1,1 @@
+@jwage BTW, my grilling over 1.2 comes from a place of love, I swear  Where is documentation for accessing non-relational refClass fields?

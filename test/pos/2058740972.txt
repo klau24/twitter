@@ -1,0 +1,1 @@
+i reckon there is a compatibility problem with IE8 and older chm files. do i dare try rolling back to IE7? i think not 

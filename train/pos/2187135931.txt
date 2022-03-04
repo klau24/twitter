@@ -1,0 +1,1 @@
+Reporte mi primer bug para project-389 aka FedoraDirectoryServer ,  Bug 506206 -  libslapd is not linked with -lrt 

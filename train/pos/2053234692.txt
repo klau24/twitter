@@ -1,0 +1,1 @@
+Fedora 10 installed in Vbox  now its time for testing .rpm pylons deployment 

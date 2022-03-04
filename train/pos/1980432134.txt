@@ -1,0 +1,1 @@
+upgrading to the latest #slackware kernel: 2.6.29.4 

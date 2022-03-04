@@ -1,0 +1,1 @@
+Haha, great. Twitter's message IDs went out of &quot;int&quot; realm as it is understood by postgresql. This was causing @upwitter to break down.. 

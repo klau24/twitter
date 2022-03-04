@@ -1,0 +1,1 @@
+Wordpress's the_title() doesn't work for archive pages.   So *that's* what that un-refactored code at the top of archive.php is for.

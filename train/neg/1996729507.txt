@@ -1,0 +1,1 @@
+Symantec AV Enterprise Server does *not* like domain hopping. 

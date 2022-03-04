@@ -1,0 +1,1 @@
+TPG say we've been shaped at 64kps, but I swear even in the bad old days of dial-up it wasn't this slow   They should shape to 256 kps

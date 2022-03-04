@@ -1,0 +1,1 @@
+There's about a .5 second delay between when the person says something and when it gets broadcast over the speaker phone. Make it stop 

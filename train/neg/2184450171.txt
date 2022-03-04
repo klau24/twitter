@@ -1,0 +1,1 @@
+Oh man!!!! #Ruby / #Sinatra /#CouchObject - Application works fine on Mac OS X but TOTALLY screws up on Linux. Error in #CouchObject ? 

@@ -1,0 +1,1 @@
+Windows 7 didn't work on my vpr Matrix 200A5 laptop. Video, sound, network, and modem drivers were not available even after searching. 

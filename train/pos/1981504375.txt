@@ -1,0 +1,1 @@
+@davidcarrington Hey - I keep getting &quot;An error occured whilse calling the twitter API&quot; with dabr on my nokia...  any ideas?   Stuck!

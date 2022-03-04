@@ -1,0 +1,1 @@
+@schambers @pragma_tech Bingo!  A good mix is Cucumber/RSpec. A good check is if you can run all unit tests before checking in.

@@ -1,0 +1,1 @@
+@antrix yeah true! until I tried Debian Lenny.  btw, are you using ext4 ?

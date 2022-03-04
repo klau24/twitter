@@ -1,0 +1,1 @@
+@ikai Yep! And creating a simple CRUD seems like a lot of effort ... quite unlike Rails or Grails 

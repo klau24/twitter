@@ -1,0 +1,1 @@
+Wondered why the server wasn't availible (no ssh etc.) after boot... connected a screen: does a file system check (2 TB) 

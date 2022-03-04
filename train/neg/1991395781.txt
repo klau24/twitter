@@ -1,0 +1,1 @@
+CPU sans PAE means no Moblin for me  - that's what I get for being a cheapo and buying old hardware

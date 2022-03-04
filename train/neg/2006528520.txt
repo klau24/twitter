@@ -1,0 +1,1 @@
+Yep, I can't upload images to #wordpress. Every time I click &quot;add an image&quot; firefox crashes 

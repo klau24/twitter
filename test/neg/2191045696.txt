@@ -1,0 +1,1 @@
+/me hates to write documents explaining design/code 

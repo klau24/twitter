@@ -1,0 +1,1 @@
+Hmmm, OperaUnite needs port 8840 in order to connect to the proxy; not good if you don't own the firewall and that port is blocked 

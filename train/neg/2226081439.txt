@@ -1,0 +1,1 @@
+@hectorramos Extracted it and it created a new folder called Payload. iTunes still won't select the new file 

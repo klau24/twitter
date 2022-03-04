@@ -1,0 +1,1 @@
+And then once rootkit detector was used to unhide stuff - the anti virus software found loads of stuff 

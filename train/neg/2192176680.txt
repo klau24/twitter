@@ -1,0 +1,1 @@
+@tweetdeck problem with v0.25.2b: window geometry resets off-screen on restart (window invisible) and unless app restarts, no updates 

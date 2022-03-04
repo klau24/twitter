@@ -1,0 +1,1 @@
+now i need to make an additional &quot;tab&quot; style template layout for the plugin, so all this info is better grouped, leaving more space 

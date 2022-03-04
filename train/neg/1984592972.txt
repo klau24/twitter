@@ -1,0 +1,1 @@
+firefox fails me..  have been running in safe mode, disabled all auto updates, add-ons, restored to default settings, and it crashes  bad.

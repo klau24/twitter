@@ -1,0 +1,1 @@
+@dkris  i figured it out - i had the twitter app with status updates off and have it working with tweetdeck... pretty cool...memory good 

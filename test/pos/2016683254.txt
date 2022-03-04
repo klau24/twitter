@@ -1,0 +1,1 @@
+@AAS If I manually enter homepage address, then fine, open the main site. But when i visit through links, i don't control the URL 

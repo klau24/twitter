@@ -1,0 +1,1 @@
+@goglobalwebs having a nightmate with it - won't display properly in ie6. I've removed the hidden text, it was already indexed though 

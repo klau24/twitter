@@ -1,0 +1,1 @@
+@ECHO_47 Twitter has been having background &quot;issues&quot; lately. 

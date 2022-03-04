@@ -1,0 +1,1 @@
+@garrynewman It's now officially impossible to build in gMod: not being able to noclip into the ground ruins pretty much everything. 

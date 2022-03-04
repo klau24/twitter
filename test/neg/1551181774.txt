@@ -1,0 +1,1 @@
+discovered an annoying flaw of UIProgressView in Cocoa Touch. There is no way to animate it with standard Core Animation methods 

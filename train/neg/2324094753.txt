@@ -1,0 +1,1 @@
+Testing tweetdeck and noticed that I can't make searches with umlauts. 

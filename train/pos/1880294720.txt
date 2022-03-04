@@ -1,0 +1,1 @@
+Finally worked out pressing the button on the g1 headset twice skips to the next random song.  Only took me 7 months 

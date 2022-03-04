@@ -1,0 +1,1 @@
+whenever you sign up for a free account on a website, it should just log you in right away instead of requiring confirmation. 

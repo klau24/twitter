@@ -1,0 +1,1 @@
+Almost finished dl'ing the Catalyst beta. If it's anything as we've seen I might just use it as my graduation project environment. No AS3 

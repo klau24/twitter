@@ -1,0 +1,1 @@
+has hit a wall using HTTPUnit to navigate the heavily JavaScripted test page.  http://plurk.com/p/ukhzt

@@ -1,0 +1,1 @@
+Flash Builder 4.0 beta + Flex Data Visualization Components + Flex SDK 3.2 = License Problems 

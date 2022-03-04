@@ -1,0 +1,1 @@
+It started with fixing a not so simple bug, and I end up cleaning up code.  At least I remove these 2*O(n) abuse.

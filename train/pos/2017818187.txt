@@ -1,0 +1,1 @@
+@kevleviathan with template overrides is pretty easy to make Joomla look any way you want.. a completely tableless site 

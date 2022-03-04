@@ -1,0 +1,1 @@
+are there ANY ruby twitter gems that don't depend on native deps? 'twitter4r', 'twitter' etc. have native dependencies. 

@@ -1,0 +1,1 @@
+On chapter 6 of #cleancode. 'have you read Clean Code?' should be a compulsory question in developer interviews 

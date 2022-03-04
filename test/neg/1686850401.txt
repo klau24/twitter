@@ -1,0 +1,1 @@
+@l0nwlf Will see if IE supports it, but later, just woke up, but the rule is = Cookie enabled =&gt; no cross domain iframe manip 

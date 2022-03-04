@@ -1,0 +1,1 @@
+@microedge  Instead of checking for all possible weaknesses, they just patch up one by one as the worms appear. Not efficient, not smart 

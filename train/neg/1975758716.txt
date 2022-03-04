@@ -1,0 +1,1 @@
+Nokogiri gem is the nightmare on windows and Ruby 1.9.1  Fuck, I need use webrat!!

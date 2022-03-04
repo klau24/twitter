@@ -1,0 +1,1 @@
+yes... firefox 3.5 has a new JS engine.... to bad that is not V8 

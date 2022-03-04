@@ -1,0 +1,1 @@
+@mbcharbonneau KVO's API is just too ugly &amp; broken, unfortunately 

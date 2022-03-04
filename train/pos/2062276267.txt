@@ -1,0 +1,1 @@
+@Yeco pues si. As long as you cache bytecode on production, I also prefer scripting 

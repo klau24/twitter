@@ -1,0 +1,1 @@
+r @slimcode Twitter search only goes back a very limited time. Everything else is lost, not searchable. Google doesn't index many Tweets. 

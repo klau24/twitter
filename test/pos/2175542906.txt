@@ -1,0 +1,1 @@
+Decomm'ing a few servers. Running &quot;dd if=/dev/zero of=(all disks)&quot; is kind of fun 

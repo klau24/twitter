@@ -1,0 +1,1 @@
+going through Host Update Utility right now, think we can kick it off and go to sleep and wake up with ESX 4 

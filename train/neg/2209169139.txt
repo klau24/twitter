@@ -1,0 +1,1 @@
+except sms, almost all the other functions of ATSMS demo are working with my k530i. wonder what's wrong 

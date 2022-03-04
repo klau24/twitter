@@ -1,0 +1,1 @@
+@finialring meaning can't use BeOS and OS/2. Wouldn't run on Symbian either I guess 

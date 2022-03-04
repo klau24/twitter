@@ -1,0 +1,1 @@
+is trying to consolidate 3 old IDE disks (8,8,20GB) into a PC with 384MB of RAM and install Milax 0.3.3. Problems with EFI disk labels 

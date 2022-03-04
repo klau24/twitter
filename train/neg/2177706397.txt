@@ -1,0 +1,1 @@
+I've installed OpenSolaris at last. But I'm a little disappointed, it's rather slowly... no, it is very slowly on my old test machine 

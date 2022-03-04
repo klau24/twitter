@@ -1,0 +1,1 @@
+@chadcampbell confirmed that total dns is not available via their delegated account access feature 

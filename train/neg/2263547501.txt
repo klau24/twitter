@@ -1,0 +1,1 @@
+Plase someone help a nub in GITGUI to CLONE a whole project - not in bash by the way. Is it possible? Fetch does nothing 

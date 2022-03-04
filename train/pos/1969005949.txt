@@ -1,0 +1,1 @@
+@sontek The &quot;&gt; of file&quot; issue was recently fixed, I believe.  One of the fun side-effects of mixing and matching WPF and win32 

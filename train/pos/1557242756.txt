@@ -1,0 +1,1 @@
+@itsikalfon it's a low level message system think sms over internet. like voip. it's smsoip  with more functionality for public smsing..

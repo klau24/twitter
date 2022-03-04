@@ -1,0 +1,1 @@
+annoyed at how long it takes to get a Dart Search DFA report, even when using the defer function, i only get it at the end of the day 

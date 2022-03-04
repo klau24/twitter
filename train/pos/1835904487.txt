@@ -1,0 +1,1 @@
+@malcolmbastien Rails is still a relatively new language, so this is no suprise.  Ruby, on the other hand, has been around for a while.

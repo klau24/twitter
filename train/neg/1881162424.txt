@@ -1,0 +1,1 @@
+Which audio filetype do I have to record to embed it in HTML for Safari Mobile? CAF, MA4, AIFF and AAC didn't work  #iphone #iphonedev

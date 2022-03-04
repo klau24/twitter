@@ -1,0 +1,1 @@
+frustrated by dodgy database through firefox over vnc session in australia. Slow and prone to crashing 

@@ -1,0 +1,1 @@
+Sockets aren't easy to use and Java won't even tell me when they lose connection 

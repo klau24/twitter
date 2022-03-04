@@ -1,0 +1,1 @@
+@dJoris You can isolate your #gmail login from other Google services by using a different browser altogether 

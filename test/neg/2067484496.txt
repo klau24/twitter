@@ -1,0 +1,1 @@
+@ComcastBonnie Still having major problems.  Haven't been disconnected, but was experiencing &gt;50% packet loss on 5k byte packets today. 

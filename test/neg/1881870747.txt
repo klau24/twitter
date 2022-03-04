@@ -1,0 +1,1 @@
+Just copied large block of code and pasted somewhere to get functionality up and running quickly. GOD I fell so dirty!   #antipatterns

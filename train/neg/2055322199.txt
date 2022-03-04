@@ -1,0 +1,1 @@
+Can not make calls or send texts when the #Pre is in usb drive mode. 

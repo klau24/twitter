@@ -1,0 +1,1 @@
+@alex_krycek_lv It's a beta version, available on the D-Link site. It tends to drop connection to 3G modem 4 some reason though 

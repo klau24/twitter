@@ -1,0 +1,1 @@
+Discovered how to add LEO, XING, FACEBOOK Customized search to Internet Explorer 7. Took me 4 approaches. Software is that easy 

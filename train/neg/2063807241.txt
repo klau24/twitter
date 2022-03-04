@@ -1,0 +1,1 @@
+Hmm, all Twitter AIR apps seem to be broken. Anyone else had similar issues? I've reinstalled AIR, no luck  #twitterfail

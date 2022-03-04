@@ -1,0 +1,1 @@
+@rayboyysen Indeed. Blend generated XAML not too far removed from FrontPage-generated HTML  Tutorials tend to focus on Blend.

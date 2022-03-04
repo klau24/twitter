@@ -1,0 +1,1 @@
+My command prompt is screwed up! Java compiling doesn't work and now even the ipconfig\flush doesn't work 

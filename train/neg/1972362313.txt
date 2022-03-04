@@ -1,0 +1,1 @@
+BIG FYI @nwf The 'enter photo contest' button leads 2 this: 'Server Error in '/PZ' Application.' 

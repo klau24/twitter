@@ -1,0 +1,1 @@
+@timheuer what isn't the lion share? The Google infrastructure itself perhaps?  Expect hooks for those pieces (e.g. BigTable vs. MySQL)

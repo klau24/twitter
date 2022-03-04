@@ -1,0 +1,1 @@
+DNS propagation sucks, takes so much time. the site is active in US. But I can't work on it because it's still propagating here 

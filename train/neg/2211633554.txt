@@ -1,0 +1,1 @@
+@clearcontext reports I receive an avg of 590 messages per day (7 day avg) and my workload is 78. Received messages going up?  

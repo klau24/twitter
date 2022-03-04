@@ -1,0 +1,1 @@
+@tweete the problem solved by disabling 'javascript' and 'plugin' from the browser setting  re:@ and DM button

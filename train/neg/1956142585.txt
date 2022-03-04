@@ -1,0 +1,1 @@
+@atebits Tweetie 1.2 &quot;auto-scroll to top when new tweets arrived&quot; feature isn't working for me. 

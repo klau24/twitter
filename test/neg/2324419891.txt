@@ -1,0 +1,1 @@
+Testing Beejive 3.0 App with push notifications. Found out that AP mobile pushes news if u select North America region.No love for Russia 

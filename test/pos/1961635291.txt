@@ -1,0 +1,1 @@
+Wooo, atlas creator is working.  Just need to output a struct w/ the UV coordinates as the final delivery, and I can get back to gamedev. 

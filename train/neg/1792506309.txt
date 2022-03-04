@@ -1,0 +1,1 @@
+I read somewhere that Google dropped the &quot;sender&quot; header in emails - They haven't  Outlook still shows From x on behalf of y #fail

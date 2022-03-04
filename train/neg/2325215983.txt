@@ -1,0 +1,1 @@
+Delphi 2006 Refactoring doesn't seem to like declaring variables of user-defined types 

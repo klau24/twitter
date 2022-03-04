@@ -1,0 +1,1 @@
+Just reviewed a project with an #OCS deployment. Looks like an afterthought. Design is all wrong.  must fix

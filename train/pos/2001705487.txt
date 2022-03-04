@@ -1,0 +1,1 @@
+@JeremySkinner Inner workings do some good exercise projects for learning xaml, It's what I've been doing for the past few days 

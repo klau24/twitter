@@ -1,0 +1,1 @@
+Trying to fix an ugly web app bug that I can't replicate, but many users are encountering and getting frustrated at. It seems hopeless 

@@ -1,0 +1,1 @@
+I'm aware of three separate projects to do a &quot;Pinax for Rails&quot;. Guys, just switch to Django 

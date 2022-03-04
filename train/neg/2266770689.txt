@@ -1,0 +1,1 @@
+@allenskd For me, i don't feel much any difference from 6.5/6.7 on php. though i'm hoping about better svn support. it stinks at 6.5. 

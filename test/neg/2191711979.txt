@@ -1,0 +1,1 @@
+I started 'portupgrade php5-extensions' yesterday on my #FreeBSD box. Still plugging away 

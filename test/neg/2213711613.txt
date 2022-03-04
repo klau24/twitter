@@ -1,0 +1,1 @@
+new Nambu doesn't seem to update the Home directory when reading in Groups  how did this functionality get lost, and where's the FB?

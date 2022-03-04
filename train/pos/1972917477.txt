@@ -1,0 +1,1 @@
+Anyone know of something like IdeaTorrent (http://www.ideatorrent.org/) that doesn't require Drupal and Postgres? 

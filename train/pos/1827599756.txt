@@ -1,0 +1,1 @@
+Training center pages will now show your horse's health/energy levels before training &amp; you can switch to a different horse mid-session 

@@ -1,0 +1,1 @@
+fraking VMWare has bound my VM's NIC to my disabled wireless adapter on my laptop; 20 mins wasted trying to find THAT out 

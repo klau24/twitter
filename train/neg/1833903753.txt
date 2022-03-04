@@ -1,0 +1,1 @@
+virtual machine beta doesn't support disk sizes of 172 gb 

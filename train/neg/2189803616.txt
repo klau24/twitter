@@ -1,0 +1,1 @@
+Damn GZip and Deflate cant be used to compress/decompress multiple files 

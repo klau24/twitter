@@ -1,0 +1,1 @@
+How hard is it to debug JavaScript in vs2005??? PITA  that's almost 2 hours wasted &amp; still no further!!!

@@ -1,0 +1,1 @@
+Average download speed down from 59KB/s to 52KB/s.  That's -10%. Does the cold have any effect on attenuation? o_O Or prolly MyT sucks.

@@ -1,0 +1,1 @@
+Yes, maybe It's not time to use Ruby 1.9, damn legacy code. I think Ruby Gem or Rails Plugin devs should update your code to run on 1.9 

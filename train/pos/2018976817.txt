@@ -1,0 +1,1 @@
+@daveeed no thinking involved with Time Machine! U can rename current eclipse folder and enter time machine to restore older version 

@@ -1,0 +1,1 @@
+@ebiosca Don't know about PostgreSQL. It's not a company is it   Sun is a big contributor to pgsql, who knows if that will change?

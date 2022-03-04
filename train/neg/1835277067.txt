@@ -1,0 +1,1 @@
+Having a 'fun' time trying to sort out our snail pace network. Pressing save on a network file takes up to 30seconds. Cables are screwed 

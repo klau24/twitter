@@ -1,0 +1,1 @@
+@ErikVeland I went to the trouble of generating a huge master password, and asking it to store it in the login keychain, and it won't 

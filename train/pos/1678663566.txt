@@ -1,0 +1,1 @@
+Found a good Sudoku solver written in Ruby on github. Cool! Going to hack to use.  http://github.com/jimweirich/sudoku/tree/master

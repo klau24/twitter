@@ -1,0 +1,1 @@
+Any way to do this? I added Airport Express to existing wireless network as a bridge, but it doesn't want to extend that via ethernet. 

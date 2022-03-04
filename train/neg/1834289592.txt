@@ -1,0 +1,1 @@
+Looks like compojure doesn't like POSTs with multipart/form-data 

@@ -1,0 +1,1 @@
+@pperon I pipe all '.ics' attachments to a little script that adds to a master ics that I track with Sunbird 

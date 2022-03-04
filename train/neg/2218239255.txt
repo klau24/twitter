@@ -1,0 +1,1 @@
+@choirbean site only translates words, not sentences. 

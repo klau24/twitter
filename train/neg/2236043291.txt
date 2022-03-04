@@ -1,0 +1,1 @@
+@craigbutcher was disappointed to note that the new MBP have only 1.5Gb SATA1, not 3Gb SATA2 

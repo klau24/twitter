@@ -1,0 +1,1 @@
+Works in IE7, but not in FF:  document.getElementById(&quot;fileInput&quot;).click(); �?i�?u mình cần là cho Firefox hoặc cả 2 

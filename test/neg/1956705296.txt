@@ -1,0 +1,1 @@
+@darkxanthos although win32 GDI isn't exactly easy to build a good UI in  

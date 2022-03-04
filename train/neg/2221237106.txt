@@ -1,0 +1,1 @@
+OpenSolaris 2009.06 doesn't support BCM4312 WiFi chipset or Huawei 3G dongle on my Lenovo S10e. So close. Oh well, sticking with Ubuntu. 

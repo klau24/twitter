@@ -1,0 +1,1 @@
+First #Arduino task completed: Blink a red and green LED in sequence. Too bright- needs a resistor. No breadboard, though. 

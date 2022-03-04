@@ -1,0 +1,1 @@
+griffon-installer-plugin 0.3 is out with brand new logos 

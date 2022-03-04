@@ -1,0 +1,1 @@
+Is Twitter having some problems w follower-count? I'm not following 2,002 as the web-interface currently lists, it's 1,012 (via the API) 

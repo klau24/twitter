@@ -1,0 +1,1 @@
+I consider myself very knowledgeable about CSS, but is their a CSS selector that selects a PARENT of an element? I don't think so 

@@ -1,0 +1,1 @@
+Ping.fm is failing to load photos to Bkite.com sent via email ? Even though the dashboard states otherwise, it still ain't showed up 

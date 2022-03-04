@@ -1,0 +1,1 @@
+oops, something in wordpress was consuming all available cpu on the server 

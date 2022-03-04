@@ -1,0 +1,1 @@
+I always forget about the EXPOSE_USER feature of sendmail when trying to enable masqurading. drives me crazy 

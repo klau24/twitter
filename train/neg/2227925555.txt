@@ -1,0 +1,1 @@
+tried to reditect to my new server from the old with #bind9 but failed 

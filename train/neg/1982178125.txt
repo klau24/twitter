@@ -1,0 +1,1 @@
+hic, mãi mới cài xong cái giải thuật merge sort cho danh sách liên kết, xấu hổ quá 

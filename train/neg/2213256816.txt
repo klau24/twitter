@@ -1,0 +1,1 @@
+@mike3k I think the answer is no.  I ran all the steps, but no Internet Tethering appears in the Network menu 

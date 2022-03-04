@@ -1,0 +1,1 @@
+@trimurls - any chance of getting an in-browser shortener so I don't have to visit a completely different page? 

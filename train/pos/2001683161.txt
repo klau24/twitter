@@ -1,0 +1,1 @@
+#rails is also using #uservoice. Seems it is very popular. Please localise in Japanese, thanks  http://rails.uservoice.com/

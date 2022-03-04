@@ -1,0 +1,1 @@
+@glaforge: &quot;Someone asking Graeme at #gr8conf whether Spring Roo is a #grails competitor ...&quot; .. any chance we can get the answer too? 

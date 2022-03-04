@@ -1,0 +1,1 @@
+I figured I had a pretty good generic blogger blog scraper, and pointed that at @louisgray's blog. No comments! WHY? 'coz he used Disqus 

@@ -1,0 +1,1 @@
+updated to SDK 3.0, but now I can't deploy to device anymore  what's up with PROVISIONING_PROFILE_ALLOWED(/REQUIRED)? Hack doesn't work

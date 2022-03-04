@@ -1,0 +1,1 @@
+@nikibrown Set your .blankDay and a width and height to 95px and add padding:5px; -- That should do it. 

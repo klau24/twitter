@@ -1,0 +1,1 @@
+I need a cheap, extendable RFID proximity kit. @nifty_ba keeps losing things. I propose we tag everything and use a scanner to find it. 

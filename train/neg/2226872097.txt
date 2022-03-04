@@ -1,0 +1,1 @@
+something is wrong with my home computer.  No webcam, No NX, no SSH, no telnet, and no apache  nmap says ports are filtered (that's good)

@@ -1,0 +1,1 @@
+@AlexK I just tried, and it looks ok ..  but the EXR is not in layers from Maya whenopeneing in Photoshop 

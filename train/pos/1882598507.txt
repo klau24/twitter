@@ -1,0 +1,1 @@
+Hey... now you can see the no: of characters remaining to reach 140 ,while you type your message. Excatly as in Twitter 

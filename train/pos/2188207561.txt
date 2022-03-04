@@ -1,0 +1,1 @@
+@janole gravity used to stay at the last tweet you had read now it goes on newest tweet, was this intentional? Can it be optional? 

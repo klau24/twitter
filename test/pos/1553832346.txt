@@ -1,0 +1,1 @@
+Got my C# web service wrapper for my python modules working - Python modules talking to my database and iPhone talking to my web services 

@@ -1,0 +1,1 @@
+SSL now all working. DNS all updated. Firewall knocked down for 443. Happy customer. Yay for me 

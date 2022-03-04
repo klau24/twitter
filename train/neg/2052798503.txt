@@ -1,0 +1,1 @@
+looking for fix on Nokia E71 &amp; WLAN connections - why does the security setting on the WLAN have to reduce to WEP in order to work? 

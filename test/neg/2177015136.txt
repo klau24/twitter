@@ -1,0 +1,1 @@
+@brianDdew it gives you a popup msg when you get ready to close the tab and navigate away from their webpage 

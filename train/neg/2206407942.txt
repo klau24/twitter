@@ -1,0 +1,1 @@
+Still no support for message timeouts/max queue lengths in RabbitMQ though 

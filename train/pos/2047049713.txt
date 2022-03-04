@@ -1,0 +1,1 @@
+@igorsukharev oh oh, wrap the whole thing in try-block  three-points section should somehow handle stack overflow. I guess.

@@ -1,0 +1,1 @@
+so damn tired, who know EdiFact here?? even BizTalk hates using that standard why should I hardcode something like that in c# 

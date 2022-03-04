@@ -1,0 +1,1 @@
+@tilerbates: Chica, you can use the 'd' function.  like: 'd renata_nata' and it'll send her a message directly to her and not anyone else.

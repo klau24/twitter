@@ -1,0 +1,1 @@
+Laptop has changed to its default monitor which has a resolution of 1024x768. I want my 1280x800 back 

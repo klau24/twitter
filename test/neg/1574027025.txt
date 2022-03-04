@@ -1,0 +1,1 @@
+Okay, #confluence install is erstmal auf eis. Muss erstmal nen tomcat server am start bringen. 

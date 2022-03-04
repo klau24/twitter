@@ -1,0 +1,1 @@
+@sesh I think calling any external data (script or otherwise) would mean the script is no longer self contained, so no. No AJAX 

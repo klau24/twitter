@@ -1,0 +1,1 @@
+Ferdig med 'Pragmatic programmer'. 'Working with effectively with legacy code' blir neste bok. Refaktorering er mer matnyttig en Scala nå 

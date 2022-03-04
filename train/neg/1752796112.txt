@@ -1,0 +1,1 @@
+@aaronwall fyi the site also loses my login regularly (Safari, OSX) - don't know why  Vaguely annoying, but nothing serious. Drupal issue?

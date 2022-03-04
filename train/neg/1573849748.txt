@@ -1,0 +1,1 @@
+Parallels Power Panel firewall won't work correctly but it's now running a process vzl in my VPS and I can't disable it 

@@ -1,0 +1,1 @@
+@jwlarson61 hi, I can't get autofill to work.  have you tried it for login info like usernames and passwords?

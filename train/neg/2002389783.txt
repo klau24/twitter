@@ -1,0 +1,1 @@
+i use gmail as remote outlook folder via imap but it regularly loses the connection - i have to restart outlook to get it back - rubbish 

@@ -1,0 +1,1 @@
+Even if I know it's a bit early at this stage, I must confess that EventMachine is on top of my wish list for an IronRuby port *hint* 

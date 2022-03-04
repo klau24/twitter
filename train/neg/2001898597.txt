@@ -1,0 +1,1 @@
+Damn. Just tried Cmd-R to reply in Gmail. That makes the browser reload the page 

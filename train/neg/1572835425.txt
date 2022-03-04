@@ -1,0 +1,1 @@
+today is a epic outage day.  Email went down, site went down, and now smtp server went down.  Not good 

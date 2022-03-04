@@ -1,0 +1,1 @@
+@iikkaa type whatever messages you want to appear at twitter. then send it using the number given by tweetsg. 

@@ -1,0 +1,1 @@
+@aheritier Thanks for fixing the Maven Eclipse plugin so it can work with Wicket again 

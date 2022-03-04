@@ -1,0 +1,1 @@
+@TwibesHelp bug-no icon for follow, reply, direct message when u place cursor under my profile pix. only twitter icon appears 

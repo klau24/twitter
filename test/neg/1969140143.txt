@@ -1,0 +1,1 @@
+@RalphBassfeld mail app kept crashing here for some reason. Specially with multiple imap accounts  Thbird is stable. And themes too!

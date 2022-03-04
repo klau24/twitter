@@ -1,0 +1,1 @@
+@HobiP Running Tweet Deck on 3.0GM, works like a charm. No crashing yet. No save draft feature and no &quot;TweetShrink&quot; option, boooo. 

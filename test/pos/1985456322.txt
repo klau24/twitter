@@ -1,0 +1,1 @@
+@hellodeibu Hope so too  Except this subject still touches on &lt;font&gt; despite promising CSS lectures... it doesn't even look at JS at all.

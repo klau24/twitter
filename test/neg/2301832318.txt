@@ -1,0 +1,1 @@
+@bufo333 What is the point of inspecting ipsec traffic on an isg2000, all you can do if verify that it is ipsec, you can't see it 

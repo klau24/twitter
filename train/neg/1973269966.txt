@@ -1,0 +1,1 @@
+What happened to the keyboard shortcut for OK in tortoisesvn? Used to be alt-O worked, but that seems to be gone 

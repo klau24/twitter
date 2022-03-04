@@ -1,0 +1,1 @@
+PHP, jQuery, and MySQL just don't want to be friends today 

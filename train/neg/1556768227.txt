@@ -1,0 +1,1 @@
+@synergist Across domains, but a valid clientaccesspolicy.xml is in place 

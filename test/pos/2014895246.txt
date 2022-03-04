@@ -1,0 +1,1 @@
+@shutterpegcom I would suggest you open a ticket in trac - all tickets are evaluated by the dev team, but not necessarily accepted 

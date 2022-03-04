@@ -1,0 +1,1 @@
+#tweetdeck crashes way too much and seems to hog processor/RAM. Maybe it will run better on the 3GS 

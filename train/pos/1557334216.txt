@@ -1,0 +1,1 @@
+@kyosha Yep, writing tests in dyn langs is much faster  really impressed by the built in testing framework for python.

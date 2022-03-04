@@ -1,0 +1,1 @@
+infinitest jst kept indexing  my files on intellij .....never saw it working   ...stalling it for now .

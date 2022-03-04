@@ -1,0 +1,1 @@
+Thinking about CMIS vs WebDAV, Jackrabbit will have both  And most projects using Jackrabbit (like Jahia), will have both too 

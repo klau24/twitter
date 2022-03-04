@@ -1,0 +1,1 @@
+Message from Microsoft installer: &quot;Download complete. You can now disconnect from the Internet&quot;. Well, thanks but I will stay connected 

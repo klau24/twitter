@@ -1,0 +1,1 @@
+@HubertGAM Joomla -and- Drupal? Isn't that a little overkill? Typically one framework or CMS will do 

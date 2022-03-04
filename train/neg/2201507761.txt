@@ -1,0 +1,1 @@
+@bbum &amp; @boredzo can you post a good example of where the singleton example is going wrong? I'm using that in my (shipping) app 

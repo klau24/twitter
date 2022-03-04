@@ -1,0 +1,1 @@
+@DerikWhittaker The download manager is an ActiveX 

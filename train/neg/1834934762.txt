@@ -1,0 +1,1 @@
+That's helpful. This website I'm trying to access has a ping of over 30 sec. before it loads. Virtually unusable. Worse than my site! 

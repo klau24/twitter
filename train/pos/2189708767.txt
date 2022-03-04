@@ -1,0 +1,1 @@
+Freefoto.cz, Facebook a bulvár by HTML5  zna�?ku &lt;nsfw&gt; (Not Safe for Work) mohly používat místo &lt;body&gt;.   http://bit.ly/1kDLo

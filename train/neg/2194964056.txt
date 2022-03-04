@@ -1,0 +1,1 @@
+@stephenfry One issue with it: the touchscreen. The UI was designed for fingers, but the touchscreen is better suited to a stylus. 

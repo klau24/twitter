@@ -1,0 +1,1 @@
+@patrickc which is a good enough reason to start an implementation.  It may also be enough of a departure that it contains some new ideas

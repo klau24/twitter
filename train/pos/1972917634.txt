@@ -1,0 +1,1 @@
+@kinaj i'm actually trying to mix iStat widget with weather one, but it's very hard. I think i will release only the iStat one 

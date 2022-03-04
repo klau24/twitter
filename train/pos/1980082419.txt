@@ -1,0 +1,1 @@
+@cgbrofmi Try to go into chat (needs a login) and test if you can hear the automatic chat player  (mostly works problemless)

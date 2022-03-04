@@ -1,0 +1,1 @@
+Just upgraded to IE 8 and discovered my Media Space site has compatibility issues with the drop down menu 

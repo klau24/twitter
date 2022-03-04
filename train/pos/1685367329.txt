@@ -1,0 +1,1 @@
+@eduardocarrillo You will have to mount the USB :/ You know what. lets do this the easy way  X -configure.

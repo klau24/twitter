@@ -1,0 +1,1 @@
+Attempting to install ruby 1.9 on vista.  Not so straightforward.  Mongrel refuses to run w/out msvcrt-ruby18.dll. 

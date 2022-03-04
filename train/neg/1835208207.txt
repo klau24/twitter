@@ -1,0 +1,1 @@
+@paulculmsee  in a site collection?  SPDataSiteQuery -- beyond a site collection is iterate  #sharepoint

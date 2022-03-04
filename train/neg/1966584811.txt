@@ -1,0 +1,1 @@
+@aalmiray Yeah for sure, but at some point, say at build time, you'll have to generate that xml so that Wave picks it up 

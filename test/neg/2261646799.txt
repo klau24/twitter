@@ -1,0 +1,1 @@
+#drupal fighting with panels and menus! Can't add a new tab to the &quot;My account&quot; page with has an argument. 

@@ -1,0 +1,1 @@
+@twidroid favorites added from Twidroid v2.1.7 are not being recorded in twitter web but showing on phone  any ideas?

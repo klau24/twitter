@@ -1,0 +1,1 @@
+Been using GoogleAppEngine for some projects recently: Very sweet Java support, but the 10k file limit is killer for libraries 

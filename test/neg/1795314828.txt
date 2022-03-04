@@ -1,0 +1,1 @@
+@CharlotteGore 50k? I want to cry. ONE of the 18 external JavaScript files in a page I was dealing with was 50k. And it USES JQuery 

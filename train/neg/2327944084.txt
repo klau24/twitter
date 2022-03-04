@@ -1,0 +1,1 @@
+Konqueror works, Firefox via web works after restarting and clearing cookies as well but identifox does still not work   !identica

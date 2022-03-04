@@ -1,0 +1,1 @@
+I am trying to repair some css ie6 bugs... NOT good 

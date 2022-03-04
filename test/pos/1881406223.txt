@@ -1,0 +1,1 @@
+Just discovered that VNC works even over uni.lu's eduroam.. 

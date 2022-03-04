@@ -1,0 +1,1 @@
+@sigitt In 3D graphic, it gives you XYZ factor 

@@ -1,0 +1,1 @@
+hm.. looks like I'm going to compile a kernel for the sheevaplug.. fun! 

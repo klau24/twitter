@@ -1,0 +1,1 @@
+I spent many hours today making the key algorithm that holds all the other algorithms together... It needs tweaking, badly 

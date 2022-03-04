@@ -1,0 +1,1 @@
+@Daneel3001 You could have a VerifyRegistration method I suppose that does that And yes for friday, should be absolutely fine 

@@ -1,0 +1,1 @@
+@Alinta And as an output, currently you can only export screenshots of a page or all pages. I'm working on something better. 

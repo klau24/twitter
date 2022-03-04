@@ -1,0 +1,1 @@
+Executing Stored Procedures in MySQL++ without parameters seems to piss it off.  Boo 

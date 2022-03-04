@@ -1,0 +1,1 @@
+which OpenGL drivers do I need to run Savage 2 in !ubuntu? I'm getting a error OpenGL 2.1 not available  

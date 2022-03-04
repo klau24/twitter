@@ -1,0 +1,1 @@
+Twitterific is making me sad with its UI regressions. Medium grey text on a slightly darker background is really hard to read 

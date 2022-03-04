@@ -1,0 +1,1 @@
+Setting up a malware honeypot on VMWare again. Mistakenly deleted the old image 

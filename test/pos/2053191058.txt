@@ -1,0 +1,1 @@
+doing sudo rm -rf / --no-preserve-root and then ctrl-c is not a good idea. sudo was deleted 

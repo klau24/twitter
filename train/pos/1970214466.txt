@@ -1,0 +1,1 @@
+new kernel is working  cleaned up my menu.lst and installed the nvidia kernel module 

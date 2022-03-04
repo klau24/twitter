@@ -1,0 +1,1 @@
+As the amount of GUI for OpenInkpot grows, I become more and more assured that C is not a best language for GUI development 

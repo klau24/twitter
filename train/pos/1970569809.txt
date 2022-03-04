@@ -1,0 +1,1 @@
+oh well...overloading of controllers in #magento 1.3.2 works fine...justed opened my eyes and saw the mistake 

@@ -1,0 +1,1 @@
+@karlaredor i can now select max shutter speed 1/2000.. some values don't work though.. beta kasi nakalagay sa release build 

@@ -1,0 +1,1 @@
+Just got my #rails based site up on staging server, cap deploy from git, all in one command! I'm only getting 4 reqs/sec  damn!

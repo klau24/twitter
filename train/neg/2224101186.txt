@@ -1,0 +1,1 @@
+Gack, fixed the 'Things' 'Device Stopped Responding' issue by unpairing and (re)pairing. Still getting stuck sync screen 

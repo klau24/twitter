@@ -1,0 +1,1 @@
+@asc2009 a test center is good at conformance testing. Does my RIPv1 implementation meet spec? stuff like that. Apples and oranges 

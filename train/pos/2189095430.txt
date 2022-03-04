@@ -1,0 +1,1 @@
+@anpete please help us by providing a clean repro. we're also working on something MS-VS friendly which should surprise quite a few 

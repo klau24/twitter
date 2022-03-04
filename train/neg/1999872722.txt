@@ -1,0 +1,1 @@
+Graphics went from 3.3 to 5.9! But now cpu is the bottleneck   overall score went from 3.3 to 4.8.  Worth 2 bucks!

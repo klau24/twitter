@@ -1,0 +1,1 @@
+I'm redesigning my SkipList nodes. If i get this done, I can use this as a database for my opensource media player!! Reduce dependences. 

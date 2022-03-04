@@ -1,0 +1,1 @@
+I seriously don't care if rake makes you happy, in a .NET oss Project I expect to be able to build with a NAnt..  Fluent NH build is PITA

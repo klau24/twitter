@@ -1,0 +1,1 @@
+@bggrice it's back up right now, but it's the cpu temp that is causing problems, i'm monitoring it now with a gauge, currently 41 degrees 

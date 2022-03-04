@@ -1,0 +1,1 @@
+@curlyreds Since you don't know what T is, the easiest way to figure it is take current time and add the hours, to get T. 9am+19hrs=4am 

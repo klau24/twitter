@@ -1,0 +1,1 @@
+Is it true that you can't specify the weight of a border in Excel? Just have to use the styles? If you can, I can't figure it out 

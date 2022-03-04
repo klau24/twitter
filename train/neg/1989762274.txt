@@ -1,0 +1,1 @@
+ok, need to pay more attention to where I'm applying per request lifestyle type...it won't work if you're not applying to controllers 

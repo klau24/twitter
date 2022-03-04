@@ -1,0 +1,1 @@
+... just worked out how to send emails from Perl through gmail and get all email headers right  It's quite nice. I should blog about it.

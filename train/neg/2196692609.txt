@@ -1,0 +1,1 @@
+@ZacBentz and ctrl+T NEVER does the same thing cross-program. Ever. 

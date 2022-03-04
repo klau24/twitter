@@ -1,0 +1,1 @@
+@damienfranco Its so common for it to crash now   I find I have to delete the process then its ok again for a while its eating memory

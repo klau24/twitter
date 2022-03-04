@@ -1,0 +1,1 @@
+Windows VM decided to drop net access  Copying all my patches to Linux VM, which still has net access. Yes, I'm avoiding the Mac host

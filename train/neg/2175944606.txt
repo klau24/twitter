@@ -1,0 +1,1 @@
+TweedDeck autoupgraded and no longer works on my Vista.  That's why we at PowerGUI always wait a week before we turn autoupgrade on. ;)

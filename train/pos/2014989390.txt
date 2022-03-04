@@ -1,0 +1,1 @@
+&quot;select /*+ ALL_ROWS */ * from Table&quot; A new way to do Queries... outstanding performance, Oracle is more than a DataBase now 

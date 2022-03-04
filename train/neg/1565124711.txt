@@ -1,0 +1,1 @@
+My new adapter only draws power for my laptop, and doesn't actually charge my battery.  In other news, Knowing is a really lame movie.

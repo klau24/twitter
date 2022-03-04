@@ -1,0 +1,1 @@
+Wow! Went to install drivers for my scanner and realized that Mac OS X already detects it and can use it without Canons software 

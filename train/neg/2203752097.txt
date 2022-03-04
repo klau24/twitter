@@ -1,0 +1,1 @@
+using mcdonalds wireless - vmware guest and local os each have their own 50mb limit, locked mac address...? but no outbound ssh 

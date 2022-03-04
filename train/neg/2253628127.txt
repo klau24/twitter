@@ -1,0 +1,1 @@
+Firefox 3.5's awesome bar doesn't seem to work properly. It doesn't look through my bookmarks, even if I have it set to do so. 

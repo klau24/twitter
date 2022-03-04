@@ -1,0 +1,1 @@
+@Jack_Franklin ever heard of PHP?  $age = 1988 - date('Y'); works beautifully.

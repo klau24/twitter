@@ -1,0 +1,1 @@
+@emmerinc in the 'Now Playing' screen, you got next to the info a 'vinkje'. You expect a detail behavior 

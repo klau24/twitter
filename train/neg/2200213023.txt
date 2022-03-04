@@ -1,0 +1,1 @@
+looking to convert oracle 10g + Locator Geometry data-type to Well-Known-Text. format.  It looks like only 10g + Spatial supports this. 

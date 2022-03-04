@@ -1,0 +1,1 @@
+@timestocome That's what I did, and jumped the &quot;neutral' for the outlet. outlet works when switch off, and dies when switch on. 

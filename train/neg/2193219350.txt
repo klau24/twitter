@@ -1,0 +1,1 @@
+@thomaslundstrom ah , you are talking about generating the server side! svcutil won't do that 

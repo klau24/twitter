@@ -1,0 +1,1 @@
+@davidm_en Yeah, I set it to 128mb on my home server. Works damn good now! The modx 2 beta looks pretty cool 

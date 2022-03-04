@@ -1,0 +1,1 @@
+#sinatra on #appengine is parsing the JSON request body into a crazy Hash that doesn't work, and I can't get the raw request anywhere 

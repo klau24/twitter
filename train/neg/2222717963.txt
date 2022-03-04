@@ -1,0 +1,1 @@
+@robgreen78 I am doing it the long way via FTP now first install was internally via Wordpress and it did not work 

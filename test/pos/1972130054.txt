@@ -1,0 +1,1 @@
+@EspenCFG Nice article   You should check out the wp-syntax plugin, which will let you post syntax highlighted PHP in WordPress.

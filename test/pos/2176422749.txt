@@ -1,0 +1,1 @@
+@iKenndac Dunno - that's a design decision.  In a standard location (top-right?), avoiding frontmost window of current app if appropriate?

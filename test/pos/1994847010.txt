@@ -1,0 +1,1 @@
+@officialrmc It won't work if there are spaces. It has to be together or it would just read &quot;#role&quot; as the topic. #rolemodel #rolemodel 

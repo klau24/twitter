@@ -1,0 +1,1 @@
+Arrgh, vista screwed my shell32.dll file now I cant move or replace it and Windows wont even start!  I need a boot disk! :S

@@ -1,0 +1,1 @@
+@pradeepto I am trying to download updated OpenOffice 3.x for Fedora/Linux on my Core2 Duo, 2 GB RAM, 160 GB Thinkpad, over a 1 mbps link 

@@ -1,0 +1,1 @@
+Starting work on a GAMESTATE tracker.  This will make sure that things stay on track   Menus will pop up when they are supposed to etc.

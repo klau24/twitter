@@ -1,0 +1,1 @@
+Version 5.2 is almost ready to roll. New help for Manual Designer is implemented, main help is updated, just a couple of tweaks left. 

@@ -1,0 +1,1 @@
+@chneukirchen i get kernel panics on mine more often than that 

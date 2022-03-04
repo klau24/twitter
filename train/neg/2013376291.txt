@@ -1,0 +1,1 @@
+Google video chat won't work on Windows Vista/7 x64 

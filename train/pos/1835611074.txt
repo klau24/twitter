@@ -1,0 +1,1 @@
+Trimmed a new CentOS 5 server down from ~600 packages to 184. Memory footprint reduced 90%, too 

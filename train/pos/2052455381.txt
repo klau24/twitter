@@ -1,0 +1,1 @@
+@Greengamma It's a start, but why not uglier PV that also trickle-charges the main drive batts and keeps the 12v batt topped off also? 

@@ -1,0 +1,1 @@
+New release 0.8.8  I need to do a post explaining what is new. Soft binding is now available so happy injection in Modules 

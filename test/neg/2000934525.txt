@@ -1,0 +1,1 @@
+Crap. I updated mysql to 5.1 and now Rails is totally broken. Haven't found a solution yet.  

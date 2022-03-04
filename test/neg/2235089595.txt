@@ -1,0 +1,1 @@
+Zimbra Desktop provides helpful offline support, but its UI is badly designed for netbook-size screens 

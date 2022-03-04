@@ -1,0 +1,1 @@
+@amigastu can connect using drive mapping but you can't browse anything   Other network drives can't enter your homegroup password!

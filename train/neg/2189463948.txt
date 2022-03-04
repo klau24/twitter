@@ -1,0 +1,1 @@
+HLSL somehow thinks that an implicit, destructive cast from float to bool is a good idea. PIX debugger shows bools as floats, too 

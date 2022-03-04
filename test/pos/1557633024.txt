@@ -1,0 +1,1 @@
+finally set up SimplePie with my little web project, now to sort out some flashy Javascript to go with it 

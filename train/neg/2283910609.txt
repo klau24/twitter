@@ -1,0 +1,1 @@
+@tristanharris export in h264 for high res and small file sizes via quicktime.  Exporting will take a long time even on a dual processor 

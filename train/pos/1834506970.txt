@@ -1,0 +1,1 @@
+Hacking on the #Scala IDE at EPFL ... deleting stuff is fun 

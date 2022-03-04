@@ -1,0 +1,1 @@
+LaserCard reader arrived - comes up as a CD-R drive.  Not ISO9660 (shame) so more hacking needed, but it reads green cards 

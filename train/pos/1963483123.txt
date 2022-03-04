@@ -1,0 +1,1 @@
+note to self: if @evernote db ever goes pearshaped, move db, resync from the web. got it. 

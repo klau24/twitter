@@ -1,0 +1,1 @@
+new search-engine http://www.bing.com tested. it seems not to be good. better results by google 

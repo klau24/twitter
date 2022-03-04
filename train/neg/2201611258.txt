@@ -1,0 +1,1 @@
+Facebook Connect logs me into blogs under the name &quot;Facebook User&quot; even though my FB profiles shows my name correctly 

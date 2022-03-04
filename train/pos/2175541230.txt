@@ -1,0 +1,1 @@
+defaults write com.apple.iTunes carrier-testing -bool TRUE &lt;-- ebable ipcc uploads in itunes 8.2  #itunes #iphone

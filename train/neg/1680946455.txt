@@ -1,0 +1,1 @@
+@scottw in this case it may be that Northwind is doing something 'legal' in SQLSrvr but bad in practice...i think i need to support it 

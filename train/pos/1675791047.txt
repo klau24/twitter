@@ -1,0 +1,1 @@
+@mandeewidrick  or try deleting this file to reset the 30 day trial  Library/Preferences/com.apple.iWork08.plist

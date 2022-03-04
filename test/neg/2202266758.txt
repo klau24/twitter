@@ -1,0 +1,1 @@
+@TamaraKenyon did you try running the disc utility application on the install disc? If it can't find the HDD then it prob. died. 

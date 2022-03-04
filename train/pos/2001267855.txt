@@ -1,0 +1,1 @@
+@jstanden You should tag cerb4 releases in svn. /cerb4/tags/4.1 /cerb4/tags/4.2 etc. Makes diffing easier 

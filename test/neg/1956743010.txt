@@ -1,0 +1,1 @@
+Good news: The &quot;Clap&quot; method works fairly well for syncing audio. Bad news, the mic splitter I bought does not work 

@@ -1,0 +1,1 @@
+So, can you go over the 140 char limit on twitter itself?  Nope.  The update button goes gray when you get to char 141. 

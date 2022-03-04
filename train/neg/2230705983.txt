@@ -1,0 +1,1 @@
+@threewinks That's never good.  If it lights up, but the computer doesn't see it, it may not be terminal. You've probably lost some stuff.

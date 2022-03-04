@@ -1,0 +1,1 @@
+i moved all the icon out and back in again and it still squashes them with a blank space on the far right 

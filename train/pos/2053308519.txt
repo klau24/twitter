@@ -1,0 +1,1 @@
+An update has been made to the 3D Planets Toolbar. Please uninstall the Toolbar then re-install via the link found in 3D Planets. Thanks 

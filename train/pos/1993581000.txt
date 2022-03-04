@@ -1,0 +1,1 @@
+@avdi In theory, there's no such thing as a codebase too small to test. In practice, yes, I totally agree. 

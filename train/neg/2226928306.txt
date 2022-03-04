@@ -1,0 +1,1 @@
+got Wordpress and Twitter to interact but Facebook app. doesn't work 

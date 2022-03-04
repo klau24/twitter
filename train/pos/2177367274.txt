@@ -1,0 +1,1 @@
+WooHoo just installed the update to #twitterific that fixed the YAJL error, I am now connected back into the matrix 

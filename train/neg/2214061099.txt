@@ -1,0 +1,1 @@
+@ggilliom the update works fine tho the server may not authenticate, loads of it doesnt work tho like video and voice commands on 2g 

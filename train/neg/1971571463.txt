@@ -1,0 +1,1 @@
+has his new M4400 w/ Core2 Extreme X9100 &amp; SSE4.1 64-bit buildchain finally rebuilt, but also found an igraph/ARPACK regression 

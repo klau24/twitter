@@ -1,0 +1,1 @@
+@rbhavesh Your theme works great, however the thumb.php function is giving me troubles not rendering the picture 

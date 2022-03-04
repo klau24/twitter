@@ -1,0 +1,1 @@
+@bytespider    dbo or current user is okay. If not, then it can't find the table, even if user has db_owner privs #winphp

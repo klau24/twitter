@@ -1,0 +1,1 @@
+I'm going to wait until QuickPwn 3.0 comes out. Pwnage tool has not worked for me. I keep getting error 1600 after trying everything 

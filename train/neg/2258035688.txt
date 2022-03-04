@@ -1,0 +1,1 @@
+I wish VMware Infastructure Web Access console plugin worked for OS X... Have to do VMware admin from Windows 

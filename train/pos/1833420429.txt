@@ -1,0 +1,1 @@
+So OSX &amp; Windows are booting together gracefully, with a linux partition ready, with the OS ready to be installed 

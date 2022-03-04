@@ -1,0 +1,1 @@
+finally finished deleting all the spam blogs and users. Should have let @cogdog show me how to do it via database. Got some tutorials now 

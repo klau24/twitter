@@ -1,0 +1,1 @@
+We are actually get a LOT of traction on UI unit tests using WatiN.  Writing wrapper classes around our pages 

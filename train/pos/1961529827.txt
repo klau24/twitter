@@ -1,0 +1,1 @@
+finds the temperature outside perfect for cycling 

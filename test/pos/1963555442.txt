@@ -1,0 +1,1 @@
+Setting up my leaseweb #winphp server is dead easy now that I've made all the mistakes on my local vm system 

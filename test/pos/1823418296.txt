@@ -1,0 +1,1 @@
+I finally found a working install of Macromedia Studio MX 04 that works in Windows 7, yay 

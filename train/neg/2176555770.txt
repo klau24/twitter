@@ -1,0 +1,1 @@
+hmmm - upgraded an 08 project into 2010, had to remove all #tfs api ref's and re-add, otherwise build wouldn't recognise them 

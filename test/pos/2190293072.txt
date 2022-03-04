@@ -1,0 +1,1 @@
+client is ok with the new homepage - lets do some css 

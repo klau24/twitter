@@ -1,0 +1,1 @@
+@cimares loopback checking needs to be disabled on a lot of #sharepoint machines in order to get search running when using hostheaders 

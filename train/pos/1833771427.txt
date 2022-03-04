@@ -1,0 +1,1 @@
+By @skurfuerst Extbase and Fluid are on the #-Typo3 core list now 

@@ -1,0 +1,1 @@
+Any clues how to get a Kaiser Baas photo keyring to work on a Mac? Damned thing doesn't show as a USB storage device 

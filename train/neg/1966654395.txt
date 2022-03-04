@@ -1,0 +1,1 @@
+@steinarknutsen  Thanks for the tips! Looks like it's just affecting pages, not posts. Browser/checkbox make no difference.  Grrr.

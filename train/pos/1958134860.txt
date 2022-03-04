@@ -1,0 +1,1 @@
+@BbIDPA works in IE now, but gives straight lines instead of the route. I guess it's not how it's supposed to be 

@@ -1,0 +1,1 @@
+Why not write all data to disk bfore going to sleep?  And then then not corrupt everything just because the cable was pulled.  Grrr 

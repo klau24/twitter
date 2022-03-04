@@ -1,0 +1,1 @@
+@pdxmikek Yup! Moving sqrt(8) blocks (for the non-math inclined, that's 2 blocks south and 2 blocks west; about 2.8284 blocks directly).  

@@ -1,0 +1,1 @@
+If someone asks you &quot;Why a PHP file does not run on Windows when I double click on it?&quot; what would you answer? 

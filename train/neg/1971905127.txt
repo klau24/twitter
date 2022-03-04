@@ -1,0 +1,1 @@
+had to hack cocos2d to make it think all images were premultiplied alpha, as it seems CGImageGetAlphaInfo lies. 

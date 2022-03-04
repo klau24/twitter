@@ -1,0 +1,1 @@
+Deploying a new snapshot version of #Microlog to the Microlog Maven repository. The SourceForge server  connection is not stable 

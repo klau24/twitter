@@ -1,0 +1,1 @@
+@Joezef Adding a plugin is simple, you just have to download the zip file, and upload it via the plugin sections. Then activate it. 

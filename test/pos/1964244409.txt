@@ -1,0 +1,1 @@
+@Darnell0216 yeah, we're fixing bugs as quickly as we find them.  Every time we publish a fix, the site slows down. Such is life. 

@@ -1,0 +1,1 @@
+@w33ble for some reason gmail was crashing with #firefox. enabling flash block stopped it. Very confusing. 

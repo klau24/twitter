@@ -1,0 +1,1 @@
+Errors: Could not install extension from '/Users/nda/Downloads/chrome-delicious-extension.crx'. Signature verification failed 

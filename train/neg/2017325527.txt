@@ -1,0 +1,1 @@
+Interesting note Sky F@ST2504 SERVER:LINUX/2.4 UPnP/1.0 BRCM400/1.0. I have simple python code to pump out SSDP info but not interact 

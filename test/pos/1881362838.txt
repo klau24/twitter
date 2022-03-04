@@ -1,0 +1,1 @@
+@FL_Studio a cleaner look... and remove the old &quot;pattern playlist&quot;. And only have the &quot;track/song playlist&quot;... And new plugins 

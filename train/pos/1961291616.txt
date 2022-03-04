@@ -1,0 +1,1 @@
+@jodymal cform is a plugin for wordpress to set up contact forms etc. on a site. but mine was not working so switched to another plugin 

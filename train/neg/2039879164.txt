@@ -1,0 +1,1 @@
+writing gui code... in wxruby (bye shoes), man I miss Interface Builder. Just wanna hookup some code to select a file and output results. 

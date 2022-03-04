@@ -1,0 +1,1 @@
+@Daelen972 i opened the port for incoming and even switched the port number... port for outgoing i can't find in skype preferences 

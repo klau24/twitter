@@ -1,0 +1,1 @@
+@zssz Yes, Apache Labs wants its own XMPP server because the wave is growing. Good news 

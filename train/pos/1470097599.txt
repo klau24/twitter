@@ -1,0 +1,1 @@
+ fixed the framerate issue on skate 2, feels much smoother to play now, lets get them last few trophys.

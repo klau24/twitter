@@ -1,0 +1,1 @@
+TweetDeck v0.25.1b doesn't seem to minimize into an icon in the system tray. Argh 

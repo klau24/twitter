@@ -1,0 +1,1 @@
+Giving the PC a full scan, suspect it was infected with VBS.RunAuto worm/script. I guess IT must have re-enabled my AutoRun via scripts 

@@ -1,0 +1,1 @@
+@krystalware though it's still nasty having to have another button on a form just for firefox's implementation 

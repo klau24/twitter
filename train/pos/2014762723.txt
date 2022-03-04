@@ -1,0 +1,1 @@
+Just moved my mac apps with ruby talk to an android talk for codecamp on the 13th. Guess I should learn something about android  

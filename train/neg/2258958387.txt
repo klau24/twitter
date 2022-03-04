@@ -1,0 +1,1 @@
+EPIC FAIL: Spent all afternoon learning to wrangle a switch-router... finally figure it all out, then discover it doesn't do VIDs &gt; 1024! 

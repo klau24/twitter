@@ -1,0 +1,1 @@
+Printer keeps talking to me  I have to enable the bidirectional support. Huuh??

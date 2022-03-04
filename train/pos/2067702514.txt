@@ -1,0 +1,1 @@
+@mikeBithell Know any good formats for documenting the flow of conditional actions, for say, a collect 'em up game? 

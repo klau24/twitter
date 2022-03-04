@@ -1,0 +1,1 @@
+Gosh, I didn't know Firefox 3.5 beta had its own error console. all it needs now is its own inline inspect element. sweet 

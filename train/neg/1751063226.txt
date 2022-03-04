@@ -1,0 +1,1 @@
+It's been a long couple of days dealing with exchange 07 issues on a migration from sbs 03, AD not playing nicely  New install in the AM.

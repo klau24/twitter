@@ -1,0 +1,1 @@
+@dstanek Did you get lost because of the AST stuff itself or because you tried to keep Mote's tests passing? Its tests are super brittle. 

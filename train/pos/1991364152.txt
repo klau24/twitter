@@ -1,0 +1,1 @@
+@woutervugt Yup, did that to reflect the SharePoint versioning  (and it is a huge improvement from the first on...)

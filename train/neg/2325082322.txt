@@ -1,0 +1,1 @@
+Deploying Windows 7 RC virtual machines using MDT 2010 beta.  Writing notes on O/S deployment when I'd rather be updating my site. Work! 

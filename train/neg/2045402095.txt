@@ -1,0 +1,1 @@
+@timmattison unfortunally i can not test it as i do not have a linux server available   - would be great if it would run on my webspace.

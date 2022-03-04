@@ -1,0 +1,1 @@
+Wolfram Alpha is awesome at math. But the 3d plot for 1/a+1/b looks ugly. 

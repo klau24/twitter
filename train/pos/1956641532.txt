@@ -1,0 +1,1 @@
+@AmyStephen Get over the JQuery class... it was the most appropriate name for it. 

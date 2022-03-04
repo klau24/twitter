@@ -1,0 +1,1 @@
+@kyncaid True. I do notice that HTML/CSS goes fine with talk-casts, but javascript doesn't. My brain is wierd!!! 

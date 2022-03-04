@@ -1,0 +1,1 @@
+@sunsonian dunno. my previous desktop install was promptly followed by adding kubuntu-desktop to repos and removing gnome stuff 

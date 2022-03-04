@@ -1,0 +1,1 @@
+Looking at Kohana. Sick of PHP4 suckiness of Code Igniter 

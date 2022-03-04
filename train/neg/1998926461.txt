@@ -1,0 +1,1 @@
+@northcotehorses open a PDF: Open URL script step; print on Mac OS X: Perform AppleScript script step; Print on Windows: ask someone else 

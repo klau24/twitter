@@ -1,0 +1,1 @@
+@michaelisvy Good product: but there is not a Wicket pack template. Only Spring MVC 

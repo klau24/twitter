@@ -1,0 +1,1 @@
+Man, I hate messing with hard coding, you're bound to break something by changing it 

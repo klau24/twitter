@@ -1,0 +1,1 @@
+damn, another problem found on OpenSSH v4.7 - it's only the version in ubuntu 8.04 LTS  http://url.moosaico.com/10382

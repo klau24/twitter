@@ -1,0 +1,1 @@
+Typical GUI failure: The app has a list of VMs - but no way to export the list as text -  so I'm stuck manually transcribing 50 entries. 

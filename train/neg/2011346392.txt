@@ -1,0 +1,1 @@
+I should probably look into optimizing the mysql stuff, pretty messy 

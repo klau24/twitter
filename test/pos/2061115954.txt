@@ -1,0 +1,1 @@
+@ianchia Black BG gets is rendered as transparent. Gray is just the background there. It makes sense in the app, trust me 

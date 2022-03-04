@@ -1,0 +1,1 @@
+@marcelobarros  Got self created MIF working, but eg avkon3.mif crashes. Peeking count wrong, debugging. Any help welcome 

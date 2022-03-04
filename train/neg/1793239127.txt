@@ -1,0 +1,1 @@
+@kingfuraday That's an app issue. Devs should make their apps save/restore state on exit/startup. iPhone doesn't allow apps run in bkgrnd 

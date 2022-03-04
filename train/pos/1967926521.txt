@@ -1,0 +1,1 @@
+our host (dreamhost) just added an easy instal Trac option. We may have trac soon 

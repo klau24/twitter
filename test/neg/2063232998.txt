@@ -1,0 +1,1 @@
+@sammyrichards yep same over here. Yahoo imap server seems to be the problem. Web and POP access do work 

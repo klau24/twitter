@@ -1,0 +1,1 @@
+iPhone OS 3.0 is far too aggressive with wifi power management - sometimes takes upto 10 secs to come on out of standby. 

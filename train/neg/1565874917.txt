@@ -1,0 +1,1 @@
+@n8han And we just finished an Oracle-to-mySQL migration strategy... Wasted time I guess. 

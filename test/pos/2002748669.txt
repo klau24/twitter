@@ -1,0 +1,1 @@
+Just remember; one bean, Gateway, DAO, DTO, BBC, ITV, CNN, NYPD per column for each table in your database and you'll be fine 

@@ -1,0 +1,1 @@
+VMware ESXi 4.0 runs only on 64bit hardware, damn I can´t upgrade my home &quot;server&quot; from 3.5U4  my HP DX2000M 3GHz/4GB RAM 

@@ -1,0 +1,1 @@
+@MichaelPhipps D'oh! It's working fine on my Nokia N82 (and @badmummy's E71) but Telstra might've done something weird with Java. 

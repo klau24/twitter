@@ -1,0 +1,1 @@
+Confluence ignores the settings of $confluence/conf/server.xml. 

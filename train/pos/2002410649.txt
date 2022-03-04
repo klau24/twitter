@@ -1,0 +1,1 @@
+Good thing is I have onBeforeUnload working consistent across browsers 

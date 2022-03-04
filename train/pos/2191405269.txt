@@ -1,0 +1,1 @@
+@richardtubb updates just like a real one  the only real hack is the EFI boot loader and the custom kext for ATI video card.

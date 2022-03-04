@@ -1,0 +1,1 @@
+my erlang recommendations engine is making good use of all 4 cores but the damn disk can't keep up  i need more ram damn it!!

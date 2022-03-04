@@ -1,0 +1,1 @@
+@haruska: Yeah I have. You just have to add code to catch exceptions if you violate them. Or just don't allow your code to violate them 

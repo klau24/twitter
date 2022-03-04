@@ -1,0 +1,1 @@
+TweetDeck for iPhone lets you register  (for syncing) with less than 7 character password but then desktop won't accept less than 7 

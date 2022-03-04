@@ -1,0 +1,1 @@
+My regex days are over, thanks to Roy Osherove and Joshua Flanagan - Linq to RegEx + Readable Regex : http://tinyurl.com/6hd8s8 - nice. 

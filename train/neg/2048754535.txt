@@ -1,0 +1,1 @@
+just updated to !kde 4.2.90. Seems much the same as the earlier beta. Unfortunately krunner still seems to crash frequently 

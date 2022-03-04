@@ -1,0 +1,1 @@
+@nitishupreti it's WPF based, so don't think it would be available for Linux. 

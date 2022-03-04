@@ -1,0 +1,1 @@
+have just recreated mod.rewrite in CF for IIS ... I miss Apache 

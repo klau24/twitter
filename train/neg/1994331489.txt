@@ -1,0 +1,1 @@
+@EricaToelle ... means that there may be a serious hardware error which an OS reinstall will not fix.  be prepared to recover drive data 

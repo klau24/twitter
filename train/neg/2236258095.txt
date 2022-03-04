@@ -1,0 +1,1 @@
+I wish there was a better reporting solution for Kerio Mail Server than Mail Access Monitor. Its just crap 

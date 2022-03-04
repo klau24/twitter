@@ -1,0 +1,1 @@
+up way too late working on a pet project for mozilla. learned 2 things: i forgot all my trigonometry and array.forEach NOT array.each 

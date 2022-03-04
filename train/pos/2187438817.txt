@@ -1,0 +1,1 @@
+Special thanks to Jose for helping me fix the padding issues in my blog and teaching me some CSS (blech) in the process 

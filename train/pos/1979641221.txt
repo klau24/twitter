@@ -1,0 +1,1 @@
+@dagda1 I'm running vista 64 on my host computer, but I don't want to install visual studio on it 

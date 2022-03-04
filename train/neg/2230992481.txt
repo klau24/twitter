@@ -1,0 +1,1 @@
+@extendr I can add :skype links but :aim links break because they get prepended with http:// 

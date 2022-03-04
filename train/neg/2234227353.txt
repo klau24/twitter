@@ -1,0 +1,1 @@
+@littlemoo I tried booting from the Leopard DVD, Disk Utility doesn't even see any hard-drive. 

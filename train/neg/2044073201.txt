@@ -1,0 +1,1 @@
+@wattersm actually it's worse; for pg &lt;= 8.3, you must also initdb. That at least is fixed in 8.4, but still no way to avoid dump/restore 

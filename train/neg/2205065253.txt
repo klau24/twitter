@@ -1,0 +1,1 @@
+Is there an interest for discussing MySQL internals and performance during #velocityconf? No Ignite slot for me 

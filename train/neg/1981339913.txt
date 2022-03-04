@@ -1,0 +1,1 @@
+Wanted to have finished this wee app in 12 hours. Twitter was down for 2-3 of those, and wasted an hour chasing a nonexistent OAuth bug 

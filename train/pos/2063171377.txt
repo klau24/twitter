@@ -1,0 +1,1 @@
+SQL&gt; execute hello; Hello, World!  PL/SQL procedure successfully completed.  SQL&gt; 

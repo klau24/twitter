@@ -1,0 +1,1 @@
+@MhdBadi DNS != domain. DNS services are needed on shitty old servers with bad hosts. Pearsonified is moving to a new host 

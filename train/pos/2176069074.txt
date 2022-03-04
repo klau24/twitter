@@ -1,0 +1,1 @@
+yay, the IDE 2.5/3.5/SATA -&gt; USB device I got works perfectly under Linux. This makes it a lot easier to pull data off hard disks. 

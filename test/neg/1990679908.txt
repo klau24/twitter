@@ -1,0 +1,1 @@
+drupal nice menu is still not working in IE    .....  anybody have any trick...??

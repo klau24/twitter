@@ -1,0 +1,1 @@
+tweetdecks last update took away the tray icon in linux  .... i tried using alltray ( http://alltray.trausch.us/ ) but still no luck

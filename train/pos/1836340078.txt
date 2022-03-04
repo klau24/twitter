@@ -1,0 +1,1 @@
+Brightkite needs to get Twitter oAuth support.  - http://bkite.com/07ALr

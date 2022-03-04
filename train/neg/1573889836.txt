@@ -1,0 +1,1 @@
+@StevenGhysel nope, that only works for a single member ..... I don't get it when I select multiple fields 

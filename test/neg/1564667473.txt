@@ -1,0 +1,1 @@
+Can you make M$ Access (07) run update queries from queries or do they HAVE to be based on tables  - Grrrrrrrr

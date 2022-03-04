@@ -1,0 +1,1 @@
+Debugging Git integration for Atlassian Bamboo.  NOT exactly release quality.. 

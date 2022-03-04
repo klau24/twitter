@@ -1,0 +1,1 @@
+We started the #ko2 !koffice sprint with a talk about Collaborative Editing / Change Tracking in KWord. The room is crowded 

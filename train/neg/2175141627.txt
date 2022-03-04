@@ -1,0 +1,1 @@
+@MurrayMcF I've done that several times. Even with earlier releases of the plugin. Finally I went back to wp 2.7  Perhaps pb with php5 ?

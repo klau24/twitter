@@ -1,0 +1,1 @@
+@chris_mahan Point being, NO stack is perfect. And I am not going to switch stack just because of one framework method that is not ideal 

@@ -1,0 +1,1 @@
+Nice shiny new laptop, but nVidia 8200M, Gnome and Compiz are not playing nicely together. It just crashed again 

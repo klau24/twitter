@@ -1,0 +1,1 @@
+@assbach same problem here... 3.0 works fine but no network 

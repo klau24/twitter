@@ -1,0 +1,1 @@
+@JeniT think we found a bug in rdfQuery trunk - not handling nested elements properly 

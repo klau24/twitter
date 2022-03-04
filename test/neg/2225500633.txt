@@ -1,0 +1,1 @@
+Youtube app on iPod touch doesn't work since upgrade to 3.0. 

@@ -1,0 +1,1 @@
+@mixdev  CouchDB its a document oriented isnt it? should work on it before i comment   HBase ? Have u ever worked on any of this bfore?

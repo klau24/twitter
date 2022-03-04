@@ -1,0 +1,1 @@
+needs help - reformatted and drivers won't install for audio.  Crashes half way through.

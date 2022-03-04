@@ -1,0 +1,1 @@
+@johnsalminen Can't tell the details about the project but I'm working with ASP.NET and SQL Server. Lots of DB design ahead 

@@ -1,0 +1,1 @@
+@vital_sign i comment out that part and add a checker elsewhere and it avoids a fail and THE THING WORKS!!! still i need that int to work 

@@ -1,0 +1,1 @@
+@tmm1 please check http://bit.ly/nVZTK for the redis socket issue. I believe it's a nice solution 

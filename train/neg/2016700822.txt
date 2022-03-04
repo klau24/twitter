@@ -1,0 +1,1 @@
+Safari &amp; WebKit keeps crashing for no reason after a while. Switching to Firefox 

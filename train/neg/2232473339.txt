@@ -1,0 +1,1 @@
+Tweetie isn't working well.. it doesn't tell  me when there are new tweets 

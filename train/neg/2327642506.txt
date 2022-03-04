@@ -1,0 +1,1 @@
+@johnkolbert my favicon is showing on the admin login, but not on the actual sites even after restarting 

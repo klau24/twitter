@@ -1,0 +1,1 @@
+Frustrating night yest trying to update N95-3 firmware. Lots of uninstall/reinstall/restart but no luck with Nokia ADL driver to install 

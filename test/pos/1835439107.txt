@@ -1,0 +1,1 @@
+@groovymag Got my own question answered - cause JPA already used the term Entity  

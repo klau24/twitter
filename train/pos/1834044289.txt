@@ -1,0 +1,1 @@
+@JohanLindfors @rfolkes Hint #1) Week 19 - MSDN Newsletter about WCF, WF and Dublin. Week 21 - MSDN Newsletter about Oslo. 

@@ -1,0 +1,1 @@
+fascinated while reading how to parse a NMEA sentence coming from a GPS satellite and sync your local computer/mobilephone time with it 

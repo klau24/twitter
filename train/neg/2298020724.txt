@@ -1,0 +1,1 @@
+@SondreB @henriksen All this because of no config option for nat loopback @altibox! 

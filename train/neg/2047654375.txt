@@ -1,0 +1,1 @@
+Why does tweetdeck append 'event:' infront of every link? I cant just go to chrome and do 'paste and go' anymore 

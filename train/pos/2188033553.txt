@@ -1,0 +1,1 @@
+r65 as3Framework [admin]  Ok, so I -thought- I was done. Implemented test for clearing list forwards and backwards. Now done 

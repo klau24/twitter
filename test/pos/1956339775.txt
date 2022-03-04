@@ -1,0 +1,1 @@
+@asolomon15 im using get_headers() instead  so much easier! thanks to @techwraith

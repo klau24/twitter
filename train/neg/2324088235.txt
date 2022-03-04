@@ -1,0 +1,1 @@
+Since some days I got this strange error &quot;ksmserver could not start&quot; in a fancy X window with no decoration and then my X server dies 

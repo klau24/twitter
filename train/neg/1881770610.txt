@@ -1,0 +1,1 @@
+has difficulty playing a DVD in Windows.  I mean, it works out of te box, I just wanted to chase dependancies around.  stupid Windows.

@@ -1,0 +1,1 @@
+I'm telling Rails/memcached to cache for 60.seconds. Rails/memcache caches for far longer, unknown how long 

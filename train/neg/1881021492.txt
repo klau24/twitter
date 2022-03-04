@@ -1,0 +1,1 @@
+there seems to be some issue with maps and ie. as usual  funnily it works in ie7 and not 8

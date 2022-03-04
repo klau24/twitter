@@ -1,0 +1,1 @@
+@TheJackal101 Step 1: understand what the purpose of the proc is.  Step 2: remove all cursors.  Step 3: review all indexes  

@@ -1,0 +1,1 @@
+Last night's install-fest dragged a little. Installing git-core through macports must have taken at least an hr. Slow net connection cap 

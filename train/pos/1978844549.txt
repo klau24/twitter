@@ -1,0 +1,1 @@
+Hit 3.6GHz on stock cooling  - Vcore is 1.286, Prime95 stable for nearly 2 hours now. 58*C both cores. (E8400 - E0 stepping).

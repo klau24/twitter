@@ -1,0 +1,1 @@
+Waiting for some database admins to shut some DB's down so I can patch some linux hosts - work laptop does not function from garden 

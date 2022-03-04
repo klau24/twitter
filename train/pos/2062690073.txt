@@ -1,0 +1,1 @@
+@schandur I used chntpw to reset my own password  Added windows vm disk in my ubuntu vm, it was lot easier then 

@@ -1,0 +1,1 @@
+@Postbox is it possible to include something like MinimizeToTray (http://bit.ly/wc9Cf  ) in PostBox? 

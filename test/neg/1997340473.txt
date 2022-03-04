@@ -1,0 +1,1 @@
+playing with Galleria and JQuery Flickr plugins to try and create a mini portfolio, not having luck 

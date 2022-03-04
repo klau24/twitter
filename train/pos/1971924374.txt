@@ -1,0 +1,1 @@
+@samarowais i started by working on culling the list of folks i was following who weren't also following me, so it wasn't too bad. 

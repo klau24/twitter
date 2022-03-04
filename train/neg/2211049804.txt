@@ -1,0 +1,1 @@
+*Not* upgrading to iPhone OS 3.0 as @iphonemms doesn't work. Apple won't approve the latest version 

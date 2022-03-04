@@ -1,0 +1,1 @@
+Found a bug in Hotspotmanager today, from my initial mail to Firedigit it took 1 hour to remote access, troubleshoot and fix the problem! 

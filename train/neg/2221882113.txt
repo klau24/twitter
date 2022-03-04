@@ -1,0 +1,1 @@
+building universal boost. still trying to get enough compiled to have amarok 2.2-svn again. boost/universal always gives me a hard time. 

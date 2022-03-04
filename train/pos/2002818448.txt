@@ -1,0 +1,1 @@
+Today GLUE 2.0 LDAP implementation conference, let's see if I manage to agree with everyone and package it nicely this month! 

@@ -1,0 +1,1 @@
+@jeckman yes, I think all the DHCP allocated IP addresses are used up, and I need to get on wifi to finish my presentation.  #openvideo

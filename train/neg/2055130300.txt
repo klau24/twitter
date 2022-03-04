@@ -1,0 +1,1 @@
+Planning an upgrade to D6. Unfortunately half of the modules I depend on only have alpha, beta or RC releases. Not good 

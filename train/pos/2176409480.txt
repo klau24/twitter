@@ -1,0 +1,1 @@
+@phiggins &quot;ken sent me&quot; isn't that from some Larry Quest?.. btw, I've provided a patch for plugd's block() -- I am kinda hero! 

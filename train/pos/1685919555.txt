@@ -1,0 +1,1 @@
+The problem with installing Path Finder is that you need to quit Path Finder first 

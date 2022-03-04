@@ -1,0 +1,1 @@
+Firefox 3.5 RC1 crashes every time upon opening. &quot;Nice.&quot; Guess I'm downgrading 

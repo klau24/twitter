@@ -1,0 +1,1 @@
+@robcorr that's the one I used. I ran the fix, option-click to update'd, uploaded the file - but after Bluetooth pairing it failed. 

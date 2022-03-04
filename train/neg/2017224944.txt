@@ -1,0 +1,1 @@
+What is a realistic limit on the size of an #xmpp roster? I know it's likely to be server specific 

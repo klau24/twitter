@@ -1,0 +1,1 @@
+Wasn't there an example a while back with draggable edges to place an imageoverlay? I can't find it 

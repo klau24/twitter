@@ -1,0 +1,1 @@
+@davidledwards your tweet is actually right -- provided that locale is set on the phone in their settings 

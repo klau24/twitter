@@ -1,0 +1,1 @@
+still not solved the problem of non-english characters in recipient address, sendmail/postfix doesn't like it 

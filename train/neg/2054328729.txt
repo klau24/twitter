@@ -1,0 +1,1 @@
+1 or more lights shifted btween 1st 2 render sets and next 4 sets, so they can't blend together. Have to re-animate couple hundred frames 

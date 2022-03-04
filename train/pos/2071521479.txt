@@ -1,0 +1,1 @@
+@ardalis we us structure map's automocker a lot...which of course requires structure map. 

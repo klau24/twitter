@@ -1,0 +1,1 @@
+@chrisschumann You're welcome. This is a tricky thing to do in Rails properly. If you have any better ideas, let me know. 

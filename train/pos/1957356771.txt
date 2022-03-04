@@ -1,0 +1,1 @@
+New version of Tweetie (1.2.1) fixes the colour of selected tweets.  Now I officially have no complaints about it. 

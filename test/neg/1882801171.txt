@@ -1,0 +1,1 @@
+trying to get wlan drivers working on ubuntu is like being in the bad old days of RedHat 6 

@@ -1,0 +1,1 @@
+@jruby It was a joke related to the old Rails/Ruby memory leaks http://bit.ly/pt17T and by its nature, JRuby is not affected 

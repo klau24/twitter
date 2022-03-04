@@ -1,0 +1,1 @@
+Cannot get chatroom feature to work.   Updated Java to 10, checked ports, etc. I can see video, but in the &quot;chat,&quot; only a spinning circle.

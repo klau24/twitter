@@ -1,0 +1,1 @@
+@hanstosti Yes not 301 redirecting from www. to non-www or vice versa can be a huge dublicate content generator 

@@ -1,0 +1,1 @@
+@be9 right, it will be available with rails3, but before that, it would require a fork of the plugins 

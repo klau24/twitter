@@ -1,0 +1,1 @@
+@noahsmark I hoped VS2010 would allow clean integration in this regard! Maybe I was too optimistic 

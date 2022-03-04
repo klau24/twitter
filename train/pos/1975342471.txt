@@ -1,0 +1,1 @@
+&quot;The Continuous Integration Game plugin for hudson introduces a game where users gets point on improving the builds.&quot; http://bit.ly/nguE4 

@@ -1,0 +1,1 @@
+@mmdeluna mine always shows +favorite and when I try to remove it gives error cuz it's already a favorite 

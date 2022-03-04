@@ -1,0 +1,1 @@
+New version (.26) of tweetdeck available... allows syncing across systems (AWESOME!), but still with the funky scrollbar/no min. to tray 

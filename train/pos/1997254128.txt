@@ -1,0 +1,1 @@
+@rickosborneorg You just need the right Launchd Trigger Item to make it work. mlbackup is tested for autobackup of USB-Sticks since r142 

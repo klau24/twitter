@@ -1,0 +1,1 @@
+@bradwilson Dont' have it yet  How will it perform as bootcamp install? What about dev drivers for USB devices (usb serial emulation)?

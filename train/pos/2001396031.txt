@@ -1,0 +1,1 @@
+@mkrzych JungleDisk also does incremental backup, uploads changed portions of large files, archives previous versions of files  Cheers

@@ -1,0 +1,1 @@
+help! I've broken this post on site by fiddling with comments.php, all content disappeared... http://is.gd/179ku Tried restoring,no luck 

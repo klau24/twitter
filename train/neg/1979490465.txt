@@ -1,0 +1,1 @@
+I hate IE7, it doesn't display content when PHP sends a web page with status 404 or 500, 

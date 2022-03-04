@@ -1,0 +1,1 @@
+@cswtham Growl is a kind of notification thing. So, when someone starts chatting, a notification pops up on screen. It's fine to get 

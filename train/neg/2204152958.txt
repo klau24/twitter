@@ -1,0 +1,1 @@
+W2008 has no iisapp.vbs - #sharepoint devs need to use %windir%\system32\inetsrv\appcmd.exe list wp   instead 

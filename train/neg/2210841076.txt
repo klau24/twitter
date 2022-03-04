@@ -1,0 +1,1 @@
+@wheresitworking Whenever I try to check my mail, it crashes.  And when I open mail settings, it crashes again.  

@@ -1,0 +1,1 @@
+Firefox 3.5 Beta 4 and TYPO3: Looks really good but the &quot;Clear all cache&quot; Button is not working 

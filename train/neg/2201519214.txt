@@ -1,0 +1,1 @@
+@woojinjeong I've tried to install iPhone SDK. Yet, it requires OS X 10.5.x. I am using 10.4 

@@ -1,0 +1,1 @@
+@wolever &quot;open -a&quot; is where it really shines.  You can alias yourself up a bunch of shortcuts pretty quickly. 

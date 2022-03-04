@@ -1,0 +1,1 @@
+@creattica Indeed. It depends on how one codes for the post title  speaking of which... oncontextmenu=&quot;return false;&quot; is a total nightmare

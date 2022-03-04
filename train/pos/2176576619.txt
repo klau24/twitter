@@ -1,0 +1,1 @@
+@Bargok Simple #xml parsing for #php is a good one, or OO best practices 

@@ -1,0 +1,1 @@
+@ChrisAllen_WBKO Chatroom feature won't work.  Updated Java to 10, checked ports, etc. Video works, but &quot;chat,&quot; only a spinning circle.

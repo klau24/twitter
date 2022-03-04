@@ -1,0 +1,1 @@
+Changed by WP settings and few short links doesn't work anymore (I changed post title naming conventions) 

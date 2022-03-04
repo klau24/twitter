@@ -1,0 +1,1 @@
+@hunch I get &quot;Hunch encountered an error. Please Refresh the page to retry.&quot; on almost every page  Using IE or Chrome, if it matters.

@@ -1,0 +1,1 @@
+@woeldiche yup but beware that it can endup with scrolling bars when youre doing the auto  trick ;)  overflow hidden is the mans way 

@@ -1,0 +1,1 @@
+@matthewlesh The app - pretty well, the distribution -  Xcode doesn't like my default keychain, so I'm stuck in the Simulator 

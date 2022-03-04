@@ -1,0 +1,1 @@
+Monitor no dance when the phone is on 'silent' 

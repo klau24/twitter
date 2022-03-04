@@ -1,0 +1,1 @@
+Sun eve quiz: How do you enable Wake-On-LAN (for DPM &amp; standby/resume) in vSphere GA? It worked great in RC, can't suss it in GA. 

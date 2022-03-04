@@ -1,0 +1,1 @@
+IMAP can be very dangerous. Emails downloaded thru IMAP &amp; locally deleted get permanently deleted from the server! Learnt it the hard way 

@@ -1,0 +1,1 @@
+Note to self: 100mbit too slow for copying 200+ GB over network. 

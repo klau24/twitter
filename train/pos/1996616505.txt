@@ -1,0 +1,1 @@
+What's new in Quickr 8.2: &quot;Ability to serve up custom javascript modules. &quot; &lt;--You're welcome 

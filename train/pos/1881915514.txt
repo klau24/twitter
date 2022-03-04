@@ -1,0 +1,1 @@
+@Digressive  Just set the GoogleUpdate.exe service to not start if you don't like it.  Mind it might reenable it when you *choose* to upd.

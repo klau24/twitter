@@ -1,0 +1,1 @@
+routing loop occurred with my redistribution setup, so its more reading on the topic to figure this one out. 

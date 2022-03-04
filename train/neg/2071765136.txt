@@ -1,0 +1,1 @@
+Even better...why limit the chars I can use? You're going to encrypt it before storing in the database, right? Oh, you're not? 

@@ -1,0 +1,1 @@
+Wishing I could make (elegant) use of the function and list applicative functors in MATLAB 

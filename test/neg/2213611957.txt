@@ -1,0 +1,1 @@
+The plugins page in WP 2.8 is a bit of a mess compared to the previous versions. The layout in 2.7 was perfect. Strange move backwards 

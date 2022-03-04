@@ -1,0 +1,1 @@
+I'm working on shrinking my colorized versions of iNinja. I found a way to shrink each one from 170+MB to under 40MB!! 

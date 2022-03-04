@@ -1,0 +1,1 @@
+Assigning XML &quot;id&quot; attributes to paths in InkScape helps when exporting to other formats if you want to fine-tune afterwards 

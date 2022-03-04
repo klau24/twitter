@@ -1,0 +1,1 @@
+After some fine tuning on the VSR, it now sings to the tune of 650 - 660 fps  That's almost 4 joules of energy!

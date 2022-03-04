@@ -1,0 +1,1 @@
+Why using lucene when iterating is faster? I lost 2 or 3 days on doing the search (and indexing) by lucene 

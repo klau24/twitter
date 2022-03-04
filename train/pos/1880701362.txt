@@ -1,0 +1,1 @@
+finished the upgrade to Ubuntu 9.04 finally. Installing latest compat-lib for Notes did the Job to run 8.5.1 on 9.04  Cewl - Love it!

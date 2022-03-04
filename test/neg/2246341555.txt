@@ -1,0 +1,1 @@
+@Kardboard I use Irfanview for batch resizing, but I don't think it has a watermark feature. 

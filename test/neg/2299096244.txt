@@ -1,0 +1,1 @@
+@paulkukiel too bad lazy-loading will be supported in a very limited way  I guess FB5 will answer my prayers

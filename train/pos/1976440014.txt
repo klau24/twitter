@@ -1,0 +1,1 @@
+@onejan84 true.  it handles tabs better than most browsers (esp via tab mix plus) - just super ram-hungy

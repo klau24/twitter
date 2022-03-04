@@ -1,0 +1,1 @@
+@keanrichmond Clicking on the button and adding a URL in Compatibility View Settings adds the TLD not just the subdomain 

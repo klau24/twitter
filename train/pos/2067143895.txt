@@ -1,0 +1,1 @@
+@IvoHunink yeah, I run some RSS feeds through a simple filter for that.. with the Twitter API that should be easy too 

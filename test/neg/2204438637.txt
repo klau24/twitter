@@ -1,0 +1,1 @@
+@richwells that looks really nice, esp the variables and mixins... shame it seems to be for ruby only 

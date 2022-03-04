@@ -1,0 +1,1 @@
+When I tranferred kbcafe.com to GoDaddy, Network Solutions @netsolcares immediately erased the DNS settings on the NS causing an outage 

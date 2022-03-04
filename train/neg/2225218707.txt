@@ -1,0 +1,1 @@
+Just figured out that Modelsim 5.8 is not doing a good job when both distributed and module path delays are mixed in the design. 

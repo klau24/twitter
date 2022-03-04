@@ -1,0 +1,1 @@
+Any smart way to profile jQuery? I'm looking at most of the run time spent in init() 

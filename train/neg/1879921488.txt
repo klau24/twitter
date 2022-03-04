@@ -1,0 +1,1 @@
+Kinda got Solr  CD replication working... and now my brain is hurty.  Looks like I can only sync  every 5 mins.. so in prod its out 5  wt?

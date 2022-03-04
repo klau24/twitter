@@ -1,0 +1,1 @@
+in minix one not need worry about copying data from userland to kernelland because the server IS in userland! yay! (for hwpmc pmc server) 

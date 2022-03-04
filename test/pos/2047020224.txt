@@ -1,0 +1,1 @@
+@joshshea I think you ahve the wrong boolean variable in that tweet... it's not an &quot;or&quot; - it's an &quot;and&quot; - check your syntax 

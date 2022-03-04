@@ -1,0 +1,1 @@
+@atebits re: Tweetie Mac, 'Refresh All' is much more useful than 'Refresh' (does the same +more), yet doesn't have a keyboard shortcut. 

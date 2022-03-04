@@ -1,0 +1,1 @@
+Nightly Chrome build just keep getting worse and worse... No Google Gears, No extensions, No Gmail/Reader 

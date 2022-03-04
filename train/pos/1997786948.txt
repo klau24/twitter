@@ -1,0 +1,1 @@
+@jfarrell: If you use HashSet&lt;T&gt; for your two sets, there's already and Intersects method 

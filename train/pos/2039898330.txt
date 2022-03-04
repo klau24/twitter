@@ -1,0 +1,1 @@
+nevermind, I just discovered that css can do drop shadows. 

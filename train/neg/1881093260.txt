@@ -1,0 +1,1 @@
+The demo of plants vs zombies works perfectly under wine in ubuntu, registering #fails  . Manual registration needs IE. I'm out $30.

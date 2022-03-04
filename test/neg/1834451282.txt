@@ -1,0 +1,1 @@
+Broken link  So simply enter the following in Wolfram Alpha: sin(x)=2sin(y) , tan(x)+tan(y)=2, 0&lt;x&lt;pi/2, 0&lt;y&lt;pi/2

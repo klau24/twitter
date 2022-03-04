@@ -1,0 +1,1 @@
+Need help with TweetDeck! Ever since I upgraded to the latest version, when I minimize TweetDeck, it goes to Taskbar and NOT system tray 

@@ -1,0 +1,1 @@
+@cuddlykatz Not good  If you're sending a 100mb file for example, is that faster (for the site) than a 500mb file? Or hours regardless?

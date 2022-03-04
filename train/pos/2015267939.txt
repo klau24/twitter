@@ -1,0 +1,1 @@
+@katopz cool! Can you make the reflections update according to each faces normal? 

@@ -1,0 +1,1 @@
+Failing to deploy to new VPS. GitHub/Capistrano problems - remote says 'git ls-remote &lt;github repo&gt;' command not found.. any ideas? 

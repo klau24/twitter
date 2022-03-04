@@ -1,0 +1,1 @@
+@asolomon15 You have to use a rails server, like mongrel, on top of Apache 

@@ -1,0 +1,1 @@
+@coldmilk Sections 1, and 3 are flashing red - Overheating. Looks like your heat sync or a fan isnt working. 

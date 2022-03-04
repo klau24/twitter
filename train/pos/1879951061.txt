@@ -1,0 +1,1 @@
+@tehlike Ok now it's serializing...now I just have to deserialize the interceptor and this LinFu 2.0 will have a serializable proxy 

@@ -1,0 +1,1 @@
+If you don't do this, the function (is this example, count()) will be called EVERY time it's looped, which will slow down your apps. 

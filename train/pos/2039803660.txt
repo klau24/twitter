@@ -1,0 +1,1 @@
+has swapped his python multi-touch project over to git on windows. much nicer to work with. thanks @romanofski, @genericness for the kick 

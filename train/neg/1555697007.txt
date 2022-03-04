@@ -1,0 +1,1 @@
+Google AppEngine doesn't support JAXB or RESTEasy Client (no Sockets allowed).  No Service Bus on the Cloud 

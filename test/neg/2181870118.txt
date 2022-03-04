@@ -1,0 +1,1 @@
+@ghiebert Crap. This thing is 32-bit. That means my shiny new Win7 64 VM won't work. 

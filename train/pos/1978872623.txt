@@ -1,0 +1,1 @@
+Used this weekend  develped ,deployed and invoked EJB3 SB and MDB in the newest Glassfish!

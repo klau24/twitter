@@ -1,0 +1,1 @@
+I learned that it you want to divide a server disk into two partitions, you should do it during setup. Trying to do it latter could cause 

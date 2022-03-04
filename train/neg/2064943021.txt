@@ -1,0 +1,1 @@
+GUTS-events: working on guice injection of typed event channels providers. Tests are failing  Need further investigation.

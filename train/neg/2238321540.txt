@@ -1,0 +1,1 @@
+TweetDeck: Unknown desktop manager, only Gnome and KDE are supported 

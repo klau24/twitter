@@ -1,0 +1,1 @@
+@donnfelker  @jamesashley has built a rest wcf client lib for twitter #wtf and were looking at building a wpf client for it 

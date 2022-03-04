@@ -1,0 +1,1 @@
+Hmm - seems like latest win update may have set ntlmv2 as being required which has killed most of our samba auth  Appropriate gpo needed

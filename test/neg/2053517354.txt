@@ -1,0 +1,1 @@
+My iMac is once again being slow on sending/receiving AJAX requests. 

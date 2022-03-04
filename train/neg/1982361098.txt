@@ -1,0 +1,1 @@
+Twitpic posting from Gravity was working for a while without @janole's image posting proxy. It's stopped working again now 

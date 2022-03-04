@@ -1,0 +1,1 @@
+The gods of C hate me   I'm reading my data but ALL of my XYZ data is coming up X=0, Y=0, Z=-1.998207 But it can't be true!!! 

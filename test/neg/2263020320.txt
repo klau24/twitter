@@ -1,0 +1,1 @@
+Stressing that twitterfeed seems to be shortening our URL's and making them invalid 

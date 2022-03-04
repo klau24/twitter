@@ -1,0 +1,1 @@
+@linkkhi Edit the _FS cookie on bing.com &amp; change it's value to 'mkt=en-US&amp;ui=en-US', you should see improved results &amp; UI after that 

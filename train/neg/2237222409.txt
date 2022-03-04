@@ -1,0 +1,1 @@
+@AdamBien The only thing i did not get was why the visual editor was not shown when i created the JSF page  Probably my own error ;-)

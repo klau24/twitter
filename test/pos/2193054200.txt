@@ -1,0 +1,1 @@
+@stolee That's what I'm doing.  I added a &quot;-via&quot; filter, too, but I assume that will make me miss a few things attributed to sources.

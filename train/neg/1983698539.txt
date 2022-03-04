@@ -1,0 +1,1 @@
+Darn Word Press won't show the eMusic banner at my &quot;offers&quot; page. html code still in the post but for some reason not showing up 

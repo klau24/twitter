@@ -1,0 +1,1 @@
+Upgrading Firefox. @feedly doesn't work with Firefox 3.5 RC2 yet 

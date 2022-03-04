@@ -1,0 +1,1 @@
+Just wrote my first &quot;hello world&quot; FastCGI app (in C) and deployed it on lighttpd. The C was really easy; the server config was painful! 

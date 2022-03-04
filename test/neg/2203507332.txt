@@ -1,0 +1,1 @@
+@ShadowLOD KoK only works if the chars have been online for the snapshot.... hence there only being 4 of us showing 

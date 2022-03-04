@@ -1,0 +1,1 @@
+Backed up my homedir yesterday to my usual encrypted container. Switched to Ubuntu then and cannot access it anymore.  #fail

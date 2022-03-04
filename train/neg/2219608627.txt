@@ -1,0 +1,1 @@
+There's no default renaming capabilities for folders in AIR 

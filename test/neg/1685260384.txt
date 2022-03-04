@@ -1,0 +1,1 @@
+@askseesmic How do you remove a user from a UserList? Tried &quot;unsubscribe from user&quot; nothing appeared to happen, but it unfollowed! 

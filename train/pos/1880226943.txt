@@ -1,0 +1,1 @@
+@mohdrafie If you want the same app on Linux, go with LAMP. 

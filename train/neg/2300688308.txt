@@ -1,0 +1,1 @@
+@jasonboche - not sure. not chatted to Carl recently. Have you tried the beta. Tried creating an OVF with vCenter4. but it honks. 

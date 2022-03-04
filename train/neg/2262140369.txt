@@ -1,0 +1,1 @@
+@poruri it failed again!! nvidia graphics card was the culprit!! 

@@ -1,0 +1,1 @@
+@TravelDeveloper I know   -- I had to switch to something else.  It looks like the oAuth 1.0a spec will help.

@@ -1,0 +1,1 @@
+Wish SVN 1.5 could commit individual changes in a file, like git-add can 

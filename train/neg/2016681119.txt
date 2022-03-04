@@ -1,0 +1,1 @@
+phew, they were wrong - it's 1000 groups is the limit a user can belong too - too bad it includes nesting groups 

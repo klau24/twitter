@@ -1,0 +1,1 @@
+GGAAHH!!! joomla admin is screwed, looks like the rich text editor is fooked, edit/new articles only display half a page with no css 

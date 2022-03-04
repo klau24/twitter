@@ -1,0 +1,1 @@
+@reboot95 @gregdelima Figured out why Skype stopped working. My company blocked it because it takes up too much bandwidth. 

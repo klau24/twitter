@@ -1,0 +1,1 @@
+Finally got around to getting Mojarra trunk checked out, building and deploying to gf on my iMac.  That was easy. 

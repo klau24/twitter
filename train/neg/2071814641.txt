@@ -1,0 +1,1 @@
+And so it's done, #Bing API lib going to support SOAP (basic and experimental). I'm tired of writing arrays, they are endless with bing! 

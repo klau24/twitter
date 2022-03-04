@@ -1,0 +1,1 @@
+Installing and setting up Ubuntu on laptop. It's only one core and 32 bit but I love this machine 

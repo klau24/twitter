@@ -1,0 +1,1 @@
+Hoping RadRails eventually resolves this bug.  I'm thinking it's an AST/Parser Leak. Had to ditch Eclipse.  http://tinyurl.com/lrx53e

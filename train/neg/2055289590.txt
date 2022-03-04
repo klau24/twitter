@@ -1,0 +1,1 @@
+I like Seesmic desktop, but it's installed on a work comp - when i connect to the work network, seesmic works.  At home, it doesn't. 

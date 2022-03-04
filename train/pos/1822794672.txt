@@ -1,0 +1,1 @@
+@jnunemaker another use of your twitter gem: http://twitter.com/goldstarla Goldstar's twitter feed. 

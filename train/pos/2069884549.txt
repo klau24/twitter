@@ -1,0 +1,1 @@
+@jessenoller I thought it would be properly formatted as ReST; but it’s fixed in the latest release (v0.1.1) 

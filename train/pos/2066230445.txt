@@ -1,0 +1,1 @@
+Anyone who tests that new exe, could you please open task manager and watch &quot;memory&quot; under the processes tab for Engine.exe? kthx. 

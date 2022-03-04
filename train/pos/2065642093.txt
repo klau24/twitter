@@ -1,0 +1,1 @@
+@hugith I was encouraged by an old EOFer (whom I respect greatly) that I should dump EOF and go with Hibernate...I just couldn't do it. 

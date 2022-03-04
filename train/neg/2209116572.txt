@@ -1,0 +1,1 @@
+merging csproj files by hand. This is what I get for holding off merges  

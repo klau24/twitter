@@ -1,0 +1,1 @@
+do you have problems with !kde 4.2.3 and Radeons? after upgrade my X consumes over 50% in state of idle 

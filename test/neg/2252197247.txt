@@ -1,0 +1,1 @@
+I just created an account on Twine...they don't support OpenID and Gravatars, fail 

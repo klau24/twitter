@@ -1,0 +1,1 @@
+@MikkuHarvey λ = h/mu  Where h is the Planck's constant, m is the mass in kilograms, and u is the velocity in meters per second.  

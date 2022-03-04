@@ -1,0 +1,1 @@
+@kangax would be awesome to have this or similiar as a plugin for sprockets 

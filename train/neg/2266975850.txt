@@ -1,0 +1,1 @@
+@gvwilson &quot;unit testing&quot; isn't high on the list of Adobe's goals for FlexBuilder and &quot;scriptability&quot; isn't something Eclipse is known for 

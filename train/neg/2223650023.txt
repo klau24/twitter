@@ -1,0 +1,1 @@
+@robolson The fun part is now I'm coding my trading algorithms so that my computer can trade for me unattended (trading bot) not in Ruby 

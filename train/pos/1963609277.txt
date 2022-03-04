@@ -1,0 +1,1 @@
+@simplytweet Updating via gps but not giving lat/long in the twitter profile.  Twittelator and Twitterrific have name of city option.  

@@ -1,0 +1,1 @@
+I've lost 10 frames from a rendered animation and I can't find out where they go. I need an application to count for me. 

@@ -1,0 +1,1 @@
+dont upgrade to Chrome 2 if you require NTLM authentication,., Its not supported yet    :'(   http://tinyurl.com/nwop39

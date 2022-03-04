@@ -1,0 +1,1 @@
+now I shld think much more before  rm -Rf ~/tmp/* I lost 2 hours of work after my last tmp removing  don`t forget, don`t leave then there

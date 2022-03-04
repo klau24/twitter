@@ -1,0 +1,1 @@
+Free time ? idea to develop : a GWT app on google app engine using google vizualization api to graph amazon ec2 cloudwatch metrics 

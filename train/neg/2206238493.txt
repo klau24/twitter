@@ -1,0 +1,1 @@
+@strikerInsane you mean like creating COM objects &amp; using them in web pages *shudder* vb.net+asp.net is ok.. OO in it is fucked up tho 

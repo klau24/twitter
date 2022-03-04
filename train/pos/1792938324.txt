@@ -1,0 +1,1 @@
+Okey, @proctorlabs IOS version doesn't support EIGRP summaries at all (not advertised). Need to break the rules of the lab now 

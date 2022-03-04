@@ -1,0 +1,1 @@
+I know PHP is supposed to be THE easy way for deploying web apps, but after installing it my server feels tainted 

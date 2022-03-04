@@ -1,0 +1,1 @@
+therefore java vm memory is nearly full and users cant log on 

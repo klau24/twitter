@@ -1,0 +1,1 @@
+@SpyMasterPhil issues w/assassination in IE7 - just get a black screen forever, no completion 

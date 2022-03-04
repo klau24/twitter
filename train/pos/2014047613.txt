@@ -1,0 +1,1 @@
+Checking out Google Places on Android. Nice implementation but their definition of &quot;near&quot; in rural Ireland is quite loose 

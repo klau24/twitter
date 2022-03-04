@@ -1,0 +1,1 @@
+@Cinsoft the jQuery lightbox script gracefully degrades.  With JS disabled, the gallery is simply links to the full images  

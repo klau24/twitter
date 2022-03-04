@@ -1,0 +1,1 @@
+how do i identify where poor QOS is happening? On the local network on the outside interface, etc? 

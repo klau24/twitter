@@ -1,0 +1,1 @@
+Oh darn-it looks like Linq to NHibernate doesn't implement the join operator ?yet?   Otherwise it's looking super kewl

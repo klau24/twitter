@@ -1,0 +1,1 @@
+@ninja_says yeah it does. but it also scrolls left and right when you scroll up and down. so it works both ways 

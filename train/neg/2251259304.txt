@@ -1,0 +1,1 @@
+Just spent an hour re-factoring code to get round a problem which turned out not to be the problem. 

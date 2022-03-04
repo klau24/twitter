@@ -1,0 +1,1 @@
+Yahoo! have changed their IM protocol, and forked communication for millions of users.  Can we all go to XMPP? http://tinyurl.com/3a4kcp

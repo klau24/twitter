@@ -1,0 +1,1 @@
+Facing problem in installing software in Ubuntu jaunty... getting error could not be retrieved some packages from server 

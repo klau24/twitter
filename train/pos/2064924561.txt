@@ -1,0 +1,1 @@
+Rewritten #TI Dlog Module from #ASM to #C and implemeted a &quot;one-shot&quot; trigger, a trigger to stop and start recording and a free run mode 

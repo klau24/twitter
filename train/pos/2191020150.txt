@@ -1,0 +1,1 @@
+@rjw1 I listened to the railscast but didn't pick up that they weren't replacing cron. That actually makes sense 

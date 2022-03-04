@@ -1,0 +1,1 @@
+@Daneel3001 What integration test are you using to interest drafts into the DB? 

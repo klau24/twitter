@@ -1,0 +1,1 @@
+@seanslater May I ask what browser you are using? Mine doesn't give a nice error message... had to resort to telnet 

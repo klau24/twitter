@@ -1,0 +1,1 @@
+I suck at making widgets, Opera keeps rejecting my config.xml  #mwc

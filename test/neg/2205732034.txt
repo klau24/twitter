@@ -1,0 +1,1 @@
+Headed to a mtg w client's DBA who thinks the best way to test a sproc is to run it against a copy of the entire prod DB 

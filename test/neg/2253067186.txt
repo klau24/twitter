@@ -1,0 +1,1 @@
+@georgelaw @npc100 Yes, I've tried it on wine.  Works fine until I actually try to update or add anything, then it crashes. 

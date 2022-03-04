@@ -1,0 +1,1 @@
+Logitech Squeeze Center is coming to NS4600 in SR1 along with MySQL. Performance is &quot;outstanding&quot;, far better than ReadyNAS NV+. 

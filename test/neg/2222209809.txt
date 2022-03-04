@@ -1,0 +1,1 @@
+ARGH !  sys.stdout.encoding = &quot;cp037&quot; --&gt;&gt; TypeError: readonly attribute

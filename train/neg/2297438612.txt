@@ -1,0 +1,1 @@
+Allright, combining asp.net dynamic data and ado.net dataservices doesn't work  But I gotta try a workaround from my own blog before quits

@@ -1,0 +1,1 @@
+had to disable the newsletter software on the comluv server, it was using too much memory and techies had to reboot the server 

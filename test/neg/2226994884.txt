@@ -1,0 +1,1 @@
+Complete reset, re-install and re-sync and things appear to be working. Nice UX Apple 

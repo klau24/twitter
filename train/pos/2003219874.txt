@@ -1,0 +1,1 @@
+&lt;body onload=\&quot;alert(\'hi\')\&quot;&gt; I hope this will fail 

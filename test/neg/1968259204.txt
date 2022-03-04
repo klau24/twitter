@@ -1,0 +1,1 @@
+removin chrome as my default  as many sites support firefox/IE 3 only --&gt;Y cant we have all vendors follow a common  spec  

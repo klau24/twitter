@@ -1,0 +1,1 @@
+&gt;&gt; propel    Running &quot;om&quot; phing task -&gt; Bus error : Mooookaaayyyyyyy, le bus magique se craque 

@@ -1,0 +1,1 @@
+Any one knows how to speed up USB Data transfer rate to Pen Drives ?   I am sick of these pen drives taking hours to back up 2 GB of data

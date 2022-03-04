@@ -1,0 +1,1 @@
+@loves = Love.find :all, :order =&gt; &quot;created_at DESC&quot; just produced a major error 

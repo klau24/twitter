@@ -1,0 +1,1 @@
+@toothsoup Last.FM has native radio clients for both Windows and Mac. You don't need Amarok. 

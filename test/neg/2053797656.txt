@@ -1,0 +1,1 @@
+is disappointed that trading eye v6 from @dpivisiondotcom still uses tables for checkout form layouts  Any particular reason?

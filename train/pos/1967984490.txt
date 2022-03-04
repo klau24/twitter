@@ -1,0 +1,1 @@
+My first Ruby gem &quot;Posterous&quot; is live and up at RubyForge  sudo gem install posterous  

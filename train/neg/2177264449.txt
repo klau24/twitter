@@ -1,0 +1,1 @@
+I never knew that u can insert a row into a table &amp; specify the Identity value, where the Identity is 'on'. I thought it was readonly. 

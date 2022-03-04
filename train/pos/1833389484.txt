@@ -1,0 +1,1 @@
+@StephenCraig Can I write the script for http://submit.microspoof.net/ so we can just use our own? It will send you a email. 

@@ -1,0 +1,1 @@
+@comicbookdb Site is running super slow (and often not at all) this evening/ Lots of hang-ups, random SQL errors, etc. 

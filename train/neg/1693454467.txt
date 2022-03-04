@@ -1,0 +1,1 @@
+@wecms In drupaland the new semantic rdf modules use sparql - http://bit.ly/S1DFV - yahoo just invented an open standard 

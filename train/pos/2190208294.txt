@@ -1,0 +1,1 @@
+@srstrong Oslo is in the same time zone than Madrid GMT +1, at least in Twitter settings 

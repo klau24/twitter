@@ -1,0 +1,1 @@
+christog: fight.php doesn't work for me, just a white screen 

@@ -1,0 +1,1 @@
+Published some small fixes for the new color picker swatches not updating when a hex code is keyed in, but had to roll them back for now. 

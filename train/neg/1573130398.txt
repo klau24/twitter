@@ -1,0 +1,1 @@
+imagimagefield_import module in drupal is not works for me  I'm sucking with it for two days now...any other mass image import in d6?

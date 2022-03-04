@@ -1,0 +1,1 @@
+@elpie what's scary, is I found it more entertaining writing a ray tracer, than creating a scene to render 

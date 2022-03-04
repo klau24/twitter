@@ -1,0 +1,1 @@
+@theuni We need neither. svn stores &quot;ancestry&quot;, files know if they came from a branch. The nobody supports it part is correct, though. 

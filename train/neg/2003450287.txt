@@ -1,0 +1,1 @@
+Trying to get ParameterizedType  for Generic Types with Groovy  for now it seems that no methods existing in the Groovy MOP

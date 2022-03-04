@@ -1,0 +1,1 @@
+New #adium 1.4b1 disconnects from my jabber server immediately after connecting and gives no good reason for that. This sucks. 

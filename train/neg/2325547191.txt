@@ -1,0 +1,1 @@
+I hate building out Windows developer environments. It's like two entire days down the drain. 

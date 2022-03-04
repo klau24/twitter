@@ -1,0 +1,1 @@
+@lukehagfors That sucks man  I would try to boot from your favorite rescue disk (linux, win) and try to access the drive from that.

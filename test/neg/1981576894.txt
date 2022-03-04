@@ -1,0 +1,1 @@
+@kovshenin Hotlinking is evil  -&gt; Send them 8000x8000px pink images via .htaccess instead! That makes it fun  http://cli.gs/2Epj4v

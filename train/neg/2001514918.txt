@@ -1,0 +1,1 @@
+Excited that my email works reliably now with secondary DNS and a backup MX. I must have bounced a ton of email last week 

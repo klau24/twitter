@@ -1,0 +1,1 @@
+submitting an update  cocos2d [Director useFastDirector] results in a blank screen for me on 3.0 beta 5 #cocos2d

@@ -1,0 +1,1 @@
+@oisin I'll be using it (the forum) - it installed on 3.4.2 but all the deps weren't installed and no EIP diagram functionality 

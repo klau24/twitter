@@ -1,0 +1,1 @@
+Bad News... I can't install Dot Net Framework 3.5 with Wine  #wine #ubuntu

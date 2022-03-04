@@ -1,0 +1,1 @@
+Fixed it! turns out i needed to reset the VRAM - thanks apple support 

@@ -1,0 +1,1 @@
+@TiddlyWiki: thinking how a multiurl  trail would look inside an iFrame in a TW - http://tinyurl.com/otnyon - il ne marche pas  

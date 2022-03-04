@@ -1,0 +1,1 @@
+RE @dima767 Plus a complete Master-Worker implementation 

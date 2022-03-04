@@ -1,0 +1,1 @@
+@AaronWardle changing the character set worked  ! moving to a new host seems to be a good opportunity to clean up the db #wordpress #mysql

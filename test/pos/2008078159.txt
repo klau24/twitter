@@ -1,0 +1,1 @@
+@ryanlrussell It is odd that it's off by default in 2.x, but I think it's on in 3.x.  Makes no sense why it's not.  Glad that helped!  

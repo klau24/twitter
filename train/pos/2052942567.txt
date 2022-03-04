@@ -1,0 +1,1 @@
+@Web__Fox good news we found the culprit  , try to get rid of one of them and see if both aplications work with that one mootools version

@@ -1,0 +1,1 @@
+Apocrypha 1.2... =&gt; API, WebSite und GameServer sind so ziemlich down 

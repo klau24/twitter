@@ -1,0 +1,1 @@
+oh FFS, ESXi 4.0 drops support for all 10/100 NICs &gt; 

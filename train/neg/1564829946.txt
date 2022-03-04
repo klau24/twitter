@@ -1,0 +1,1 @@
+Tweetie has no growl support  I thought that is a given on Mac applications these days?

@@ -1,0 +1,1 @@
+@davidgreystahl great news, RE: finding the CLOB code! I'm sure you'll have no troubles getting that working!! 

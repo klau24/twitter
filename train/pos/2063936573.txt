@@ -1,0 +1,1 @@
+[ WTF!! ]=&gt; Nginx + PHP-FastCGI + XCache + Python-FastCGI??? = A Ferrari VPS with 512 of RAM!!!! 

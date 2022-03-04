@@ -1,0 +1,1 @@
+Facebook chat now has bold and underline... so does the pidgin-facebookchat plugin 

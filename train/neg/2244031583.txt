@@ -1,0 +1,1 @@
+@amjad248 yep,,,, tried to overcome this issue previously by integrating a night filter to the camera, but never worked out 

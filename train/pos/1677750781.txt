@@ -1,0 +1,1 @@
+@jimmoran Problems with OS X on the Aspire One so far: no sleep &amp; can't shut fan off. You can do both on Windows 7 

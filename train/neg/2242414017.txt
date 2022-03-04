@@ -1,0 +1,1 @@
+Downloading something and it went from 100. kb/s to 1.5 kb/s    how does that even happen? &lt;---( rhetorical question)

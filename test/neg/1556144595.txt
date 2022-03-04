@@ -1,0 +1,1 @@
+Just had to disable offline GMail - Google Gears was disrupting my direct-to-label-view shortcuts. 

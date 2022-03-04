@@ -1,0 +1,1 @@
+@wvdschel Just curious, what are you working on that needs glib on Symbian? 

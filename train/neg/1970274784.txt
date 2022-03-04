@@ -1,0 +1,1 @@
+lame #bcleeds09 wifi won't allow ssh on port 22. set your sshd to listen on port 443. jabber also appears to be blocked! 

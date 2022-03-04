@@ -1,0 +1,1 @@
+@Beaker  Emergency rooms can be tedious and annoying -- either because they don't think it's a true emergency, or else because they do.

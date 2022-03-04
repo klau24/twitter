@@ -1,0 +1,1 @@
+Trying to publish my new pomodoro app, but ClickOnce applications seems to dislike my resources 

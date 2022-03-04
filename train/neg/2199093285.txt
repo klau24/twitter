@@ -1,0 +1,1 @@
+Trimmed the fat on Safari Sketch . . . runs on the iPhone . . . slowly  . . . time to optimize draw calls.

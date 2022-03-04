@@ -1,0 +1,1 @@
+@Jemm don't forget .NET 4.0 (well implied through VS2010), Hyper-V 2.0, SharePoint 2010, Exchange 2010.. so much goodness coming 

@@ -1,0 +1,1 @@
+I may cling to 32-bit apps as long as possible because the 64-bit alternatives chew up so much more VM memory  ouch

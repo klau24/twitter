@@ -1,0 +1,1 @@
+All used js frameworks sends */* in accept header and wants xhtml+xml back and not rdf+xml 

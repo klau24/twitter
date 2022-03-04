@@ -1,0 +1,1 @@
+@MuscleNerd PwnageTool crashes after unarchiving the ipsw.  (I'm on PPC-10.5.7)

@@ -1,0 +1,1 @@
+@tweetmeme (WP plugin) any plans to add a 'disable for xyz pages' option? Would be nice to disable for contact/about pages etc 

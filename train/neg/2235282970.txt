@@ -1,0 +1,1 @@
+I am getting &quot;$ is not a function&quot; error in #Wordpress 2.8 edit post page. What happened to my jQuery? Itz loaded there  @wordpress

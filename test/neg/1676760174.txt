@@ -1,0 +1,1 @@
+Windows #azure projects geolocated in south-west won't get past initialisation.  Any ideas @smarx / @windowsazure ?

@@ -1,0 +1,1 @@
+A new chap is joining our team this week...and he loves Scala. Can't wait to hear all the good and bad aspects of Scala 

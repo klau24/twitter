@@ -1,0 +1,1 @@
+Lol whut. You can't programmatically modify elements that are inside button controls in Flash...?  #ActionScriptFAIL

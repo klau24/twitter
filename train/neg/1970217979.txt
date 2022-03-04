@@ -1,0 +1,1 @@
+@papadimitriou can't seem to get tweetie to record video and audio using and external webcam. 

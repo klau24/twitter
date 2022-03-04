@@ -1,0 +1,1 @@
+*yay* had trouble with my partition table  root is now on hd0,4 O_o grub didn't know... and i had to change my fstab :S

@@ -1,0 +1,1 @@
+@rem It was getting so unstable for me that I resorted to Firefox 2.0 Portable Ed &amp; FireBug 1.05 - the only solid combo for Win 

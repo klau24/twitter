@@ -1,0 +1,1 @@
+Setting a condition on a breakpoint in Visual Studio crashes every time 

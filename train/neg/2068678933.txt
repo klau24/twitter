@@ -1,0 +1,1 @@
+Pre-released another GWT API - HTML5 Storage. Only issue is I cannot get StorageEvents to work  http://is.gd/S3XC

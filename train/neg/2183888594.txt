@@ -1,0 +1,1 @@
+I just did everything wrong in #magento you can possibly do - core_read instead of collection filters and plain _toHtml() calls 

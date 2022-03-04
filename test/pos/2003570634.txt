@@ -1,0 +1,1 @@
+@MattKern there's a one-line function call to use in a template to grab any feed now. 

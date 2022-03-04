@@ -1,0 +1,1 @@
+It was because style['z-index']  With style.zIndex the z-sorting now works on Firefox 3.5 &amp; Opera. http://bit.ly/jcU9F http://bit.ly/s9gAG

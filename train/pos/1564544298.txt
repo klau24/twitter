@@ -1,0 +1,1 @@
+Looking into JasperReports, maybe will learn it as well this summer and of course see how to add some jQuery love into it 

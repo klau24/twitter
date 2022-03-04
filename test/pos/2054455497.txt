@@ -1,0 +1,1 @@
+Sistem controllerja v CodeIgniterju je isti kot v Ruby on Rails, I don't like it  #phpkonferenca

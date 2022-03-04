@@ -1,0 +1,1 @@
+Damn, I thought I successfully blind coded a whole WP Plugin page. Unforunately I didn't it's got a few errors to deal with 

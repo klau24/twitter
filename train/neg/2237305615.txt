@@ -1,0 +1,1 @@
+building an ASP.NET mini app training classes (registration, evaluation, feedback), too bad it's in ASP.NET 1.1 

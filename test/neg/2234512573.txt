@@ -1,0 +1,1 @@
+WTF! Visual Studio 2008 just killed itself and the app I was de-bugging  *zombie*

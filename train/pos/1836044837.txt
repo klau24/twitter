@@ -1,0 +1,1 @@
+wohoo! Got the bunch-cpu-hotplug interfaces working. Step one, complete 

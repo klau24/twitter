@@ -1,0 +1,1 @@
+Fixed my HIDs so they are no longer blowing fuses, all it took was some electrical tape and I got them alligned correctly...finally.  

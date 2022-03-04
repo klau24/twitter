@@ -1,0 +1,1 @@
+@pauloteixeira go to the flex lib code project. the SuerTabNavigator is a much better control 

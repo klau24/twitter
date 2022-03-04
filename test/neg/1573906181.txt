@@ -1,0 +1,1 @@
+One regression from 8.10 is with the Intel graphics drivers. I can't use compiz anymore  But i'm sure that's intel's fault.

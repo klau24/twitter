@@ -1,0 +1,1 @@
+@brightbox nginx-passenger package seems to be very broken. looking for passenger-spawn-server in the wrong place.  

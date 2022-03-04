@@ -1,0 +1,1 @@
+/dev/hda1             228G  4.8G  212G   3% /- Thats what I love to see 

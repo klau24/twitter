@@ -1,0 +1,1 @@
+My 1st Application on Android, which is BMI program. Not as I thought, though the emulator support Chinese,but I can't show it correctly 

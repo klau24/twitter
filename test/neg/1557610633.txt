@@ -1,0 +1,1 @@
+Scribus is acting weird again. Created A5 booklet, but PDF export gives me some very funky page size and placement/trimming. 

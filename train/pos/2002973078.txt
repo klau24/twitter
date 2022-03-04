@@ -1,0 +1,1 @@
+Preparing hopefully the latest 0.7 version of Agilo for Scrum http://www.agiloforscrum.org, a lot of bug fixing, performance and IE7 

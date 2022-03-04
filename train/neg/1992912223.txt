@@ -1,0 +1,1 @@
+Sadly, I think that rate limiting will become a part of Bing, which will follow standard MS approach to capitalization  SLA 1.5sec/up99.5%

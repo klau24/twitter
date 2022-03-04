@@ -1,0 +1,1 @@
+@smarx simpletracking.cloudapp.net vs simpletracking.com - 500-1500ms for azure, 80-100ms on a CELERON! Same code. Unacceptable 

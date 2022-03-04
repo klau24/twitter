@@ -1,0 +1,1 @@
+symlinks are all screwed up with file sharing.  Poop.  I don't want to spend time figuring it out 

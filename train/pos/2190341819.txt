@@ -1,0 +1,1 @@
+@ploeh Confusing definitions  Nevertheless, not being able to trust a test runner is bad.

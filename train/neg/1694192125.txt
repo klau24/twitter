@@ -1,0 +1,1 @@
+8x GPU (4x GTX295) Linux Folding  GTX295 is 6 times more powerful than Intel Core i7 (with wine overhead) http://ur1.ca/3y4x

@@ -1,0 +1,1 @@
+just changed syntax highlighter from my blog to http://wordpress.org/extend/plugins/syntaxhighlighter/ - thumbs up 

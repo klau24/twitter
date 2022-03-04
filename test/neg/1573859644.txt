@@ -1,0 +1,1 @@
+So apparently building a newsletter module turns out to be more trickier than I thought, on several levels. 

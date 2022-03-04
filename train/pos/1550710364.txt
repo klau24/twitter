@@ -1,0 +1,1 @@
+If I understand correctly, BIG-IP uses Linux to boot the platform, and load the software. So Linux is central to the device working, no? 

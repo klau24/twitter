@@ -1,0 +1,1 @@
+Crap! Oracle doesn't support ORDER BY clauses in subselects. Workarounds take much more time! 

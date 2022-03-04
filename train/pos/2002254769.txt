@@ -1,0 +1,1 @@
+@atebits: updated to latest version of @tweetie - app now crashes on launch. Fixed by reinstalling. I have details if you want them 

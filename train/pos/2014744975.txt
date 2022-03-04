@@ -1,0 +1,1 @@
+@Filttr Does your filtering algorithm strip out more updates when the mobile interface is used? Seems that way. (Good!!! 

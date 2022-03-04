@@ -1,0 +1,1 @@
+listening to freak kitchen writing up a small tutorial on createing an interpreter and programming language 

@@ -1,0 +1,1 @@
+was really pleased that getting the new WP install to talk to my old database was just a matter of setting the db prefix in wp-config.php 

@@ -1,0 +1,1 @@
+@20thCFlicks when you search the database to add to  wishlist, if there is more than 10 results it doesnt display them 

@@ -1,0 +1,1 @@
+Latest version of Tweekdeck is hogging 300M+ of memory on my Ubuntu.  Something went wrong in that update 

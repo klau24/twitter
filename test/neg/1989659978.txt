@@ -1,0 +1,1 @@
+Well @jQueryHowto @danwellman that could be much clearer in the docs 

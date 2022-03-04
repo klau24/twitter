@@ -1,0 +1,1 @@
+Tweetdeck update is all messed up, now it doesnt minimize to system tray, doesnt show popup for new tweets. Its getting over me now 

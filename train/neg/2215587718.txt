@@ -1,0 +1,1 @@
+@boredzo I need to clip in a utility method. AFAICT can't clip without modifying the path and screwing my other code up 

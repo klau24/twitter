@@ -1,0 +1,1 @@
+Haven't ben able to find a good template for a database driven photogrphic web site ...so I am writing myself one ...not straightforward 

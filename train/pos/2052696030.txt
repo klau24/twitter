@@ -1,0 +1,1 @@
+@fsiyavud chandler was kinda slow on startup and shut down due to online sync...tudumo is more like...lightning fast 

@@ -1,0 +1,1 @@
+ah, shit. these single-core inits are becoming more often. windows box's CPU is dying 

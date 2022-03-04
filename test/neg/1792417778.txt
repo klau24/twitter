@@ -1,0 +1,1 @@
+@dk i can't get the &quot;when did you join twitter&quot; API to work for me. it says userid not found. 

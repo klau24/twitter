@@ -1,0 +1,1 @@
+firefox 3.0.11 è vulnerabile allo sniffing 

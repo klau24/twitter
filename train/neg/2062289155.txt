@@ -1,0 +1,1 @@
+@Chris2685 Hmm, no, it's working for me.  See if you can get the EA download manager in and put your code in there and see if it accepts. 

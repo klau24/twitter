@@ -1,0 +1,1 @@
+hmm the twitter plugin for pidgin is great but i can't turn off new notices explicitly for the twitter window 

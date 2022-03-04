@@ -1,0 +1,1 @@
+Computer in training room is 256MB ram, but the windows already took 440MB, so i can't do anything even click start menu 

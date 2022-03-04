@@ -1,0 +1,1 @@
+http://twitpic.com/5ohwg - Worked a bit on animation smoothing, AI and controls. 

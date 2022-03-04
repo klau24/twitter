@@ -1,0 +1,1 @@
+Tweetdeck doesn't warn you if it can't shorten the url enough....  http://bit.ly/mI5Va

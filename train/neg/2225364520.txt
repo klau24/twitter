@@ -1,0 +1,1 @@
+just finished flashing the second Solace v4... still a no-go on the boot 

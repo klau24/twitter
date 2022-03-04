@@ -1,0 +1,1 @@
+@thenokiablog heavy battery drain when active, as its always active. No background processing 

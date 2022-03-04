@@ -1,0 +1,1 @@
+@gear02 The Zune hardware itself doesn't do unicode. The software does. I have a couple of Japanese songs that show up as blocks. 

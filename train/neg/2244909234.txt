@@ -1,0 +1,1 @@
+Booo, even with my recompiled IPv6less kernel, I'm still stuck at 2megabits/second net connection on ubuntu 9.04 on the WOPR 

@@ -1,0 +1,1 @@
+@cplater Hehe all I did this afternoon was add VESA support to get high res consoles... then I started playing around with it more again 

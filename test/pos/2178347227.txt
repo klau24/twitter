@@ -1,0 +1,1 @@
+@fastbloke I have VMWare Fusion already, but can't get hold of an IE 5.5 installer. Doesn't matter for now though, browsershots.org is up 

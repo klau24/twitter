@@ -1,0 +1,1 @@
+Downloading new NVidia drivers to see if my GPU perf goes up. They have Win7 drivers already. 

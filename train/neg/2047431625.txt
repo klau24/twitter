@@ -1,0 +1,1 @@
+Laptop was acting funny during customer workshop - now on reboot I've got a scandisk reporting tons of errors - bad sign 

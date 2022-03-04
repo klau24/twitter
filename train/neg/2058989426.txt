@@ -1,0 +1,1 @@
+nixies are busted. did i fry the arduino, the power supply or the driver board?  

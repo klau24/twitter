@@ -1,0 +1,1 @@
+Using SyndicationFeed and Linq to union several feeds together, some data missing after union, the magic of linq no so magical atm 

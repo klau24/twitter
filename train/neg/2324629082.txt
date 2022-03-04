@@ -1,0 +1,1 @@
+Don't ever have inconsistent line endings. I am paying the price for it now. Was using UNIX and Windows for Coda and Dreamweaver 

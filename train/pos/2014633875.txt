@@ -1,0 +1,1 @@
+Also, made a massive breakthrough with the visual studio integration, who likes the idea of generating the code from within VS itself 

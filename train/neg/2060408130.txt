@@ -1,0 +1,1 @@
+@luminairex seems it's related to domain name servers not resolving in my area. It could be days. 

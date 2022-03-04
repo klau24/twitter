@@ -1,0 +1,1 @@
+@Harrygep I'm not sure it's completely fixed. A load (though not all) of my tweets from Gwibber are still showing as web. 

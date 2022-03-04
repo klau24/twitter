@@ -1,0 +1,1 @@
+Installing Windows 7RC under VMWare Fusion for CBT training purposes 

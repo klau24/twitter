@@ -1,0 +1,1 @@
+mkfs.ext3 -c for 1TB partition over USB 2.0 - 4 hours and counting 

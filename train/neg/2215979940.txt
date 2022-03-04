@@ -1,0 +1,1 @@
+trying to figure out how to automate the check for duplicate records in #salesforce to keep the DB clean.. doesn't seem to work 

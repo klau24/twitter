@@ -1,0 +1,1 @@
+Tweetie for Mac seems slow on updating posts, I feel people are tweeting faster than this is updating (nothing in 10 minutes+), API limit 

@@ -1,0 +1,1 @@
+Just decided to stop developing a Magento webshop and rebuild it &quot;Webparking style&quot;. Took me almost a week of development to get here 

@@ -1,0 +1,1 @@
+@ayn yup, and if you have the older version of sphinx, you gotta restart the process  my cron consists of stop, index, start

@@ -1,0 +1,1 @@
+@PreThinking arg! my laptop doesn't have bluetooth! I'll have to wait for a wired tethering solution 

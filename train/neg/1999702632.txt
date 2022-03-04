@@ -1,0 +1,1 @@
+Finally, sendmail works.  My TWC IP range for outgoing SMTP traffic to major IPSs does not.    Good thing it is only for practice.

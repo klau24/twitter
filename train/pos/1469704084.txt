@@ -1,0 +1,1 @@
+@sergiopereira I'll better get crackin' on exposing the system as a RESTful service. Just to be consistent w/Twitter.  Thank you!!!!!!!!!

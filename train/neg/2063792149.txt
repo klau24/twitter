@@ -1,0 +1,1 @@
+looking at Asp.Net MVC Roadmap http://is.gd/RtE3. Areas in MVC2 .... i did it in preview 3 aug 08 

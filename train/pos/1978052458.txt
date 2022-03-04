@@ -1,0 +1,1 @@
+Was going to make my own XML membership provider, but I found one on codeplex. Perfect for a databaseless web app   http://bit.ly/jNlAo

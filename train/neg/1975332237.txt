@@ -1,0 +1,1 @@
+xcodebuild's -project parameter throws exceptions... anyone else encountering this? 

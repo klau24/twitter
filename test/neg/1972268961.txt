@@ -1,0 +1,1 @@
+VM additions dont install on Win7 C VPC wid Vista Home premium as base OS 

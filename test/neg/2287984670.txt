@@ -1,0 +1,1 @@
+One big bug in daily ppa of mozilla apps.. &quot;Could not find compatible GRE between version 1.9.1pre and 1.9.1pre&quot; !ubuntu 

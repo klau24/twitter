@@ -1,0 +1,1 @@
+@appiphany Tethering can't be enabled on 2G iPhones no matter how your #squarespace is configured. 

@@ -1,0 +1,1 @@
+Does anyone know of a free app that can convert a windows .ico file to .png with the alpha channel intact? Irfanview can't do it. 

@@ -1,0 +1,1 @@
+@hdmoore Just rename 'trunk' to 'super_stable_version' and you're set! 

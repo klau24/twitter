@@ -1,0 +1,1 @@
+@xedays RE comment: Yep, wait for the DNS! If you can't log in, it hasn't propagated yet. So you'll have to sit. 

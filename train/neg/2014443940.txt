@@ -1,0 +1,1 @@
+Can't enable desktop effects! PS3 display driver issues! No wobbly windows  Also rez is stuck to a strange 1124x644, but 16:9 it is.

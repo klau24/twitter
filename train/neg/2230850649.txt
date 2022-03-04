@@ -1,0 +1,1 @@
+get my program to read the ini file 

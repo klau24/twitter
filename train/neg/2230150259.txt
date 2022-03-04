@@ -1,0 +1,1 @@
+Bah! As soon as I install parallels tools on my windows7 bootcamp instance, it no longer works on a &quot;real&quot; boot 

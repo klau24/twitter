@@ -1,0 +1,1 @@
+New G1 / android v 1.5 still missing key feature: file browser.  No uploads in web forms 

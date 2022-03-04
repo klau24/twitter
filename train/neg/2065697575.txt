@@ -1,0 +1,1 @@
+Why is Cocoa so obtuse? I want to sort an array of strings: about 15 characters in Ruby, Perl, about 15 lines in Cocoa. 

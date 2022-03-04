@@ -1,0 +1,1 @@
+@rom: Thanks again, sir!  I would now try installing iTunes on WINE to see if it would work! 

@@ -1,0 +1,1 @@
+@0pensource Ubuntu doesn't run on an old AMD 2100 mhz machine I have.  Memory dumps all over the place. Wanted to replace old w2k machine 

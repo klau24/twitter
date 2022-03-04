@@ -1,0 +1,1 @@
+@foocode thanks man  Gonna implement logins soon saving API calls, allow sending statuses, following, viewing protected users blah blah.

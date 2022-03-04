@@ -1,0 +1,1 @@
+@Hades32 Don't get me started on attention states! Tabs with attention have a border too, but currently, even loaded pages get that state 

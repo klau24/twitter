@@ -1,0 +1,1 @@
+Hint. Don't use the local Australian version of Bing when you try it (change it to US) - seems many features are missing for us 

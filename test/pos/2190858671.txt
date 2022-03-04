@@ -1,0 +1,1 @@
+.net 4.0 rocks  just can say &quot;dynamic&quot; 

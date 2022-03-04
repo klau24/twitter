@@ -1,0 +1,1 @@
+New UI for customers DNN module going well  http://bit.ly/UC83M  Framework is in, have to struggle with the ugliness/CSS still 

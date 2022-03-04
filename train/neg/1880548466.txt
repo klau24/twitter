@@ -1,0 +1,1 @@
+G1 just received an unexpected ota update. Can't tell what update has changed. Still can not be trusted to use Latitude 

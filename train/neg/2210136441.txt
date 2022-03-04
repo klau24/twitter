@@ -1,0 +1,1 @@
+@Dries +1 modal frame. Merged HTML/JS is far too problematic. Try filefield or filefield sources with popups api. 

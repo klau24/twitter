@@ -1,0 +1,1 @@
+@BenTortora the temp domains are just being 301ed to .com.au, makes it easier that way!! 

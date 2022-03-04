@@ -1,0 +1,1 @@
+Time machine was even kind enough to back up my bash profiles!  Just not my Apache server... :S

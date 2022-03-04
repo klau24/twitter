@@ -1,0 +1,1 @@
+Anyone know why I can't pair my g1 phone with my g4 laptop using bluetooth after the cupcake update?? It sez &quot;no configurable services&quot; 

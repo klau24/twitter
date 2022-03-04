@@ -1,0 +1,1 @@
+@colinhowe love to work around it, but if I change the positioning it screws the layout inside the containing LI element. new css needed 

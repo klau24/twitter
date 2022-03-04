@@ -1,0 +1,1 @@
+@donalddesantis I think you want http://docs.jquery.com/Events/load#fn  The results for element load arent what you want anyway 

@@ -1,0 +1,1 @@
+@aolmail They are separated by tabs, and are one contact per line, and it still doesn't work.  

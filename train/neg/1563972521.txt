@@ -1,0 +1,1 @@
+what is the simplest / best way to manage performance? The more we look at it the more rules get added 

@@ -1,0 +1,1 @@
+@ComcastBill I used to get under around 5ms, nowadays I get around 35. 

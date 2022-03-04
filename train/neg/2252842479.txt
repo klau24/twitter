@@ -1,0 +1,1 @@
+Good list of Firefox plugins for web developers from @dicky83. http://bit.ly/rE2Aq JSONView looks neat, but doesn't work on CouchDB. 

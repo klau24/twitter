@@ -1,0 +1,1 @@
+@scormeny Well, I just mean the way things are with the editor atm, pasting anything but plain text is problematic 

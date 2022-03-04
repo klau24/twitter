@@ -1,0 +1,1 @@
+tweet_genius v5 device code on 8900 - can't get tweet genius to login, always says user/pwd invalid, ubertweet and twitterberry work ok 

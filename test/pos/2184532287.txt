@@ -1,0 +1,1 @@
+@mydaruma links automatically get turned into tiny urls. You don't have to do anything, just type it in. 

@@ -1,0 +1,1 @@
+on top of that, OWA was &quot;protected&quot; by Microsoft ISA proxy server  

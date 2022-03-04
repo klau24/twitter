@@ -1,0 +1,1 @@
+Test methods written for object creation and serialization.  No unexpected failures. Just need to retest  code refactoring. Oh fun 

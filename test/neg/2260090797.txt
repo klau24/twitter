@@ -1,0 +1,1 @@
+@sugree well, sometimes it runs okay, but other times it locks up. And when it does that, it takes the whole system with it 

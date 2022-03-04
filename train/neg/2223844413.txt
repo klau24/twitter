@@ -1,0 +1,1 @@
+tweetdeck seems to work just fine on the mac, but no luck on vista 

@@ -1,0 +1,1 @@
+@nicolagreco I think it's easier to start with a new design than the integrate with existing themes. 

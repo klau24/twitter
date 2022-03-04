@@ -1,0 +1,1 @@
+@hutchings yeah, i'm able to convert ms in to ss.ms &gt; mm.ss &gt; hh.mm perfectly- but it refuses to go in to a function without going mental 

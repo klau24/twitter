@@ -1,0 +1,1 @@
+Just installed Fedora 11 Preview on two laptops. Really disappointed with anaconda installer, failed on me bunch of times  #fedora #linux

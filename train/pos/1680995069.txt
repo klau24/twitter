@@ -1,0 +1,1 @@
+@evertongomes Hey, font size changes now work. See http://bit.ly/V25ym for examples. 

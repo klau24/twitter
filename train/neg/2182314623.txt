@@ -1,0 +1,1 @@
+Why won't mercurial add the Resources directory in my Titanium project?? anyone else had this problem? 

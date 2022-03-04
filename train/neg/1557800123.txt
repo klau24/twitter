@@ -1,0 +1,1 @@
+dist-upgrade of UML debian etch to lenny fails. Something goes wrong when dpkg is trying to upgrade libc6. Seems to be UML related..  

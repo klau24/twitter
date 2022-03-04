@@ -1,0 +1,1 @@
+Id say if you want to do indie or learn game dev do C#/XNA  you want to do more main stream do C++, but really it's best to learn both 

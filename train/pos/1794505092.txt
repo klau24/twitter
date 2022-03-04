@@ -1,0 +1,1 @@
+Ich habe gerade ca. 6500 redirect Eintr�ge in eine apache.conf kopiert 

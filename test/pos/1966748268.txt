@@ -1,0 +1,1 @@
+@shanselman when Mesh syncs a delete, the deleted files are moved to the Recycle Bin. found this out the (almost) hard way. 

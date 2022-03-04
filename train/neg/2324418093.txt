@@ -1,0 +1,1 @@
+got the mediahub working with daughters PC.  Yep - it was Windows Firewall sure enough 

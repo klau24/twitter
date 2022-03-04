@@ -1,0 +1,1 @@
+For some reason, my cursor keys dont work in Lotus Notes any more, pressing left and right moves the page and the home keys do nothing 

@@ -1,0 +1,1 @@
+@WillHughes easier way to hide desktop icons right click desktop-&gt;Arrange Icons By-&gt;uncheck Show Desktop Icons 

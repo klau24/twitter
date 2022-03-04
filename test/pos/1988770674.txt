@@ -1,0 +1,1 @@
+@pm_41 no actually they use the same search APIs  Bing.com itself uses the Live Search APIs for suggestions

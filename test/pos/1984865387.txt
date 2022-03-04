@@ -1,0 +1,1 @@
+for some reason history -c never gets saved on the shell history 

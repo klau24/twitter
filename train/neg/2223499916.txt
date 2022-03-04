@@ -1,0 +1,1 @@
+When using #jQuery to modify select elements, use .add on the HTMLSelectElement rather than .append otherwise it doesn't work in IE 

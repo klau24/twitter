@@ -1,0 +1,1 @@
+@SoyC  All is fine now. No more repeat text messages. 

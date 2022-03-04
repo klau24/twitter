@@ -1,0 +1,1 @@
+@bbum his code is already slower - in asm, breaking the pattern involves moving self around so it isn't clobbered by the return value. 

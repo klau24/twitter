@@ -1,0 +1,1 @@
+@nickraptis hey!  that was fast, it's only been 2 days since we talked about pointers and you're already using scanf() 

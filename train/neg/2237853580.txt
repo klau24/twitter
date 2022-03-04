@@ -1,0 +1,1 @@
+Tweetie's search function doesn't seem to be working properly. Only gives me one result when I know there are lots more. 

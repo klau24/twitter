@@ -1,0 +1,1 @@
+having a hard time migrating an openfire server to a new machine. moving embeddeb-db is trickier than a simple mysqldump 

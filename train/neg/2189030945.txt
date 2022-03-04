@@ -1,0 +1,1 @@
+iPod has encountered error 0xE8000075. Seems to happen almost every time I connect it to the development system these days 

@@ -1,0 +1,1 @@
+@zbowling yeah, everything now spellchecks but it doesn't account for adaptive lexography, so I see red everywhere, almost always. 

@@ -1,0 +1,1 @@
+@karen_loasby geoip forcing people outside of uk to 'international' version. No longer able to choose version 

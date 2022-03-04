@@ -1,0 +1,1 @@
+Really itching to try the new Direct2D API.  Too much work to do before play 

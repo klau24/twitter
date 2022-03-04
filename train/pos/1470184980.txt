@@ -1,0 +1,1 @@
+@jeromegn The RSpec Story Runner was the predecessor and has been deprecated in favor the much better Cucumber. Same idea, just better. 

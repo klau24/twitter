@@ -1,0 +1,1 @@
+@EricMaurer Interesting, but isn't not showing thumbnails. Page download could be slow if images are big? Thumbnails only on picture libs 

@@ -1,0 +1,1 @@
+@colin_jack  I think that hypermedia is a fundamental part of REST and adding a comment is not good enough - but that's just my .2 cents 

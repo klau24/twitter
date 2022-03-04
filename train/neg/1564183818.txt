@@ -1,0 +1,1 @@
+After scouring the internet for ideas, and trying a lot of things, I'm impressed with how totally Xcode seals off project references.  

@@ -1,0 +1,1 @@
+Fabio agreed to make me the project lead in NHibernate contrib drivers...  I'll try to make some clean up in a few days

@@ -1,0 +1,1 @@
+Generating multiplication tables on the fly on Wolfram Alpha. Cute! 

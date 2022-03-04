@@ -1,0 +1,1 @@
+every night, at about 23:00, the dns stops working 

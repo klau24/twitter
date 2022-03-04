@@ -1,0 +1,1 @@
+Fixing some Spanish strings on the Spanish translation of Scratch 1.4 

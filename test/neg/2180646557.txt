@@ -1,0 +1,1 @@
+@thomaszander Thanks. I cud not find koffice2.0 for fedora 10 repo. moreover my entire KDE is built on src trunk  ..

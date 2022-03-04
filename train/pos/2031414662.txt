@@ -1,0 +1,1 @@
+@brjohnson2 Yep! Im still here  And NO Im not building via command line. CakePHP's tutorials are all in command line format. /wrists.

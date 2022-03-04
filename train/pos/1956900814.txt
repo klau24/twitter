@@ -1,0 +1,1 @@
+@asolomon15 yes, but to do the same thing with cURL it's like 4 times as long. I was thinking cURL was the only way to get http headers 

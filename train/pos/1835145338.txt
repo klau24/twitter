@@ -1,0 +1,1 @@
+creating reporting sys for management, should i make the Yaxis a running total rather than new data? that way the graph will always go up 

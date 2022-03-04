@@ -1,0 +1,1 @@
+Hotel name, address too long for Air Canada's web check-in little mind. It nags with &quot;need more time?&quot; and resets all fields on the form 

@@ -1,0 +1,1 @@
+@alisohani and this is what it makes ridiculous vanilia php handles thousends of req/s - with a decent framework its hundreds 

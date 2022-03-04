@@ -1,0 +1,1 @@
+Just spent 30 minutes trying to get the subscriber feed for #daringfireball to work with #fever... no such luck   Favicons also don't show

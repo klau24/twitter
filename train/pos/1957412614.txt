@@ -1,0 +1,1 @@
+Finally figured out a config bug that allowed Tomcat Manager to hide from me. No more widget outages, @ryanniemeyer! (well, far *fewer*) 

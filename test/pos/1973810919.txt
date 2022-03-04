@@ -1,0 +1,1 @@
+Wordpress and WPMU *finally* merging codebases. YAY!  #wordcamp

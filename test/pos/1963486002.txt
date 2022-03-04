@@ -1,0 +1,1 @@
+Setting up Citrix Netscalers to Global Load Balance VMware View Broker Servers.   Peaceful Coexistence.

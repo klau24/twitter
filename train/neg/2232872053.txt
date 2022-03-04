@@ -1,0 +1,1 @@
+I should have looked into this first, but Windows XP only supports 2 processors. 

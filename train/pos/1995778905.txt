@@ -1,0 +1,1 @@
+@mrcadman OVERKILL is nice, but the Map 3D Drawing Cleanup command belongs in base ACAD IMO 

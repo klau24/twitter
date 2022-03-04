@@ -1,0 +1,1 @@
+is having issues with the .htaccess files on Yahoo!'s server 

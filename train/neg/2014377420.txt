@@ -1,0 +1,1 @@
+Can't seem to change some File Associations in !Kubuntu. When I press Apply they revert. Don't want Audacity as default for MP3 

@@ -1,0 +1,1 @@
+I seem to always arrive back at this point: debugging Python and Django email handling 

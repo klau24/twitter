@@ -1,0 +1,1 @@
+talked with Mosso, most requests complete &lt;500ms, but it spikes to &gt;2000 ms randomly.  Static files w/ nginx. No solution yet 

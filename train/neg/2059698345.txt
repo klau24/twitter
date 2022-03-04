@@ -1,0 +1,1 @@
+up 335 days, 17:33. Shutting down due to RAID 1 member disk failure 

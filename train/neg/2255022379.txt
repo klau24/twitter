@@ -1,0 +1,1 @@
+@compsolutions doesn't seem to want to boot into safe mode either. 

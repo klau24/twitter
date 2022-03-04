@@ -1,0 +1,1 @@
+So safari aggressively caches DNS. Its caching the local ip for one of our dev servers 

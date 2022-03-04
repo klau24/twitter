@@ -1,0 +1,1 @@
+Seesmic's facebook integration is cool, but it defaults to Facebook instead of Twitter. Two accidental statuses when I wanted to tweet 

@@ -1,0 +1,1 @@
+ok i think this is what i've been looking for in a Message Broker. http://activemq.apache.org/ supports STOMP protocol 

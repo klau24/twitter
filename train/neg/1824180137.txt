@@ -1,0 +1,1 @@
+Skype on #ubuntu hogs 100% cpu, loses voice  after a few mins  Damn I need that fixed for virtual workplaces to work.

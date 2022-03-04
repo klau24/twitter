@@ -1,0 +1,1 @@
+@_oho I believe it's still running the old exchange server 2003 version. Not surprising it does not work 

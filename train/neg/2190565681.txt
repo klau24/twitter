@@ -1,0 +1,1 @@
+Opera Unite töötab imelikult. Näitab et device on offline, kuigi kõik teenused üleval 

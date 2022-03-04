@@ -1,0 +1,1 @@
+ubuntu 9.04 on the lappy is finally set up exactly how i want it. turns out the final package configuration step was missed. all good now 

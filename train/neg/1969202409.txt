@@ -1,0 +1,1 @@
+Trying to find a config guide example for dot1x system-auth-control,  any hints?  Command reference no probs, config guide....meh 

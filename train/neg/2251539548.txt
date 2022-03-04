@@ -1,0 +1,1 @@
+I'm ready to do MapKit development... If only Xcode will compile my current version. 

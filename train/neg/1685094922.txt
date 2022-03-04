@@ -1,0 +1,1 @@
+Installed Amarok for Windows; gives error and won't start  Not surprising given they only distribute nightlies.

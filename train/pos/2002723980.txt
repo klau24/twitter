@@ -1,0 +1,1 @@
+SAP Interfaces are pretty easy: CSV and you are done 

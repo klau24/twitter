@@ -1,0 +1,1 @@
+linux accessrunner pci driver doesn't work with 2.6.30. 

@@ -1,0 +1,1 @@
+Started reading up on Clojure. It's nice, but I miss the actors. Now if we just had TCE on the JVM I could bolt it on 

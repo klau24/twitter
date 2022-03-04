@@ -1,0 +1,1 @@
+got sqlite working in my c# app 

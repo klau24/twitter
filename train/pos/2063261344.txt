@@ -1,0 +1,1 @@
+@lukevenediger CouchFS wouldn't win a speed award, but boy would it do remote-sync well  -- See http://bit.ly/5giCB by @jasondavies

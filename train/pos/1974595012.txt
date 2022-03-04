@@ -1,0 +1,1 @@
+@danfairs repeat after me: &quot;a doctest is no substitute for documentation!&quot; (not you personally, of course 

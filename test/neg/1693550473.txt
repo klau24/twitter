@@ -1,0 +1,1 @@
+Once again JavaScript fu beats CSS fu, resulting in JavaScript driven layout as it powers the CSS via dojo.coords(). Surely an easier way 

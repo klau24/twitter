@@ -1,0 +1,1 @@
+help, I need a contact form plugin for WordPress 2.8.  Anyone know one that works with WP2.8?  if so, enlighten me please 

@@ -1,0 +1,1 @@
+@lorenfogelman Bummer. If you shut things down gracefully, you're probably toast. Temp files are supposed to be deleted on close. 

@@ -1,0 +1,1 @@
+#python fuse experiments...the only fused thing was my brain.   &quot;cannot access /mnt/other: Invalid argument&quot; #fail

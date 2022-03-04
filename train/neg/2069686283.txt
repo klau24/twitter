@@ -1,0 +1,1 @@
+&quot;hg status -I ./*&quot; behaves differently on Windows and Linux  I just want stats on the current folder without subdirectories #mercurial

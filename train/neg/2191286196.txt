@@ -1,0 +1,1 @@
+Hrm, maybe I shouldn't be using a CollectionViewSource, but altering the view of the collection its bound to; need WPF magic help 

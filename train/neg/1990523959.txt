@@ -1,0 +1,1 @@
+@james_a_hart yeah, if only the compiler would let you have initializer syntax anywhere BUT an initializer..  (i.e. an Action&lt;T&gt;)

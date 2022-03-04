@@ -1,0 +1,1 @@
+@ceejayoz nothing wrong with curl, if you want to manually type each time... cmd-line programing for twitter I have automation plans for 

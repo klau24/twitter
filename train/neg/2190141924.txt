@@ -1,0 +1,1 @@
+thinking of moving all my Oracle playground VM's to Amazon EC2... Too bad they don't support RAC  ok... time to leave the office

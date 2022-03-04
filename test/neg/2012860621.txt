@@ -1,0 +1,1 @@
+I have two files that call the grim reaper when saved with CygnusED. Have to find the cause. Not allowed to send the files in bugreport 

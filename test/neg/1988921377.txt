@@ -1,0 +1,1 @@
+cyclers in xul trees so poorly documented on devmo I can't figure out how they work 

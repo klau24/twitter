@@ -1,0 +1,1 @@
+I have just made subtitles work! .avi and .srt files are playing together and I'm enjoying 'Love Actually' in English 

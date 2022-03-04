@@ -1,0 +1,1 @@
+@gobansaor Tried it but didn't work  I can normally switch between different connections &amp; change SMTP to suit. Not working with this one

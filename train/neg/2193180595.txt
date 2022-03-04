@@ -1,0 +1,1 @@
+@benjonesdj - when you create a VM it needs an operating system otherwise its like a mac with no OS on it  you therefor need to give it a

@@ -1,0 +1,1 @@
+super super pissed at Core Data right now. only way to guarantee an Entity's child-Entities inherit a method is to subclass *all* of them 

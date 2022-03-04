@@ -1,0 +1,1 @@
+@gtowna I turned off a plugin. The download link still just playing. But the d'load from the option menu is now working.  Thanks

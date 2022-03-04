@@ -1,0 +1,1 @@
+Urgh, upgrading Java has broken nearly everything I use. Including TinyMCE. Updating my blog through Wordpress will be a pain now. Maan. 

@@ -1,0 +1,1 @@
+Alpha channels. I use them a lot but still geek out when I import 3D .movs in AE and see them nicely &quot;alpha'ed&quot; out! 

@@ -1,0 +1,1 @@
+@scotti3g Indeed. Once the bluetooth connection is gone, I cannot get it back until a reboot. I now started using USB mouse again, hehe 

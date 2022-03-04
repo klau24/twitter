@@ -1,0 +1,1 @@
+How am I supposed to fix an IE6 CSS issue when I don't have permissions to edit it? Not to mention no FireBug for IE  Help?

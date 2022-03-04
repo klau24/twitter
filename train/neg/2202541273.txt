@@ -1,0 +1,1 @@
+@Aptana aptana for php 1.1 beta seems to have lost the ability to ctrl click class names to reveal? 

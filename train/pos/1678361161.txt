@@ -1,0 +1,1 @@
+A little hung over but happy to see my Array finished growing: /dev/md0              4.6T  2.7T  1.9T  59% /storage 

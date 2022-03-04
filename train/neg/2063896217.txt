@@ -1,0 +1,1 @@
+Windows Vista SP2: internet access with fix ip address still won't work  DHCP works flawless. #vista

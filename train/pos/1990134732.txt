@@ -1,0 +1,1 @@
+The Events Manager (v1.0b) has been rolled to the live CRM server!  TechAmerica staff may now create events straight from CRM!  

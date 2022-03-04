@@ -1,0 +1,1 @@
+anyone knowing about import flash.ExternalInterface? need help.. 

@@ -1,0 +1,1 @@
+@jawher I don't think you can make Java enums in Scala, at least not easily. If you find a way, please let me know. 

@@ -1,0 +1,1 @@
+can't get mod rewrite to pass on variables 

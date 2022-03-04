@@ -1,0 +1,1 @@
+i cannot figure out how to config gmail so deleting one mail opens the next one directly, instead of return to inbox 

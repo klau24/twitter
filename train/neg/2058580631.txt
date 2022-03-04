@@ -1,0 +1,1 @@
+Did something break? I thought gormObjA == gormObjB worked in Grails? More hibernate proxy troubles  ?

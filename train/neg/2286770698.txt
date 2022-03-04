@@ -1,0 +1,1 @@
+@phete I just tried in 0.5 experimental and framework 'webkit' works fine. I don't have 0.4 installed tho 

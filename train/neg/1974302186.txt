@@ -1,0 +1,1 @@
+New beta seems only slightly faster. The photo frame widget no longer wants to work for me though. 

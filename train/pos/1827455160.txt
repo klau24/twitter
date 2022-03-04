@@ -1,0 +1,1 @@
+@Benoitmio np  It actually works and gives me error messages when things go bad. (I missed that in Mail.app)

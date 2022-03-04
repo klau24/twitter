@@ -1,0 +1,1 @@
+Got X working on external monitor finally! Configuring Xorg is such a pain in the ass. 

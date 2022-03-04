@@ -1,0 +1,1 @@
+is cutting his albums to single mp3 files with #cue-splitter, thank you @niksy for link and @chevap for noticing the problem 

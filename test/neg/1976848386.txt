@@ -1,0 +1,1 @@
+my Intel Wireless 2200BG adapter is not compatible with aircrack-ng 

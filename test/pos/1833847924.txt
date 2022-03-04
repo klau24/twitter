@@ -1,0 +1,1 @@
+Writing my first WPF app.. Finding the layout mechanism.. Interesting 

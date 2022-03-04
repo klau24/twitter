@@ -1,0 +1,1 @@
+@gnrfan i have an script that do this, but i use this with vimperator scripting 

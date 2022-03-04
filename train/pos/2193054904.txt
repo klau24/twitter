@@ -1,0 +1,1 @@
+@jkeppens they shouldn't. configure the plugins when you instantiate them. its the advantage of #zf using classes eeeeeeeverywhere  #php

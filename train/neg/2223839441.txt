@@ -1,0 +1,1 @@
+@rob_rix It does for me.  I tap the icon, it starts then immediately crashes back to Springboard.  

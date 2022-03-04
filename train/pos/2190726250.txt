@@ -1,0 +1,1 @@
+&quot;battery state changed to low&quot; that means about 1 minute of tweeting 

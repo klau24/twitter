@@ -1,0 +1,1 @@
+sometimes I hold &quot;shift&quot; when moving windows and palettes around. it doesn't work  #constrain

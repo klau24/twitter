@@ -1,0 +1,1 @@
+Mention of identity interop and Msft now supporting SAML2 protocol 

@@ -1,0 +1,1 @@
+Using MSDevStudio, RMB-&gt;&quot;Go to Declaration&quot; on Menu::CEntry::~CEntry in Menu.h jumps too SaveData::CEntry::~CEntry in SaveData.cpp!  #fail

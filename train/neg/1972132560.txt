@@ -1,0 +1,1 @@
+Trying to get colors working right in Vim. It's tough.  And, laggy typing in this text box for Twitter. &gt;.&gt;

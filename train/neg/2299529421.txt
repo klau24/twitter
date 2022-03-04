@@ -1,0 +1,1 @@
+@chinacat It's not working in 2.8- won't update, even if I uninstall and reinstall all over again 

@@ -1,0 +1,1 @@
+Tweetdeck for iPhone discards my tweet if I exit the app before pressing send.  Tweetie handles this better.

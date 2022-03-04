@@ -1,0 +1,1 @@
+Hm, 2GB/6hours = 0.33gb/hour, 0.33gb/60(min) = 0.0055gb/min, 0.055gb/60(sec) = 0.00009.260gb/s. Not that bad when you look at it that way 

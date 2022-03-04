@@ -1,0 +1,1 @@
+@EarthshineDesig if my Arduino is broke - can I just buy a new Atmega chip? Is that why you do a pack of 3? 

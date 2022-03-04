@@ -1,0 +1,1 @@
+@fabsh your comments on distro building make it sound easy.  Now I'm thinking about Ubuntu desktop with no X and filled with cli/ncurses 

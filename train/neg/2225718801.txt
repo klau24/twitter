@@ -1,0 +1,1 @@
+@thedz i think in django 1.1 you'll be able to do that - but in 1.0.2 the views for the admin are hard coded into the __call__ method 

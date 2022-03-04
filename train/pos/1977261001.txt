@@ -1,0 +1,1 @@
+@LostInTangent Yes, we agree.  Lack of fundamentals means lots of bad web forms implementations, as well as difficult to move to MVC.

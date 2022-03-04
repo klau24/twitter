@@ -1,0 +1,1 @@
+8400gs pci-e x1 mod didn't work 

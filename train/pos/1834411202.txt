@@ -1,0 +1,1 @@
+#wolfram  I have completed my testing of Wolfram Alpha and I can reveal that it works correctly.  Meaning of Life does equal 42. 

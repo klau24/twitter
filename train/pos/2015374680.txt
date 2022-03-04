@@ -1,0 +1,1 @@
+Good thing, Windows 7 VHD's are backwards compatible with Virtual PC 2007 

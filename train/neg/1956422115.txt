@@ -1,0 +1,1 @@
+Processing 3:2 pulldown takes way too long. 

@@ -1,0 +1,1 @@
+There seems to be no way to merge 5.1-files automatically in Logic Pro 8  I now try to bounce in the hopes of retaining all channels.

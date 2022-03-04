@@ -1,0 +1,1 @@
+@project_grizzly  Hudson on Grizzly! It doesn't work for me: java -jar grizzly-hudson-1.9.15a.jar -p 8080 -a hudson-war-1.312.war. 

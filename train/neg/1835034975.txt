@@ -1,0 +1,1 @@
+Note to self, when stress testing SIP servers disable any debug code which sends emails... inadvertently stress tested the mailserver too 

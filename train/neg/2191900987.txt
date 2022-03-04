@@ -1,0 +1,1 @@
+After I upgraded TweetDeck to v0.25.1b favorites and &quot;in reply to&quot; are broken 

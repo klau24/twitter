@@ -1,0 +1,1 @@
+@longzheng We have some softphone software at work that doesn't work on x64 so I could use it in XP Mode but my proc no support hard-virt 

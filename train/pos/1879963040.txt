@@ -1,0 +1,1 @@
+UserGroupRolon.jsp now replaces role.jsp. Now only shared.jsp needs updating. 

@@ -1,0 +1,1 @@
+idea for lossy text compression? convert to another language with shorter words and less unique characters before normal compression 

@@ -1,0 +1,1 @@
+Ugh dealing with a layout with so many horrible absolute pos'd divs. 's what happens when you tell someone they can't use tables 

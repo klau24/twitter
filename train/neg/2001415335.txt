@@ -1,0 +1,1 @@
+Resetted Wordpress password via MySQL command prompt as described here: http://bit.ly/F1rTh  

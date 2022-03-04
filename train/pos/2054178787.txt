@@ -1,0 +1,1 @@
+I just installed 8GB of RAM in my new ESXi 4 host at home.. 

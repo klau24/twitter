@@ -1,0 +1,1 @@
+@bossjones indes.html would replace the main page. the prob is the XML files have been trippin. yesterday pics loaded 

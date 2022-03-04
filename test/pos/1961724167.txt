@@ -1,0 +1,1 @@
+Contrary to the changelog:  SBsettings 2.99 works great on 3.0 Beta with the unpatched Jailbreak. 

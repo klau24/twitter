@@ -1,0 +1,1 @@
+It really sucks when you write an article on Apache's rewrite engine and Wordpress times out your login, thereby losing the article 

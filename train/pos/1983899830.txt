@@ -1,0 +1,1 @@
+http://pypants.com/404_lol  never run your #djangodash project live with DEBUG=True if you want folks to find out your secret urls 

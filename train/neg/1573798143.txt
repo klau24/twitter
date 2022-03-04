@@ -1,0 +1,1 @@
+AAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH! E71 is now crashing during setting changes. Backing up all data in prep for reflash tonight 

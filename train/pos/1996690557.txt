@@ -1,0 +1,1 @@
+@kistaro I use a few lambda's I think in Amuse here and there? Along with plenty of LINQ. 

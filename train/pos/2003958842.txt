@@ -1,0 +1,1 @@
+@elijahmanor You left out the &quot;r&quot; in crud: retrieve. Maybe you were out of characters? 

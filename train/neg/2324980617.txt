@@ -1,0 +1,1 @@
+@Ravenatic i've mastered getting it into DFU but now its hanging at 'waiting for reboot'' ... why me 

@@ -1,0 +1,1 @@
+Made an interesting automator workflow to mount all network disks and fire up the sync process. A lot of work to 'just' double click now 

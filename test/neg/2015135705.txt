@@ -1,0 +1,1 @@
+@Wallfish: thanks 4 the info. Client needs to send/receive big attachments, they don't know ftp, cant use google for domains now 

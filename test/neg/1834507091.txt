@@ -1,0 +1,1 @@
+some plugins (Web Developer, Delicious for example) do not work anymore after upgrading Firefox on Mac   Any suggestions?

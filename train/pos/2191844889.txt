@@ -1,0 +1,1 @@
+Using a more O.O approach to these forms, busted the mailer logic out to a separate class, it seems faster 

@@ -1,0 +1,1 @@
+@theothernt firebug profiler tells me all the time is spent in init() 

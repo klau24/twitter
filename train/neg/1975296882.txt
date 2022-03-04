@@ -1,0 +1,1 @@
+RAID 0 vs. Lourini 1- 0... Can't get the stupid RAID to work  It keeps saying that there are no install files on the dvd :s

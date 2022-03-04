@@ -1,0 +1,1 @@
+@destroytoday Yea, DT 1.5.1 is working right; it doesn't scroll to the top on new tweets, so no need for a frown.  

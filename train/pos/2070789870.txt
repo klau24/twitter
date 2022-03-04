@@ -1,0 +1,1 @@
+@mj1531 The API for badge inserts is listed as deprecated in the latest OS X builds. 

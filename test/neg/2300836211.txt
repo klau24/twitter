@@ -1,0 +1,1 @@
+#TweetDeck keeps starting below my taskbar in Vista.  Moving it and closing it again doesn't fix the issue. 

@@ -1,0 +1,1 @@
+upgrading linux on eeepc always brings wifi down 

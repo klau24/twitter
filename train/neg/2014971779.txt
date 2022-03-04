@@ -1,0 +1,1 @@
+iPhone development becomes ugly. Different OS --&gt; different visualization/behaivor. Reminds me of web development for different browsers 

@@ -1,0 +1,1 @@
+@geekoo no it doesnt have an nvidia graphics card! it runs a 360 mhz arm processor... not a geforce 

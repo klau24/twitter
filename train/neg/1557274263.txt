@@ -1,0 +1,1 @@
+Grrr can't center a div in Safari for some reason. Using width: 50em, margin: 0 auto;, works fine in FF but aligns left in Safari 

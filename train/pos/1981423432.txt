@@ -1,0 +1,1 @@
+@shaveblog Yah you can get it to run, it just requires some different hacks iirc.  I can't wait for OpenCL + a 240-core GTX 280 

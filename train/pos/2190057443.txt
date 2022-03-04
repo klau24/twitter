@@ -1,0 +1,1 @@
+I'm lazy today, instead of creating a new Spring presentation myself I'll just show Rod Johnson's (@springrod) presentation from Infoq 

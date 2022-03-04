@@ -1,0 +1,1 @@
+5 of my extensions are not compatible with the new Firefox 3.5 RC2  Google Gears is among them.

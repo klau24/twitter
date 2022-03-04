@@ -1,0 +1,1 @@
+I was able to write a simple awk script to count lines in a log file - very helpful when validating report data  

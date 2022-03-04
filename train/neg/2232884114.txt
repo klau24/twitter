@@ -1,0 +1,1 @@
+@w2scott only way now is to use Twitter api but only works for an authenticated user...search.twitter.com no longer going back that far 

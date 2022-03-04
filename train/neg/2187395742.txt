@@ -1,0 +1,1 @@
+Geometry lesson: circle's area = pi(r)^2. With r=4 and 4=(1/2*8) gives pi(1/2*8)^2=1/4pi(8)^2. Thus: cookie with 2x radius = 4x calories 

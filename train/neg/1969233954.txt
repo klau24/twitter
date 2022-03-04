@@ -1,0 +1,1 @@
+I failed at connecting ze xml driven client to the mysql db 

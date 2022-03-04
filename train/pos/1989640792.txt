@@ -1,0 +1,1 @@
+Just finished setting up a TeamCity server at home for my hobby projects. How nerdy is that? 

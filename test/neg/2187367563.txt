@@ -1,0 +1,1 @@
+@procurvehelp i can bring my 5400s to their knees (99% cpu) with &quot;show&quot; commands (even an unprivileged oper can).  

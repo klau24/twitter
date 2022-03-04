@@ -1,0 +1,1 @@
+#svg patterns with patterntransform still not working correctly in opera 10 beta  (compare http://scrapcoloring.com in opera and firefox)

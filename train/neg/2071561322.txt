@@ -1,0 +1,1 @@
+@efleaa everytime I click on chat, then write a message and send, it takes me back to page to login, I don't know why 

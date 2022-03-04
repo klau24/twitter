@@ -1,0 +1,1 @@
+Experimenting with OLE/Office documents has never been easier. Use ruby-ole to twist docs and OfficeMalScanner to check the results 

@@ -1,0 +1,1 @@
+@partysprite Ok, Not keen on that Beez template.. Extensions-&gt;Template manager-&gt;Select template-&gt;edit-&gt;Edit css... set colours 

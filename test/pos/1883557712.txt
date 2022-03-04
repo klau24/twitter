@@ -1,0 +1,1 @@
+Created a script which creates bulk AD Global Groups, put it in RES Wisdom, parameterised it and it rocks 

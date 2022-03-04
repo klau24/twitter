@@ -1,0 +1,1 @@
+@stas_kulesh I manged to fix the IE problem  div#container {  z-index: 0; } div#header {  z-index: 999; } with conditional just for IE. 

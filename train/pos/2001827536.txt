@@ -1,0 +1,1 @@
+long ago and fixed the other problem too.  The braces was doubled at the end of a smarty command.

@@ -1,0 +1,1 @@
+Jakarta Globe apps not working at all after 3.0 upgrade and app update 

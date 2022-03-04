@@ -1,0 +1,1 @@
+@IamMaxatHotSpot and click and drag. This should change the shape of the text box and the text in the box. BUT NOT THE THICK BLUE LINE. 

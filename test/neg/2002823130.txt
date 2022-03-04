@@ -1,0 +1,1 @@
+Scrolling, Loading has become very sluggish in @tweet_genius..also it's sucking the battery out on my Bold 

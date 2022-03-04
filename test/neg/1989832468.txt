@@ -1,0 +1,1 @@
+@del_tron The &quot;like&quot; client is Deluge, which hogs a lot of resources. uTorrent is still lighter. No foobar replacement or anything close. 

@@ -1,0 +1,1 @@
+Too much web 2.0 crashes firefox in ubuntu 

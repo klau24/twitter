@@ -1,0 +1,1 @@
+This goddamned conn. is absolutely unusable for even a single API call right now  Reading Intel's architecture manual Vol 3 to pass time

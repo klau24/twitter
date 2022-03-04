@@ -1,0 +1,1 @@
+@sereda  Each tweet should have a maxLife property - if you don't read it before t expires you will never be able to read it =&gt; +1%

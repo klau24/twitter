@@ -1,0 +1,1 @@
+Per cent character might be fine elsewhere, but poison in an XML tag.  As told by DreamWeaver validation. 

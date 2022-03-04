@@ -1,0 +1,1 @@
+If the Linux bods can patch this ACPI interrupt error, my Ubuntu distro will boot in about 15 seconds 

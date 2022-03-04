@@ -1,0 +1,1 @@
+@batchout Macs use command+down arrow to launch/open selected. Unlike Windows, you can apply that to multiple selected items. 

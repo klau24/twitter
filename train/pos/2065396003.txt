@@ -1,0 +1,1 @@
+Just setup Suunto t6 software on my mac (virtualized). It works after all! Now I can see detailed exercise data and graphs 

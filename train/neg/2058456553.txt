@@ -1,0 +1,1 @@
+After changing password, how long does it take for Tweetdeck to use my new password? locks me out with old one, doesn't accept new one 

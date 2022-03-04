@@ -1,0 +1,1 @@
+is now trying gparted to shrink his ext Hd as W7 wouldn't allow me to shrink more than 2058MB! 

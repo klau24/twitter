@@ -1,0 +1,1 @@
+Finally got rid of the Smart Board tools automatic launch on login on my Mac Leopard. 

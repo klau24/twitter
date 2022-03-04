@@ -1,0 +1,1 @@
+my wampserver works weird.. downloading xampp .. if that doesn't help will need to install PHP, mysql and apache 

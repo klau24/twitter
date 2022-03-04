@@ -1,0 +1,1 @@
+@thelongmile I'm afraid you need to jump into the &lt;div&gt; world and fix it. margin -120px is quite scary 

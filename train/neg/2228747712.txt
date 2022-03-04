@@ -1,0 +1,1 @@
+Palm's Open Source website went live today; but, their WebCore patches are incomplete (missing new files... they need to add -N to diff). 

@@ -1,0 +1,1 @@
+@pauldcamara I beat the boss by performing a scalable concurrent troll smash. parallelized attacks with O(1) average cost per operation 

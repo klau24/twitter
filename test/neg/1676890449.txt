@@ -1,0 +1,1 @@
+#tweetdeck and #twitterfon dont  seem to render newlines  works in #twitterrific

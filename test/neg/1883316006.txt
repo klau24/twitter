@@ -1,0 +1,1 @@
+@robertbasic: &quot;if you hover a music file in File Browser on #ubuntu, it'll automatically play the song. that's awsm&quot;. doesn't work 4 me 

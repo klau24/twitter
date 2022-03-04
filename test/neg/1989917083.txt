@@ -1,0 +1,1 @@
+@eechuan is there any way to set the save as type as default *.msg??? 

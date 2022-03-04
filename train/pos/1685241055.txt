@@ -1,0 +1,1 @@
+Got the wifi network interference w/ phones fixed by switching the network to a different channel. Thx to those who gave advice on this. 

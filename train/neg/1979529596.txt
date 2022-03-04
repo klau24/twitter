@@ -1,0 +1,1 @@
+WTF Apple: don't change the behaviour of layer backed views in minor point releases! drawRect is no longer called when wantsLayer == YES 

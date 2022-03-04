@@ -1,0 +1,1 @@
+Been trying to work out some GTA SA memory addresses. For some reason they keep changing on me. Just trying to get a text call is all. 

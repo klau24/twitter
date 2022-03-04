@@ -1,0 +1,1 @@
+@bing I live in Singapore... typing bing.com redirects to m.live.com rather than m.bing.com 

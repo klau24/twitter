@@ -1,0 +1,1 @@
+Cabal doesn't allow conditional blocks containing an exe, that means it isn't remotely suitable for building test cases 

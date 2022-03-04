@@ -1,0 +1,1 @@
+making portable code (gcc, cygwin and VC) is near impossible mission when intensivelly using macros ! macro management in VC is very poor 

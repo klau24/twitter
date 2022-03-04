@@ -1,0 +1,1 @@
+I restored to a fresh 3.0 and now when I try a pwned ipsw I get error 1600 when in DFU and 1604 when in Restore mode 

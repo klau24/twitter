@@ -1,0 +1,1 @@
+@sconsult Yeah, the lesson I learned was: don't try that with tinyurl instead of bit.ly. 

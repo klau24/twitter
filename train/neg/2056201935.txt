@@ -1,0 +1,1 @@
+@albertart WoW doesn't work with tablets/Wiimotes anymore  the camera interprets the coordinates really badly, and everything spins.

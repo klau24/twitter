@@ -1,0 +1,1 @@
+yep, looks like another day of reverse engineering #:nodoc: classes. thanks rails core 

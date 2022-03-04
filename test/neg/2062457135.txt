@@ -1,0 +1,1 @@
+My API only went down to 94/100 with 7 clients open. 

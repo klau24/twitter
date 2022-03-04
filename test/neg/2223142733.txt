@@ -1,0 +1,1 @@
+Has now discovered that SSI can't include a Query String - Needs to find another way for my code idea to work 

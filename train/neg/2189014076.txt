@@ -1,0 +1,1 @@
+I found SMS notification feature was opened in NZ. But also I found 2 byte characters were completely disappeared. I'm disappointed 

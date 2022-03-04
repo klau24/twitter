@@ -1,0 +1,1 @@
+Anyone got any hints for migrating IMAP mail from Dreamhost to Gmail? Sadly can't use http://bit.ly/G9Ink as mailutil isn't on my DH box 

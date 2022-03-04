@@ -1,0 +1,1 @@
+It's sad but true that logging on with a domain admin account gives you *far* too much power over other unrelated machines 

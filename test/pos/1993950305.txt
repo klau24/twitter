@@ -1,0 +1,1 @@
+$ perf record pahole ../build/perf/vmlinux &gt; /dev/null Lets try using the perf tools on something other than the perf tools 

@@ -1,0 +1,1 @@
+@timknip apparently the debug player implements System.gc() so you can do it for testing, but even there still takes time to kick off 

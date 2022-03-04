@@ -1,0 +1,1 @@
+@chrisntr Overall I dig the way they've structured the app. That tasks page energy refresh bug is a really easy fix 

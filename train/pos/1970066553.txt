@@ -1,0 +1,1 @@
+@NiccoloFavari I see� I thought you just have to plug it in to use LiveView. But apparently I was mistaken 

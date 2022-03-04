@@ -1,0 +1,1 @@
+Argh. Third time I've lost an entire forum post on meetup.com via combination of ajax + a failure to set a stupid session cookie  #fail

@@ -1,0 +1,1 @@
+5 accounts, 1s interface loading, 5s loading time for all messages, 32 RAM.  I'm officially impressed 

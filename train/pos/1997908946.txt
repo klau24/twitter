@@ -1,0 +1,1 @@
+@jcrespi happy that PeopleBrowsr is working fine in FF. IE not really supported yet. Thanks for your feedback 

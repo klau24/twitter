@@ -1,0 +1,1 @@
+@wybew re: OOCSS I often recogn. 'loose objects'. But I wonder: Is the Cascade a feature or a bug in your approach? I ? 'Cascade' in CSS 

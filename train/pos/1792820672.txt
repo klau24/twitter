@@ -1,0 +1,1 @@
+@geteasypeasy probably you know already,but on spanish language on easypeasy 1.1, &quot;network&quot; is mistranslated, should be &quot;Red&quot;, not &quot;Rojo&quot; 

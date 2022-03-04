@@ -1,0 +1,1 @@
+Working on a new project... http://dev.vzerohost.com/ - It outputs the name and extension. 

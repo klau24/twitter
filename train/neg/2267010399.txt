@@ -1,0 +1,1 @@
+My WordPress upgrade to v2.8 has broken my ability to upload new posts using Windows Live Writer.  

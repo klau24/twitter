@@ -1,0 +1,1 @@
+The Linux ATI Catalyst™ driver will only be supported in Linux distributions prior to February 2009 for the legacy products listed above. 

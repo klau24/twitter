@@ -1,0 +1,1 @@
+Solution to SQL problem found thanks to @Chibu. Apparently it wasn't even hard, I was just thinking about it wrong. 

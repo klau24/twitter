@@ -1,0 +1,1 @@
+The Helm MODx auto installer is pretty neat, couple of issues but should be able to release it for customers this weekend 

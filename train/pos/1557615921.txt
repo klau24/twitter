@@ -1,0 +1,1 @@
+I've been working on only #iPhone simulator, but last night I got development signing cert, registered my device &amp; setup provisioning 

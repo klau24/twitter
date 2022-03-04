@@ -1,0 +1,1 @@
+@singpolyma You should use a real XMPP service. 

@@ -1,0 +1,1 @@
+Listening to @stilkov do a talk at #jax09 on RESTful Web Services with Rails.  Nice to see a Rails track at a mostly Java conference 

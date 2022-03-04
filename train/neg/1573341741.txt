@@ -1,0 +1,1 @@
+Damn, it upsets me when I find rendering issues in Safari, I always assume it's spot on. Random overflow redraw issue 

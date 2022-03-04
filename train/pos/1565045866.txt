@@ -1,0 +1,1 @@
+@kkozmic NH is a terrible solution for the  reporting side of CQS  DAAB was better at v2 than it is now, but we will write it anyway

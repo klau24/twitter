@@ -1,0 +1,1 @@
+Upgraded my eeepc to Ubuntu 9.04. I had some WPA issues, but I have found a work-around. Other than the WPA issue, the upgrade is good 

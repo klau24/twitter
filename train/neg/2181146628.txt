@@ -1,0 +1,1 @@
+@sherhof Weird. I just updated and I can't get the new version to minimize to the tray - only the taskbar   I must be missing something

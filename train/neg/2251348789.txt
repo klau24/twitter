@@ -1,0 +1,1 @@
+Discovered that SharePoint treats 64 bit versions of IE7 and 8 as Level 2 browsers - i.e. with very limited admin support 

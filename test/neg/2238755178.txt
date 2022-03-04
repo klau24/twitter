@@ -1,0 +1,1 @@
+@crystalreports Still cannot create an instance of my report in VS. Created Virtual Directory for Viewer and googled a lot  Any clues?

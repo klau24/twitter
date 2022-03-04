@@ -1,0 +1,1 @@
+@senfo For some definition of bad.  You can do a backend for CF in a Java/C style CFScript.

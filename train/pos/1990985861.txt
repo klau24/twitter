@@ -1,0 +1,1 @@
+@CocaCola hey Adam, a responsive approach is much more important than design  the trick is to make a 'scalable design' for diff monitors

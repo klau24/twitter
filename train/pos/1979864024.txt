@@ -1,0 +1,1 @@
+the tinyurl api is by far the most straight-forward api that I have ever seen. but why don't they even mention it on their website? 

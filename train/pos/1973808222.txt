@@ -1,0 +1,1 @@
+@r3v re: twitter regex filters, do you know of any that are currently working on this or have implemented it? Looking to start a project. 

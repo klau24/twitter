@@ -1,0 +1,1 @@
+Playing with a DLink DWA-130 USB WiFi adapter on my MacPro. Works, but drivers panic at shutdown. 

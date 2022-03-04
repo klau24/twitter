@@ -1,0 +1,1 @@
+just configured PAM and Gateway module for badge reader, door lock, REX and door sensors. Starting the Video Surveillance integration 

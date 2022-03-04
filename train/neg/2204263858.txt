@@ -1,0 +1,1 @@
+my #openfire server is playing up.  cant seem to change the Java runtime environment from 64MB to 128MB as java doesnt work from the CP 

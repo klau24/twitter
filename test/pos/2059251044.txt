@@ -1,0 +1,1 @@
+Domain Controller successfully setup, Windows 7 Ultimate 64-bit client connected 

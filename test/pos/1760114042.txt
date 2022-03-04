@@ -1,0 +1,1 @@
+@xdahlia sometimes it takes a few minutes to load. it sorta have to propagate through twitter database before it loads to your background 

@@ -1,0 +1,1 @@
+upgrading to wordpress 2.8 has been disastrous...and i don't know if i can fix it 

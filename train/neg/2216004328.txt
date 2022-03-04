@@ -1,0 +1,1 @@
+Looks like the issue is with the way Mobile Safari now handles captive portals. Will test tomorrow. WiFinder no longer works either 

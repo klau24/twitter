@@ -1,0 +1,1 @@
+argh, not again! pywebsvcs declares self.from in generated python code. Given that from is reserved in python 2.6, this means...patching 

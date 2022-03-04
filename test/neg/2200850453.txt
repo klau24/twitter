@@ -1,0 +1,1 @@
+Python Unicode support is A PAIN IN THE ASS! 

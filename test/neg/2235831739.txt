@@ -1,0 +1,1 @@
+#inaperfectworld I could sync my damn iphone on linux. Broke it trying to update through virtualbox 

@@ -1,0 +1,1 @@
+Something is wrong with Firefox.  It refused to start.  Just the error message saying it must shut down.   Uninstall/Reinstall

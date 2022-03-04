@@ -1,0 +1,1 @@
+@Dave_in_Fla Linksys by default sets up security with minumum WEP encryption and forces a change to SSID due to moronic end users. 

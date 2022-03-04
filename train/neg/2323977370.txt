@@ -1,0 +1,1 @@
+@fring New version for N97 doesn't like scrolling down the contacts with the keyboards D-pad 

@@ -1,0 +1,1 @@
+Woot!  Took a few tries to get it to boot properly but I have !archlinux x64 running off of LVM off of RAID on my new desktop  !linux

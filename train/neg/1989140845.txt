@@ -1,0 +1,1 @@
+damn it, seems it may be a problem with drupal, data type conversions and postgresql 8.3 

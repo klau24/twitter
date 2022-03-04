@@ -1,0 +1,1 @@
+@cehsnet Got the DLL interfaced and discovered it only does half the job.  The rest is supplied as source... in Visual Basic 

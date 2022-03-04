@@ -1,0 +1,1 @@
+@pezhore What kind of license are you releasing your PS script under? I'm curious to see what criteria you use to determine &quot;spamminess&quot; 

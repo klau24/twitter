@@ -1,0 +1,1 @@
+@tolmasky can you say me, how I init a two-dimensional Array in Objective-J? I fighting with this problem about 4 days.   var args[23][5]?

@@ -1,0 +1,1 @@
+@dmchapman mine's now at the bit where itunes can't connect to the itunes server for post-install stuff 

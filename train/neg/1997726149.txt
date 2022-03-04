@@ -1,0 +1,1 @@
+@elisaderickson thanks. not having much luck so far. mozilla's hello world does not seem to be working.  must be a silly mistake.

@@ -1,0 +1,1 @@
+http://www.feedparser.org/ i will write a feed parser for our website on my own 

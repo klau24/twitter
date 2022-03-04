@@ -1,0 +1,1 @@
+just spent the last hour trying to get EITHER spanningsync or mobileme to start working properly again. some things sync, others do not 

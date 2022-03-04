@@ -1,0 +1,1 @@
+@nickthedude well yeah it has a nice drag drop scene editor. but it's all controlled by c# the dev needs to write  learn c# man.  FTW

@@ -1,0 +1,1 @@
+Strange day so far... problems with a network load balancer, problems with checkout, and a big bug fix in checkout. and snow.. screw this 

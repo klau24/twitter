@@ -1,0 +1,1 @@
+@mozy @Wygie We've fixed a long-standing memory leak in our next release. It's so old, it pre-dates me at Mozy.  I think you'll like 1.4.

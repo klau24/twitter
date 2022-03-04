@@ -1,0 +1,1 @@
+@Audio_Rush First, back up it in Cpanel... then, go to your other Cpanel and go to the MYSQL database wizard... and follow intructions. 

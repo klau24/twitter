@@ -1,0 +1,1 @@
+@brandonaaron yup..writing an article now on encapsulation for beginners... i've got &quot;var self=this;&quot;preceded by &quot;in jQuery 1.3.3....&quot; 

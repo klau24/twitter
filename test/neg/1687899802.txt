@@ -1,0 +1,1 @@
+finally! sleep is working on the GA-EP45-DS3L hackintosh. it only works sometimes though 

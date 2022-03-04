@@ -1,0 +1,1 @@
+my tweeter is broken. i think my tweets are going out but nothings coming in. i guess it's my tweet receiver thats broken then. 

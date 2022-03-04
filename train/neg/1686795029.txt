@@ -1,0 +1,1 @@
+@9600baud @Tuxdiver thanks for the links! they're using an additional ULN2803/UDN2981A chip .. dont own those unfortunately 

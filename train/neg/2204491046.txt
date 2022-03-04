@@ -1,0 +1,1 @@
+@mychemicalrobot --while Sentinel has a normal symbol. I can't put logic into that. 

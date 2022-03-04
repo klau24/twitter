@@ -1,0 +1,1 @@
+#weather_me Helsingborg, rain, +13C, typical swedish midsummer weather 

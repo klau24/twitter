@@ -1,0 +1,1 @@
+Some esoteric driver conflict is causing Windows 7 RC to lock randomly on my Macbook Pro. Build 7000 worked fine. gg. Back to XP. 

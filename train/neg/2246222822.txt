@@ -1,0 +1,1 @@
+@3rdman http://blog.powerset.com/atom.xml that was the old url,  under the new site it's a different url, but that link has no redirect 

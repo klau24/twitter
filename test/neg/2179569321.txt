@@ -1,0 +1,1 @@
+@Twitterfox 1.8.1 &quot;upgrade&quot; was a serious downgrade, crippling retweet function 

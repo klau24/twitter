@@ -1,0 +1,1 @@
+@Bruton waiting for a gem to install on the ec2 server...next up is waiting for it to deploy 

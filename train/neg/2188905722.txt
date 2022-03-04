@@ -1,0 +1,1 @@
+Just found out Google gears was the bug making Firefox crash one me all the time. No solution found as far as I know.. 

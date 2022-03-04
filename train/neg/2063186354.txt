@@ -1,0 +1,1 @@
+@tomlazar: remove the possibility to vote anonymously and e-voting wil work, but some other critical problems may rise 

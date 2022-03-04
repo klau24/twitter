@@ -1,0 +1,1 @@
+arrggg my w3c/local xhtml/validator doesn't work anymore --- some perl module got effed by apple's osx upgrade? 

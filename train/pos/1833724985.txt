@@ -1,0 +1,1 @@
+@pixelpipe Currently pixelpipe does not support vowel mutations in german alphabet. Would be great if this can be fixed. Thanks 

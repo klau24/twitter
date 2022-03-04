@@ -1,0 +1,1 @@
+&quot;Expand to 64 bits, compatible with IPv4 (0.0.0.0.A.B.C.D), call it IPv5 and to hell with the whole IPv6 business&quot;: http://bit.ly/3aRjP  

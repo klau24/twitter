@@ -1,0 +1,1 @@
+@johnleach the new tyoc project is trying to do something useful extracting url's from twitter - setfire sam kicked that off yesterday 

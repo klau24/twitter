@@ -1,0 +1,1 @@
+My laptop goes dumb after resuming from suspend.  Trying to fix it. Anybody with similar prob on Ubuntu hardy?

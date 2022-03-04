@@ -1,0 +1,1 @@
+Aww crap, I just realised they're compile-time strings and don't ship with each version 

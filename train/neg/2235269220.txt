@@ -1,0 +1,1 @@
+@w_mingjie tweetdeck's  never been able to minimise to systray for me  they need to fix tht and add API for bit.ly url shrinking.

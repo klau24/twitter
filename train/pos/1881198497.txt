@@ -1,0 +1,1 @@
+Easy and rapid Firefox extensions development with Jetpack : https://jetpack.mozillalabs.com/ 

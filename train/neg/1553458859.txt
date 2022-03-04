@@ -1,0 +1,1 @@
+NetBeans updated and is now completely trashed. None of the default modules now load. Looking at complete reinstall 

@@ -1,0 +1,1 @@
+Ok! You can now click tweets with hyperlinks and it will open the browser  -- mac/windows only 

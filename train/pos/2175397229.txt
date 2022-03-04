@@ -1,0 +1,1 @@
+@assetize maybe it was intended? but clicking &quot;view all&quot; should only show the account type your currently browsing, not all mixed. thanks 

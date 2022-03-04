@@ -1,0 +1,1 @@
+@timwhitlock err you can turn on optimized js+css &amp; caching once we deploy the thing, but I hear what you're saying 

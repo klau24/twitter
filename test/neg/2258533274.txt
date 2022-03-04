@@ -1,0 +1,1 @@
+@omega2k1 well I just figured out my problem I didn't run it in vista compatible mode. 

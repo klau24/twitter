@@ -1,0 +1,1 @@
+Can't get Flash to work with FF3.5 on x64 Linux. Looks like only x32 builds available for testing so some plugins won't load 

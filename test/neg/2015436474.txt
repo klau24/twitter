@@ -1,0 +1,1 @@
+My installation of Visual Studio Team System 2010 doesn't like my Windows Worklfow project. It opens the project and crashes right away 

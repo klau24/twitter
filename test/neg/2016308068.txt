@@ -1,0 +1,1 @@
+@elijahmanor Why Entity Framework (ADO.net) don't work with Vista SP1 ? 

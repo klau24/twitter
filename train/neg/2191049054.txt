@@ -1,0 +1,1 @@
+argh, my Windows 7 SDK looks to be out of date and for the beta rather than the RC. Have to get a new one ( 1.2GB at 400KB/sec  )

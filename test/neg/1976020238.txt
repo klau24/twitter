@@ -1,0 +1,1 @@
+vs2010 seems to choke my machine. 1 web proj, 1 test proj open. It also forgets my font/colour settings 

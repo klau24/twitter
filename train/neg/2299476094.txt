@@ -1,0 +1,1 @@
+@theuser xrender is working but it's too slow for me 

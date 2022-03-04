@@ -1,0 +1,1 @@
+I'm starting to get to know C++ some more  I actually think it's pretty cool, but yet hard compared to ruby and python.

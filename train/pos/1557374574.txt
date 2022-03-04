@@ -1,0 +1,1 @@
+A Twitter Login Panel has been added to your NiHao People Profile page. At present it is inactive, but will be functioning soon 

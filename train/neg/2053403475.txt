@@ -1,0 +1,1 @@
+Humm it seems TwitterMail doesn't handle ShiftJIS. Crap 

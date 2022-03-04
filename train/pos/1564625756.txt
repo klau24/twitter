@@ -1,0 +1,1 @@
+@arcolz not being rude, but you can make that even shorter:  items = list[(len(list)-x:]  .. The second set by default goes to the end

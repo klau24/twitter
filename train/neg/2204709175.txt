@@ -1,0 +1,1 @@
+@bing siteowner custom search box fail... &quot;market&quot;:&quot;en-AU&quot; does nothing - it still targets US search   should be &quot;only from australia&quot;??

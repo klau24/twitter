@@ -1,0 +1,1 @@
+cupswrapper and lpr found. Printer working proberly now. 

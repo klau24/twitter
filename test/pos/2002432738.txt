@@ -1,0 +1,1 @@
+Actually made progress somehow today. Got the app working with the two dbs, works in specs when I ripped out fixtures n put in machinist 

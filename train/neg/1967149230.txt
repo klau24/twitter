@@ -1,0 +1,1 @@
+Retrospect looks to have hit its limits, keeps running out of memory and irretrievably corrupting the backup. More memory hasn't helped. 

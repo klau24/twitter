@@ -1,0 +1,1 @@
+iTunes 8.2 released to the wild.  Lots of security fixes to stop PwnageTool et al from working 

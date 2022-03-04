@@ -1,0 +1,1 @@
+installing adobe reader - a website checks to see if it's installed, even though I can use FoxIt to read the pdf files themselves, bleh 

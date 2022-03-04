@@ -1,0 +1,1 @@
+@wildfiremg if u r referring to the rss feed i implemented, then no, it's not modular. maybe i'll get around to that. 

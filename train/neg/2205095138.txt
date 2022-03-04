@@ -1,0 +1,1 @@
+*sigh* JPEG Codec for Win7 and Vista is different, means accessing it in .NET 3.0 isn't as easy 

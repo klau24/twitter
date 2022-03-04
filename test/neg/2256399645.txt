@@ -1,0 +1,1 @@
+I wish there was a way to tell Outlook RSS not to grab updates older than 24 hours.. 

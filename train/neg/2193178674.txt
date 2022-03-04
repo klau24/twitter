@@ -1,0 +1,1 @@
+Gave up trying Empathy(2.16.1). It is a big #FAIL  Unable to connect to google even in 7 retries. Yahoo does work well though.

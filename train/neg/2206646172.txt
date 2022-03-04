@@ -1,0 +1,1 @@
+Gnome goes crazy after suspending and resuming the notebook  everything starts crashing  #gnome

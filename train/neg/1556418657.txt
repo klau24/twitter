@@ -1,0 +1,1 @@
+Whenever I start making something in PHP, I get bored in 2 or 3 days  I am so used to ASP.NET (That never gets me bored)

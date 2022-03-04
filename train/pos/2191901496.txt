@@ -1,0 +1,1 @@
+python looks like it's the sweet spot between C++ and Mathematica that I was looking for 

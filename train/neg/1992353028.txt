@@ -1,0 +1,1 @@
+@aalaap  from what i gathered, it worked for &gt;32GB drives! Anyway, my bad if it doesnt. Why did you format as FAT32 though?

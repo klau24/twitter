@@ -1,0 +1,1 @@
+Just discovered i was only using standard AI-Servo speed now it's set to fast and much quicker switching subjects 

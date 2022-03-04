@@ -1,0 +1,1 @@
+@sai_venkat re: non-testable: Adobe Air is a convenient thin UI for a fully testable API. Air is SO MUCH BETTER than, for instance, IE6. 

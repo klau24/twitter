@@ -1,0 +1,1 @@
+Anyone know how to install UniConverter http://is.gd/1cJSm into Inkscape? (OS X) This requires unix commands or... sumthin or other. 

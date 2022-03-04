@@ -1,0 +1,1 @@
+That gm script installed fx does not accept original key bind, for example C-k for focus search box. That's unuseful 

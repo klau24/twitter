@@ -1,0 +1,1 @@
+@SharonHayes  hold down the windows &amp; Pause Break keys, go to device manager &amp; look at network adaptors to see what wireless nic u have

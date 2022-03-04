@@ -1,0 +1,1 @@
+@benclement1978 Supposed to be 6meg but Mozy is running... the speed test shows 4 meg.  Guessing that's due to Mozy. 

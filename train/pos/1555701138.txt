@@ -1,0 +1,1 @@
+@karlisson http://aprendaaprogramar.rubyonrails.pro.br um tutorial show sobre Ruby 

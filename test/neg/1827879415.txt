@@ -1,0 +1,1 @@
+At Ladro starting a new project: Twitter client in Silverlight 3. Wanted to call it Twilight but there's a codeplex project called that 

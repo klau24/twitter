@@ -1,0 +1,1 @@
+Received a weird 401 error (aka could not authenticate you) when using @askseesmic on the new update. 

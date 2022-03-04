@@ -1,0 +1,1 @@
+@urubatan looks like the only non-Windows package that does speech recognition is the IBM one (which does not support linux anymore!) 

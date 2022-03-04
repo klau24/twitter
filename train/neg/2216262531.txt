@@ -1,0 +1,1 @@
+Unfortunately installing an operating system in a virtual machine does not count as studying for my operating systems exam 

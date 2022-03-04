@@ -1,0 +1,1 @@
+@HalSparks only the 3Gs has a compass. And I'm guessing you don't have it since 3.0 is preinstalled. Sorry Hal. 

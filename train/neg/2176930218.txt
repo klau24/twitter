@@ -1,0 +1,1 @@
+@mesh Is there really no way to disable to embed mutex in AIR applications (other than to hack the binary) ? 

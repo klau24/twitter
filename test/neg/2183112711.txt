@@ -1,0 +1,1 @@
+@esnoeijs Well, I have been seeing quite a bit of PHP4 code lately. Some things just won't die 

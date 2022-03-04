@@ -1,0 +1,1 @@
+@matt @samstarling, just an update on the #wavefinder experiments, sadly it seems to have some dodgy internals, picks up nothing 

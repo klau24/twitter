@@ -1,0 +1,1 @@
+Awww.  I can read i386 assembly (and write it) but I'm having trouble reading machine generated amd64 assembly 

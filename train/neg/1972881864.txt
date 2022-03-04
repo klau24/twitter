@@ -1,0 +1,1 @@
+@xxloverxx vast majority of speed issues I see nowadays seem to be RAM-related. *everything* wants to use gigs of it 

@@ -1,0 +1,1 @@
+It seems on my Eee 1000HE w/Azurewave wifi, newest drivers/BIOS/sw, enabling the wifi adapter causes persistent audio glitches 

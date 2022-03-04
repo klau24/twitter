@@ -1,0 +1,1 @@
+Discovered cobogw library for gwt yesterday. It almost makes gwt sane  http://tinyurl.com/cbu6wm

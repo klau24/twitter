@@ -1,0 +1,1 @@
+nerd-news: great...no Edit &amp; Continue for .NET Compact Framwork projects  #visualstudio

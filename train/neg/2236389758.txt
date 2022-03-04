@@ -1,0 +1,1 @@
+@Plip can you still only have one active sync provider in 3.0? I want my work email synced, but my Google calendar and it doesn't let me 

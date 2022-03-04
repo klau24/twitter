@@ -1,0 +1,1 @@
+Ecstatic as I've just solved my 32/64 bit problem and can run everything I need on my beloved Mac 

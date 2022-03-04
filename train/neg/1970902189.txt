@@ -1,0 +1,1 @@
+COMMENT THY CODE! looking over some microcontroller code i wrote 2 years ago and i haven't got the slightest idea what it does 

@@ -1,0 +1,1 @@
+@twitter in settings give users a txt input to paste pageviews code; cause like blogging sites let users have stats, microblogging shud 2 

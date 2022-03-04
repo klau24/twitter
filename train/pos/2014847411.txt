@@ -1,0 +1,1 @@
+With the DisplayFusion's update to v3.0.6 the multi-monitor taskbar is looking a lot better in Windows 7. 

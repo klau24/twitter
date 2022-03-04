@@ -1,0 +1,1 @@
+I found several python libraries for scripting the #nabaztag... AFTER we wrote ours of course! 

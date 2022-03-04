@@ -1,0 +1,1 @@
+@jithesh_e_j: ps: just always use &quot;#!/bin/bash&quot; in head &amp; you're good to go!  should b fine all POSIX sys i think.

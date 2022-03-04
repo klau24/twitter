@@ -1,0 +1,1 @@
+got it to work with a little help from my friend jquery 

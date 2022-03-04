@@ -1,0 +1,1 @@
+puts &quot;calling FCC&quot; on tomorrow's to-do list.  Apparently my HDTV now is just a glorified computer monitor. 

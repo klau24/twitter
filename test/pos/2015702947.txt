@@ -1,0 +1,1 @@
+after a very quick first look, Opera seems to be way above par in terms of rendering speed, this is nice 

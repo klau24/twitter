@@ -1,0 +1,1 @@
+@tottinge The fact that there is now a widget API allows for consolidation of the home screen clutter  There are some nice launcher apps

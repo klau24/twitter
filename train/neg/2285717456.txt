@@ -1,0 +1,1 @@
+Oops: the timeline in @smugmug filters all pics of a time period, but they are displayed randomly rather than chronologically. #fail .. 

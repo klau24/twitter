@@ -1,0 +1,1 @@
+@janole I'm getting a &quot;Network Error - 1&quot; &amp; on connecting it just says &quot;Connected&quot; not &quot;Connection established&quot; anymore?! No updates now! 

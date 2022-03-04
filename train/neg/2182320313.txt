@@ -1,0 +1,1 @@
+@sidavis Photoshop even has pixel size + aspect ratio stuff built in 

@@ -1,0 +1,1 @@
+php-5.2.10 = epic fail with dblib PDO driver  http://bugs.php.net/bug.php?id=48694 (via @nickynoodle)

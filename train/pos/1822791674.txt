@@ -1,0 +1,1 @@
+@FinalBeyond It would appear so, but I'm not so fond of tracking down BIOS .bin files to get games to run. Genesis Plus works out the box 

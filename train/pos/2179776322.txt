@@ -1,0 +1,1 @@
+Is there anything that doesn't exist in jQuery? I just found jquery.charcounter.js  #jquery rocks!

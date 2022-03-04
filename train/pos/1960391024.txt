@@ -1,0 +1,1 @@
+@AlexBrand linux was allready ported, so there is a bootloader  prolly only need drivers for iphome. I actually hope ggl will initiate it

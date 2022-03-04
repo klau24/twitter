@@ -1,0 +1,1 @@
+Learning WPF is a real test of strength. And I find MSDN guidance a bit lacking 

@@ -1,0 +1,1 @@
+Downgraded to 4.7.0.75 and it recognized the update online and OTA immediately. Hybrid OS made it appear to be on A BES.....which is BS 

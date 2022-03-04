@@ -1,0 +1,1 @@
+@voidspace ah. Trying to use XMPP.py and it wants to use pyXML which apparently IP doesn't support? 

@@ -1,0 +1,1 @@
+@tomlazar Phew, that's hardcore. Err, I mean I haven't thought of using buildout for building Python. Will try it out though 

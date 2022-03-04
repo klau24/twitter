@@ -1,0 +1,1 @@
+@dhruba_b You could use (now moved to the sandbox) INT-264. Or vote for syntactic sugar for JMS (INT-592). Or DIY obviously 

@@ -1,0 +1,1 @@
+@audaxpowder thanks... turns out it wasnt the javascript.... it was one freaking css descriptor that was bugging out IE6 and IE7  lol

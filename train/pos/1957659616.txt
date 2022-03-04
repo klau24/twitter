@@ -1,0 +1,1 @@
+@peterwooley Good! I was shaken by the thought of having to anti-alias in subpixel RGB 

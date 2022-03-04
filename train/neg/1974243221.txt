@@ -1,0 +1,1 @@
+My G1 just upgraded to Android Cupcake. Good - A2DP profile support (streaming stereo Bluetooth). Bad - my Google Talk client disappeared 

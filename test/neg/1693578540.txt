@@ -1,0 +1,1 @@
+@waferbaby try the heroku address. Damned old DNS value is cached... will be fixed in 24 hours 

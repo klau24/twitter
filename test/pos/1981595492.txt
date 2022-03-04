@@ -1,0 +1,1 @@
+Only after I said WP doesn't support Twitter application, I found it's in the widgets.  Now I added it in my blog. 

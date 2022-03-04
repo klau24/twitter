@@ -1,0 +1,1 @@
+Running some low level memory tests using memtest. It's not looking pretty...faulty ram 

@@ -1,0 +1,1 @@
+Gmail consistently throws &quot;an unknown error&quot; when I import VCF files from LinkedIn. The import actually works, but the error is annoying 

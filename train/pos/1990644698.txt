@@ -1,0 +1,1 @@
+Bing might use Google search in backend and show as Bing search 

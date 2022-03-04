@@ -1,0 +1,1 @@
+Best forecasting model--Weighted Moving Avg. Exponential smoothing looks too much like Naive. It's bothering me. The alphas are too close 

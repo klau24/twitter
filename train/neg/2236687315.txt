@@ -1,0 +1,1 @@
+Có soft dns server nào trên MAC nhỉ. �?ang cần tạo mấy record dạng *.domain, ở công ty thì OK còn ở nhà thì 

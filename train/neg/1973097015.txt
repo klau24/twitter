@@ -1,0 +1,1 @@
+@joecrm CRM 3.0 Small Business Edition (for SBS) could send and receive (promote) faxes out of the box. I was sorry tosee it go 

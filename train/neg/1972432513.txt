@@ -1,0 +1,1 @@
+@twibble Sadly the new version always crashes when loading the images. I've commented on your blog post with the exact error 

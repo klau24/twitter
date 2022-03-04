@@ -1,0 +1,1 @@
+@simonech Can connect to MS OCS with Adium. SIP doesn't support TLS. Can't use Mail.app - no IMAP etc only Exchange/MAPI 

@@ -1,0 +1,1 @@
+@slruffell So I think I've borked the HDD connector or the motherboard.  Bloody thing works OK when booted from external disk  blub blub

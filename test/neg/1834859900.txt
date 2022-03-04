@@ -1,0 +1,1 @@
+Weird, seems my Win7 machine is letting me connect to my external SQL Server host tonight. Still Cassini isn't working. 

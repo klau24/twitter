@@ -1,0 +1,1 @@
+Panic mode - not passing the pre-test like I should be! I took it one step at a time &amp; when that didn't work, I crammed. Still not good! 

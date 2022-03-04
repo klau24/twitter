@@ -1,0 +1,1 @@
+@chrischeatham Right now, they don't consider green features in the value. A 2000 sq ft home with or without green are the same value. 

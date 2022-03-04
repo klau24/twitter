@@ -1,0 +1,1 @@
+@ladrupal Hm. I will see if I can make that work, cos it would be really fun. August == last 31 days before Drupal 7 code freeze, though. 

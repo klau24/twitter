@@ -1,0 +1,1 @@
+@code_ i wish i could port that to Rails admin, some kind of that 

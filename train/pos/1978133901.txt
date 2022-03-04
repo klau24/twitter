@@ -1,0 +1,1 @@
+My TweetDeck color scheme  -  BG1: 0000FF  BG2: FFFF00  INPUT: 00FF00  TXT1: FF0000  TXT2: 0000FF 

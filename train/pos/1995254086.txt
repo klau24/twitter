@@ -1,0 +1,1 @@
+does any one know how to do this?  g(x) = 3x -1 e (f o g)(x) = 9x - 2 , how much is f(-1/3). 

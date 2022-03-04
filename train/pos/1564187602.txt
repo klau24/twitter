@@ -1,0 +1,1 @@
+@rickerbh   the mirror can read rfid tags and can relate tags to actions on the web like send an email or tweet n stuff 

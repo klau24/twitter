@@ -1,0 +1,1 @@
+I'm trying to figure out how i can get Vista to work with my XP hardware using Virtual PC.  No luck so far and not having very much fun 

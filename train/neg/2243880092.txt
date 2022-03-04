@@ -1,0 +1,1 @@
+Can't code #html with #bespin in #Firefox35 as every time I try to close a tag #Firefox35 it sets focus on the quick find feature.  

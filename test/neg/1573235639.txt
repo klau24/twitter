@@ -1,0 +1,1 @@
+Warning to twhirl users.  Don't hit Ctrl-X. It clears your stream/history in twirhl. 

@@ -1,0 +1,1 @@
+now I need more cores.  - would it be wrong to distribute perl over networked 'compute' nodes?

@@ -1,0 +1,1 @@
+Got gnome-core installed, so does AIR. Tried Spaz but couldn't get it to work. Tried twhirl instead - happily tweeting from Xubuntu now 

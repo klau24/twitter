@@ -1,0 +1,1 @@
+How did I miss this? http://cli.gs/LJLDp8 Dev channel: --auto-spell-correct flag will fix common typos like &quot;teh&quot; for &quot;the&quot; 

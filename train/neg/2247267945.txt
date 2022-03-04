@@ -1,0 +1,1 @@
+The sound system on Linux is a big mess, and it won't get better soon 

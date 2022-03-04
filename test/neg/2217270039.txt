@@ -1,0 +1,1 @@
+Installed 4 different video drivers tonight trying to get Source engine games to work, even tried lowering dxlevel to 70 

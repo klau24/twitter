@@ -1,0 +1,1 @@
+@conorp em, how'd ya mean?  - Plesk vps? did you check the box beside www in Domains &gt; Domain.com &gt; domain administrator ?

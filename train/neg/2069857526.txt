@@ -1,0 +1,1 @@
+@beckilicious_ My bank must just suck. Their QIF exports don't work in any program I've tried and KMyMoney doesn't take .csv files 

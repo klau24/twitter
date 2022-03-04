@@ -1,0 +1,1 @@
+@TweetDeck Also automatic URL shortening (in the tweet box, w/o using the URL box) would be a nice feature 

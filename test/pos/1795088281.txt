@@ -1,0 +1,1 @@
+@Nullthreat Ruby is perfect for that kind of stuff.  Check out the Ruby Cookbook.  @Carlos_Perez suggested it and it's good for examples. 

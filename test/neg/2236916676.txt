@@ -1,0 +1,1 @@
+@cwalsh You can't get to the private ICS URLs in Google Calendar through the m.google.com UI 

@@ -1,0 +1,1 @@
+@kirkrarner It's official. We need to make a website and write our own API that rivals friendfeed but with tighter control. 

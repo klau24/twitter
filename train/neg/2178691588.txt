@@ -1,0 +1,1 @@
+PHP doesn't allow low-level manipulation of raw post data, which is somewhat remiss of them. Makes upload progress bars difficult 

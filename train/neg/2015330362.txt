@@ -1,0 +1,1 @@
+@relativesanity a default 'rails myapp' over ssh works fine, so problem is likely mine but not got any useful debug info 

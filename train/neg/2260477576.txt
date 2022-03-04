@@ -1,0 +1,1 @@
+So much for ubuntu on my laptop. Do an update and now it does not boot the gui only command line works no idea what exactly broke 

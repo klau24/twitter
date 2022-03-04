@@ -1,0 +1,1 @@
+[DELETE FROM mb WHERE id&gt;120&amp;&amp;id&lt;140] is NOT the same as [DELETE FROM mb WHERE id&gt;120&amp;id&lt;140]. former deletes 20 entries. the latter? 140 

@@ -1,0 +1,1 @@
+D'oh - just realised my EQ has been running at +4dB when it can only take -10dB - Wondered why the peak light kept on randomly flashing 

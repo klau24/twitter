@@ -1,0 +1,1 @@
+Peeved, because #Dynamics #AX keeps issuing GDI+ errors without warning when access thru terminal services, and I don't know why. 

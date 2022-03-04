@@ -1,0 +1,1 @@
+RHEL5 ImageMagick still below 6.3  which means RMagick 1.15.17. Unless I want to hand roll ImageMagick, not hard but gets messy later on.

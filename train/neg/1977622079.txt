@@ -1,0 +1,1 @@
+@tgadget When I type &quot;@&quot; a dropdown appears that narrows down a list of friends as I type out a username. Not all of my friends are there 

@@ -1,0 +1,1 @@
+is sad that it's complicated to use property placeholders in Java DSL defined #camel routes.   will use #spring XML instead

@@ -1,0 +1,1 @@
+twitterrific 2.0.2 has resolved my API error. Whoop. Normal service can now resume! Thank you 

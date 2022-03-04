@@ -1,0 +1,1 @@
+@leifwickland proxying? Hmm ... on top of the initial DNS lookup + connection, some ad networks then redirect to another domain 

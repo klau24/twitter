@@ -1,0 +1,1 @@
+@woganmay twitter == substr(blogging,0,140) ? 

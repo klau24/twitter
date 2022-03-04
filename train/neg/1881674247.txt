@@ -1,0 +1,1 @@
+Looking at Final Builder for Continuous Integration. Cruise Control is just too time consuming and finnicky to set up. More cost  #fb

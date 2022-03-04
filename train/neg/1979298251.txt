@@ -1,0 +1,1 @@
+Seems theres no UpdateSubscriber() in #interspire email marketer API so had to write my own http://bit.ly/3eYlPQ. missing all the sun tho 

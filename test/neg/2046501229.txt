@@ -1,0 +1,1 @@
+Thinking sphinx here I come, anyway. The main acts_as_solr rails plugin is buggy anyway. It corrupts date searches - I had to patch that 

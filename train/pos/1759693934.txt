@@ -1,0 +1,1 @@
+@BillHarper I moved to using http://wampserver.com from XAMPP. Can't remember the reasons, but they were valid  &lt;/ geekout&gt;

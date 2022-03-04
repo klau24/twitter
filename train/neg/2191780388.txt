@@ -1,0 +1,1 @@
+Why is it that i try to adapt new stuff from Microsoft only to be disappointed? I try to use Bing inside Visual Studio only to get errors 

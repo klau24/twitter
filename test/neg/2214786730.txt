@@ -1,0 +1,1 @@
+@SecBarbie it can also be easily defeated by moving the keychain (can be done with ramdisk). But you can get raw disk even easier. 

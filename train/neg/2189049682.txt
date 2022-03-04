@@ -1,0 +1,1 @@
+@cincodenada diskpie shows your drive as a pie chart with each slice a directory, bigger slice=more data, not free though 

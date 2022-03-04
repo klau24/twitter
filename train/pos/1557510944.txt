@@ -1,0 +1,1 @@
+need help with GAE. How am I supposed to return the result of the Model.to_xml() method ? Do I need to convert it to a string ? Thx 

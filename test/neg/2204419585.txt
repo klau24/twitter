@@ -1,0 +1,1 @@
+Yahoo Pipes is not playing nice with Twitter RSS feeds today. Getting &quot;400 Bad Request&quot; errors Don't know why. 

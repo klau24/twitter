@@ -1,0 +1,1 @@
+is trying to fix Javascript errors caused by a Script he has no control over 

@@ -1,0 +1,1 @@
+After a weekend of using vimperator for firefox, I can say it's nice to work with. too bad it fucks with existing firefox settings 

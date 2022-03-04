@@ -1,0 +1,1 @@
+Amazon Unbox really needs away to retroactively remove permission from installs that aren't installed any more 

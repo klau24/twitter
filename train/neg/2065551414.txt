@@ -1,0 +1,1 @@
+Something terrible has happened to my comments area, the lightbox test page keeps showing instead of the comments 

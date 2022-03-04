@@ -1,0 +1,1 @@
+Tweetdeck for iPhone crashes a LOT, current state:shows only old tweets for some grps, won't open tweets. 

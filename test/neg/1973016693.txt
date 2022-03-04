@@ -1,0 +1,1 @@
+Just discovered Tweetie. Looks great but doesn't integrate with Growl like Nambu does 

@@ -1,0 +1,1 @@
+it seems that fink (which I am new too) does not have a package on osx 10.5 for openvrml nor mozilla dev as per suggestion in AT toolkit 

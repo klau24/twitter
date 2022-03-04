@@ -1,0 +1,1 @@
+fixing a CSS to make a page look alike a specification is not as simple as i expected 

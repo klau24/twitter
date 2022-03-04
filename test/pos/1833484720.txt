@@ -1,0 +1,1 @@
+@poelzi I was just going to say I'll look into django, I'm not scared of raw sql 

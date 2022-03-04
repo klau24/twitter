@@ -1,0 +1,1 @@
+has figured out to send group SMS wihout turn MMS setting off first, but somehow feel internet speed becomes very slow 

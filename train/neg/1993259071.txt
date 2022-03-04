@@ -1,0 +1,1 @@
+@KyleBuzzard Evidently, if you let the battery run low, it turns off all communication. Charging doesn't fix this: rebooting does 

@@ -1,0 +1,1 @@
+@bungieboy They are spec'd up to 200Mb/s, but as the LAN Ports on my current router are only 10/100 I won't be seeing those speeds 

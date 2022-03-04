@@ -1,0 +1,1 @@
+Got Easter well-wishes by SMS in jQuery format. I know I have great friends! (that don't validate the existence of a DOM object  )

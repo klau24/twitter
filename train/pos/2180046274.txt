@@ -1,0 +1,1 @@
+@jonobarel I know Ruby even less than I do PHP.  Won't Rails be overkill? It's not as if it needs any more logic than it has now, just CSS

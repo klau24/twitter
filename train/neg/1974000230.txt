@@ -1,0 +1,1 @@
+Oh @mosso why is your ftp so so so slow.. takes 10 seconds just to authenticate and then file transfers timeout 

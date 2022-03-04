@@ -1,0 +1,1 @@
+I try them on 3 different computers but still the same :S they neither NTFS nor FAT32 so they must format 

@@ -1,0 +1,1 @@
+@RickStrahl Doesn't work with Safari 4 either 

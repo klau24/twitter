@@ -1,0 +1,1 @@
+Firefox slowed down after upgrading twitterfox plugin. 

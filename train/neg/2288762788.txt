@@ -1,0 +1,1 @@
+I did not delve into this topic yet, but I see problem where on OSX I project Fink does not use OSX Frameworks to compile Python modules. 

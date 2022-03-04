@@ -1,0 +1,1 @@
+@thoffman Yeah -- my frustrations are solely from a developer standpoint, and it *has* to work in IE.  Got it fixed, though. 

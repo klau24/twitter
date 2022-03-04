@@ -1,0 +1,1 @@
+@wsampaio thnx, man. Using IntelliJ too? Apparently it was detected w no problems but I nvr used an IDE that calls my metadata by facets. 

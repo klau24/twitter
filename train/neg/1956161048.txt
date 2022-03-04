@@ -1,0 +1,1 @@
+Wish some one can help me with creating address locator on oracle spatial. 

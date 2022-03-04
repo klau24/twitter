@@ -1,0 +1,1 @@
+@genjones32 Ah I see, I hate using externals simply because it makes stuff so slow and clumsy, plus you can't use it with in-game music.. 

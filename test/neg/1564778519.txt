@@ -1,0 +1,1 @@
+@gcn1 No, I haven't. Running v.1.1.7, which was last stable version; hope they'll improve it further. Know v.1.1.12 still crashes  #nambu

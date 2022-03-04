@@ -1,0 +1,1 @@
+A2DP seems to work very nicely on the 3GS but control (AVRCP) isn't there yet. Can't skip tracks fwd/back without using phone controls 

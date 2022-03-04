@@ -1,0 +1,1 @@
+#nambu still has scrolling issues  #bug

@@ -1,0 +1,1 @@
+its not helping that 25% of the cycles in this ec2 are being stolen. I guess we pay for those stolen ticks. 

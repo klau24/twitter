@@ -1,0 +1,1 @@
+digitizing music via audiograbber obviously doesn't work well with MS Word. Wonder which software is at fault there 

@@ -1,0 +1,1 @@
+@rvn text MILLION &lt;space&gt; &lt;name&gt; send to 2910 

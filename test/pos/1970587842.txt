@@ -1,0 +1,1 @@
+Chef-solo is amazing - it lowers the barriers to get into server configuration management immensely. Chef + EC2 = lots of fun 

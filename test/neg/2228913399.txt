@@ -1,0 +1,1 @@
+The WinterBoard you'll see in Cydia on 3.0 works. Expect some bugs, however, as the delay on that kernel patch set back testing.  @madcowz

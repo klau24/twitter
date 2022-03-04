@@ -1,0 +1,1 @@
+I hate that I can't bookmark a package tracking page on the Canada Post website. It doesn't store the package # in the URL.   fail.

@@ -1,0 +1,1 @@
+writing my first @macruby app.  Very excited that most future programming for macs can be in ruby.  

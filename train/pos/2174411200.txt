@@ -1,0 +1,1 @@
+Shameless self promotion: http://bit.ly/P0cLb Speaking at a local group about bringing unit testing to an established code base. Do come! 

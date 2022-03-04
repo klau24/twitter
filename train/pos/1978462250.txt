@@ -1,0 +1,1 @@
+recently discovered that hitting Escape resets the #Firefox location bar to the current URL &amp; favicon, no matter whar you've done to it. 

@@ -1,0 +1,1 @@
+wasting my dev time having to learn to putz with freakin JAR FILES. Why can't my Eclipse IDE just do what it told me it was doing? 

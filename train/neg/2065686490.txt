@@ -1,0 +1,1 @@
+@kumpera can't find a way to organize music based on genres in Banshee, it's always using artists and albums 

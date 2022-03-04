@@ -1,0 +1,1 @@
+oookay, installation is done, no errors. but it doesn't work. nvidia and glx modules are not found 

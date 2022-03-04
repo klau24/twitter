@@ -1,0 +1,1 @@
+gd2 isn't installed in Mac OS X's PHP5 by default  Not to worry! http://bit.ly/qZk6v

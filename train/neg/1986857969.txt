@@ -1,0 +1,1 @@
+@bperry No, Ryan Paul perpetuates the &quot;plugin prison&quot; line. Browser vendors could open up the prison! Instead, they encourage codec hell. 

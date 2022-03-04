@@ -1,0 +1,1 @@
+- Typing up a couple more tutorials on tweaking Wordpress code. Next post 2 come is how 2 tweak the form style of the Subscribe2 plugin. 

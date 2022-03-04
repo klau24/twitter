@@ -1,0 +1,1 @@
+@jmullan Since you didn't init $true that should evaluate to NULL or 0, no? So no coffee for us? 

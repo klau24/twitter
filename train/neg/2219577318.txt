@@ -1,0 +1,1 @@
+XPO, Have to bind to the object directly  no visual binding method if you want OnChanged to update your WinForms control of new value 

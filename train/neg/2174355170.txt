@@ -1,0 +1,1 @@
+@sKant black theme doesn't work for the latest beta release  

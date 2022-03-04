@@ -1,0 +1,1 @@
+Updated my clickable track info patch for latest Banshee git. Still needs i18n fixes to be commitable 

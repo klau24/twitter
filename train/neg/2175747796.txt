@@ -1,0 +1,1 @@
+@mrphoebs hitting escape used to hide the popup.  not anymore  #twitterfox

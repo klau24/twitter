@@ -1,0 +1,1 @@
+So I'm hoping to break into Django/Python over summer (http://is.gd/JZAP) - how/where should I start? Any wisdom to impart? 

@@ -1,0 +1,1 @@
+Man. First kernel panic I've seen with this laptop. 

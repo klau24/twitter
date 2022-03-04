@@ -1,0 +1,1 @@
+somebody tell me how to convert String to CLOB and vice versa... ASAP 

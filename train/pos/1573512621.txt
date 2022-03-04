@@ -1,0 +1,1 @@
+It took me months to discover #chrome CAN restore sessions! It's the first setting under Options and I never saw it 

@@ -1,0 +1,1 @@
+yay, I have startet on config.php &amp; db.sql 

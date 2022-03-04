@@ -1,0 +1,1 @@
+ustream.tv streams, be they live or recorded, don't work in FF, Safari or Opera. Must be Flash 10 that's borken. 

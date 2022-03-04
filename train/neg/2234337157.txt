@@ -1,0 +1,1 @@
+SharePoint setup cluster fsck. Manual uninstall failed. Install telling me it can't open an unknown key. Yeah that's helpful. Paving time 

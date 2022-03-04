@@ -1,0 +1,1 @@
+Worryingly, I have just found about 10 files on my site that shouldn't be there. Can't find the source of the hole yet  

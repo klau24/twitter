@@ -1,0 +1,1 @@
+Slurp! Just used SiteSucker to download all the images from a site; Next, ask Photoshop to automatically resize and name them. Jobs done 

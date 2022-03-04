@@ -1,0 +1,1 @@
+the new jDownloader design is incredibly better. too bad it's still Java and eats all my memory 

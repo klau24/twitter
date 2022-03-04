@@ -1,0 +1,1 @@
+Anyone else trying to use WifiTrak with iPhone OS 3.0? Getting error message, looks like it's broken 

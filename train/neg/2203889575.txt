@@ -1,0 +1,1 @@
+Why do people insist of giving all ASP.NET controls ID tags, eventhough they is not used in code-behind? It clutters the HTML. 

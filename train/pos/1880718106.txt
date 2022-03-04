@@ -1,0 +1,1 @@
+#.tel developers: you know there's a full .tel developer's guide, right? Right? http://dev.telnic.org/docs/devguide.pdf   

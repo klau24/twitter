@@ -1,0 +1,1 @@
+feature i like about virtual machines - when you restart them your connection is not cut. #virtualbox headless vid rdp 

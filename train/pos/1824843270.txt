@@ -1,0 +1,1 @@
+Wolfram Alpha solves systems of Diophantine equations. Who will be the first to get it into an infinite loop?!  

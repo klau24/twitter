@@ -1,0 +1,1 @@
+yay! my custom Linux kernel rebuild worked - but still didn't give me the hardware drivers I needed 

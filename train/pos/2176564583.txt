@@ -1,0 +1,1 @@
+@otobrglez Smarty is a good choice. Just remember KISS (Keep It Simple, Stupid!)  Good luck with your project 

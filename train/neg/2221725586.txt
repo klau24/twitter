@@ -1,0 +1,1 @@
+if you dont install the Carrier Uprgrade there's no Internet Tethering option in General Prefs in iPhone OS 3.0 

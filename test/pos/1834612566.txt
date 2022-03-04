@@ -1,0 +1,1 @@
+@welshcollector on XP I had no trouble with it, but on Win 7 it simply does not work. Must investigate further 

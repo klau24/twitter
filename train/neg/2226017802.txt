@@ -1,0 +1,1 @@
+Got 3.0 installed, although it took a complete wipe and restore. But apparently installed apps are not saved in the backup 

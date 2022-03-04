@@ -1,0 +1,1 @@
+@kovshenin hey wordpressaholic! Have you found any hooks for when widgets are put in a sidebar / inactive state? I can't 

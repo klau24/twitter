@@ -1,0 +1,1 @@
+Apparently, one must call start() on a #scala actor before passing messages to it  Overly complex solution to euler #1 w/ actors is done

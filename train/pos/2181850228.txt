@@ -1,0 +1,1 @@
+http://bit.ly/zrAJI  Vid of XNA particle system with collisions running on my machine, complete with HD option 

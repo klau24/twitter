@@ -1,0 +1,1 @@
+autopano seems to be taking the max amount of time to correct lens distortion 

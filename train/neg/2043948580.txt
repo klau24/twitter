@@ -1,0 +1,1 @@
+Don't leave rogue commas at the end of js lists, they'll break you scripts on IE. 1H wasted  #protip #IE6 #IE7 #Explorer

@@ -1,0 +1,1 @@
+Ah, thought I had it but it says 'rectangular marquee tool' so maybe elements doesn't have that tool 

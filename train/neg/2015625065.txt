@@ -1,0 +1,1 @@
+@tobinharris Does yUML support Interface + Class description at the same time? Can't get it working so far  --&gt; [&lt;&lt;T&gt;&gt;;TImpl|pi|getPi()]

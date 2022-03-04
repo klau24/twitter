@@ -1,0 +1,1 @@
+Uncaught exception again testing TG 1.0.8 for uploading to twitpic with wifi. No go on all conection settings 

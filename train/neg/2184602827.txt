@@ -1,0 +1,1 @@
+NoScript is an excellent extension to FF however it breaks some online payment sites because of NO JS by default 

@@ -1,0 +1,1 @@
+Having fun playing with my new laptop touch screen  Works pretty well except I've already detected a bug in the drivers with GTK+.

@@ -1,0 +1,1 @@
+figured out my Centos problem: multiple repos with conflicting PHP stacks... accidentally installed out of date pkg from the stock repo 

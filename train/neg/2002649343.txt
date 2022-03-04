@@ -1,0 +1,1 @@
+I'm struggling to use Jasper and Essbase together over XMLA. Can anyone point to a good guide? Legacy db, Mondrian not an option. 

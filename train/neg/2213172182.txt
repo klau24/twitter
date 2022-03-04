@@ -1,0 +1,1 @@
+@johnpapa except it doesn't search email body, only subjects 

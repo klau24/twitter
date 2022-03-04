@@ -1,0 +1,1 @@
+Don't remove your tests from the daily build, Agile Adolf will go nuts again. 

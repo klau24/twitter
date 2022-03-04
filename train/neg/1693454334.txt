@@ -1,0 +1,1 @@
+Hey @al3x, any thoughts on adding in_reply_to_status_id to the Search API results? It sucks not having it 

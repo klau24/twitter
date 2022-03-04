@@ -1,0 +1,1 @@
+@davidmccormack It say, &quot;This deprecation will not occur until we finish...&quot; x y and z... I'm just trying to make Laconica compliant! 

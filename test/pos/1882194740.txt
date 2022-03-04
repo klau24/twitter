@@ -1,0 +1,1 @@
+v0.9.5 is ready, repository watching is now implemented - from here on it's just polishing for v1.0 

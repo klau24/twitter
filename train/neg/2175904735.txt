@@ -1,0 +1,1 @@
+So, #TweetDeck was updated to fix a crash, to do so they removed the minimize to systray, which totally blows 

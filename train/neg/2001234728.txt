@@ -1,0 +1,1 @@
+Orchestrator for vsphere is asking for a serial number .. Does anyone know how to activate this when running a trial copy? 

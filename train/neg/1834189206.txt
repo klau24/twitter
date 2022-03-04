@@ -1,0 +1,1 @@
+TFS with the Conchango template does not have &quot;Ready for test&quot; and &quot;Deferred&quot; status on the Product Backlog Item 

@@ -1,0 +1,1 @@
+@changibedsheets Those features seems to be working fine for me  But it always gives me an 'printer error' message which is kinda weird.

@@ -1,0 +1,1 @@
+@dfinney tried everything, I think iweb is designed for mobileme rather than php hosting 

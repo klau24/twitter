@@ -1,0 +1,1 @@
+trying to setup XDCMP login from this WinXP thin client to my old Xubuntu workstation.. the display doesn't refresh entirely.. 

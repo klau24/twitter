@@ -1,0 +1,1 @@
+@bitninja Unless the class is a commandline app that prints out responses given commandline arguments it's useless 

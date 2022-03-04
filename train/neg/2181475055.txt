@@ -1,0 +1,1 @@
+iPhone 3.0 not working with car dock properly. And it was flakey on 2.2.1  have to connect, wait, reconnect!

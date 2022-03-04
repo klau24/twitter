@@ -1,0 +1,1 @@
+Finally for IBM z/OS Parallel Sysplex Operational Scenarios published on Friday   http://www.redbooks.ibm.com/abstracts/sg242079.html

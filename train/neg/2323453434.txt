@@ -1,0 +1,1 @@
+Word as render engine = FAIL, I don't want html email from people who can't write html, so please stop hating web standards MS 

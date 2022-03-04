@@ -1,0 +1,1 @@
+After boot of Gumbo the code hinting is back 

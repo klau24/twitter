@@ -1,0 +1,1 @@
+while (paddy == retard) { remember(&quot;switch statements need BREAKs!&quot;) }; That took 2 days to debug 

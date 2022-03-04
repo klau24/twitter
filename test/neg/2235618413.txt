@@ -1,0 +1,1 @@
+@richardwardman You can add a twitter search column but there's no facility to search tweets already downloaded 

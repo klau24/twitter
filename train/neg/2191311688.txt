@@ -1,0 +1,1 @@
+RSocket::Opne() not working in Symbian 9.4: Hi,  Day after day i am hating Symbian more and more  Why do they .. http://tinyurl.com/n398bs

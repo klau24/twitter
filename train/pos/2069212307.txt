@@ -1,0 +1,1 @@
+#wave client? Nah, just gimme telnet and a port number  #xmpp

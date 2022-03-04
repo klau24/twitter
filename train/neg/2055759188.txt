@@ -1,0 +1,1 @@
+Turns out that OpenSim just blows when it comes to texture performance, and it wasn't my build at all 

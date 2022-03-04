@@ -1,0 +1,1 @@
+Moved from Propel to Doctrine overnight, not looked back, it's all so much sweeter now  #orm #php #databases by @Thinkgareth

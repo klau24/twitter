@@ -1,0 +1,1 @@
+Couldent get grub working on disk...#Debian is #fail  

@@ -1,0 +1,1 @@
+@Cinsoft Isn't that kinda what jQuery is? A wrapper around these annoying functions 

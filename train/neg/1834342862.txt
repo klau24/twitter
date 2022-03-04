@@ -1,0 +1,1 @@
+Managed to write a fixpoint catamorphism in Java, but it only works for specialised fixpoints: The T in Fix&lt;T&gt; has to have kind *. 

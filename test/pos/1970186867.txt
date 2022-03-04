@@ -1,0 +1,1 @@
+requests to change the old #cpantesters URLs now dispatched, hopefully the guys can do the updates over the next few days 

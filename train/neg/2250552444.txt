@@ -1,0 +1,1 @@
+Seems Apple changed the USB ports on the alu macbook (5,1) so that it puts out - pwr than before. Need powered hub now for audio ixface 

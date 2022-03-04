@@ -1,0 +1,1 @@
+Sharding as a scaling technique, covered on 1 slide in 1 minute. #university 

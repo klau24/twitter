@@ -1,0 +1,1 @@
+I upgraded my blog to Wordpress 2.7.4 (from 2.0.1 circa 2006).  The RSS feeds work again. 

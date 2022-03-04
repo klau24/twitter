@@ -1,0 +1,1 @@
+2007 AH maths paper asks to integrate 8x^2sin(4x) wrtx.  Just ask wolframalpha  http://bit.ly/CNx0P It can do a lot of it!

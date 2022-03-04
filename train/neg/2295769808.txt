@@ -1,0 +1,1 @@
+Having delved back into the guts of Expression Engine, its a flexible CMS if you have to use it as a dev, not great for clients though 

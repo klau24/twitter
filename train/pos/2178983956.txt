@@ -1,0 +1,1 @@
+Smashing Magazine readers: Browsers will NEVER render the same CSS the same way at the same time. GET OVER IT!  (via @Malarkey)

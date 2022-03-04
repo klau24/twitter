@@ -1,0 +1,1 @@
+@petewilkins \includegraphics[width=1.0\textwidth]{...} but you've probably figured that out by now 

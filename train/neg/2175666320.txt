@@ -1,0 +1,1 @@
+my program is so eager to show me I am wrong, that it shows a segfault even before main! HAHA. sorry, guys, I am totally out of jokes! 

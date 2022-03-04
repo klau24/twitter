@@ -1,0 +1,1 @@
+If you change the time zone settings on your MacBook, do not believe anything iCal tells you later. 

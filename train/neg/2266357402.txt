@@ -1,0 +1,1 @@
+Boo at the new version of Songbird; the last.fm plugin now only plays 3 songs from your my library station before stopping automatically. 

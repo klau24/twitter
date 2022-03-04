@@ -1,0 +1,1 @@
+Am trying to compress my 3gb pst file ... Its compacting 1bit/sec 

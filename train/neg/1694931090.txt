@@ -1,0 +1,1 @@
+Ambient temperature is 35.2C, CPU running at 42C. I'm cooked 

@@ -1,0 +1,1 @@
+@billcpu  It is crazy, but media can't often figure out the differences between an index, query parsing, structured data and NLP.

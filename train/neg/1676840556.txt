@@ -1,0 +1,1 @@
+man... I'll miss the JRuby on Google App Engine talk at #railsconf 

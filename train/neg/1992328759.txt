@@ -1,0 +1,1 @@
+VS2010 deployed successfully but when trying to add remote controller still getting: &quot;Authentication failed on the remote side&quot; error 

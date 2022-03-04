@@ -1,0 +1,1 @@
+@simultech solved issue: instead of event handlers etc, just created a TaskCue with Task objects with setup/finish/step function pointers 

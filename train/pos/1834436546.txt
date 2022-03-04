@@ -1,0 +1,1 @@
+New maven sandobx shared : maven-plugin-helper - avoid plugin developers to reinvent the wheel 

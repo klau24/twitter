@@ -1,0 +1,1 @@
+For the first time, Linux kernel failed me ( b44 driver problem ).  Found a patch though. 

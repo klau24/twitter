@@ -1,0 +1,1 @@
+working hard on the site to get facebook connect &amp; twitter working better... noticed some bugs 

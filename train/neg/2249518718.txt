@@ -1,0 +1,1 @@
+@MarkyB86 It looks like posting.php is empty/missing, althought the same goes with page for sending PMs 

@@ -1,0 +1,1 @@
+Well evidently the add-type functionality in PS 2.0 doesn't like comments in the struct. 

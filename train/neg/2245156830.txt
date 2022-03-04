@@ -1,0 +1,1 @@
+embedded GoogleMaps for sites: pin in right place after postcode search, but then wrong on generated map code; OpenStreetmap no better 

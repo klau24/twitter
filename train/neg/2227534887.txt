@@ -1,0 +1,1 @@
+Hmm... trying Windows Update, seems to have an update to IE8 for Vista x64 in there.  Too bad I can't use Firebug in this case 

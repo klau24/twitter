@@ -1,0 +1,1 @@
+Did you know that find had a -delete flag? I certainly did not  #linux

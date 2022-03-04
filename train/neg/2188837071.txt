@@ -1,0 +1,1 @@
+DDoS link down now. After fighting off a 340mbps incoming DDoS attack the hard line was cut by the ISP.  Still looking for stable proxies.

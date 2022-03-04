@@ -1,0 +1,1 @@
+I knew this was stupid before real testing. But from remote office I put host in standby mode. Now waiting for it to wake up 

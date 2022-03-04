@@ -1,0 +1,1 @@
+TDD loop is too slow when it takes 10 secs just to load up Rails =&gt; Maximum 6 iterations per minute 

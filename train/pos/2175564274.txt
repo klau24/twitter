@@ -1,0 +1,1 @@
+Oh, looks like it's fixed in TwitterFox 1.8.1 which just came through when I restarted Firefox 

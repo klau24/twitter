@@ -1,0 +1,1 @@
+just upgraded to #pulseaudio 0.9.15 and module-bluetooth-discover works great! no more choppy sound on alsa streams 

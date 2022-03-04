@@ -1,0 +1,1 @@
+damnit, i made a folder in amazon s3 named &quot;.&quot; unable to remove bucket, or anything in there now.  #amazon #fail

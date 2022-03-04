@@ -1,0 +1,1 @@
+It just took me 10 minutes to do a svn check in.  Svn update failed and locked the file system. Had to svn update, clean up and commit 

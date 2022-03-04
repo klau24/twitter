@@ -1,0 +1,1 @@
+@danielooi It's not the images. The software just corrupt when I triple-click to launch, instead of double click. 

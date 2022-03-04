@@ -1,0 +1,1 @@
+Every time I try to compress video with Lagarith, the final footage plays way slower than normal.  Huffyuv is eatin' mah harddrive space!

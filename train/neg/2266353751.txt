@@ -1,0 +1,1 @@
+Giving up on the wget manpage - scrolling several minutes and still haven't found options for recursive and &quot;download all&quot;. Must google 

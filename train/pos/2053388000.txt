@@ -1,0 +1,1 @@
+@SwitchMac: You added it fine, only group admins can add events that show up. I've made you one. Just a heads up it's GeekUp not Geek Up 

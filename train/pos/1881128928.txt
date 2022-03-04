@@ -1,0 +1,1 @@
+@sKant abey..we can include dat logic..one ex. i jus got in comments itself  int mid = (low/2) + (high/2) + (((low%2)+(high%2)) / 2);

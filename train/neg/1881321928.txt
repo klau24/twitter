@@ -1,0 +1,1 @@
+@jneira  there are rss and atom feeds linked within the site, are those not working or should I put an explicit rss link on my site?

@@ -1,0 +1,1 @@
+Canning OAuth on pixim this weekend. It's caused nothing but hassle. With basic auth, everything will be gravy 

@@ -1,0 +1,1 @@
+@lhl what you shared is what im seeing in the field. im surprised you didn't add a memcache layer for sub microsecond reads 

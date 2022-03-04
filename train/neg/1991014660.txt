@@ -1,0 +1,1 @@
+Argh. so the CocoaHeads event clashes with the Webkit event.   Booo.  Decisions, decisions..

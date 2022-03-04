@@ -1,0 +1,1 @@
+Ubertwitter isn't getting a GPS lock anymore..  not sure why yet.

@@ -1,0 +1,1 @@
+my #wordpress template isnt showing the categories for featured section after updating to WP 2.8 

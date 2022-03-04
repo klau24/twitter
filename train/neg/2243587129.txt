@@ -1,0 +1,1 @@
+@denishua  I changed the field types to BIGINT length 80 but no change on my twitter thread 

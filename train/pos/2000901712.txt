@@ -1,0 +1,1 @@
+@sscullion Confluence 3.0 has been released as well with community features, 140 char status tracking etc etc and Sun open sourced equity 

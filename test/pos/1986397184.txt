@@ -1,0 +1,1 @@
+@9swords LOL nice, however it fails for the in line attributes, the unclosed font tag, and capitalized A tags 

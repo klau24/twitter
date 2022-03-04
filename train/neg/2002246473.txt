@@ -1,0 +1,1 @@
+@ryszu I'm happy to submit patches for broken tests, but I feel the last paragraph on http://bit.ly/10boZ1 is somewhat misleading  #zf

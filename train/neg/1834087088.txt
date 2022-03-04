@@ -1,0 +1,1 @@
+lol, I'm working in 1280x1024 in VPC, but host is 1920x1200. When new mail arrives in outlook and I click popup, host is also 1280x1024?! 

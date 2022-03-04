@@ -1,0 +1,1 @@
+Anyone know how to apply a @jquery patch to an existing plugin? I have the plugin js file, and the .patch file - now what? 

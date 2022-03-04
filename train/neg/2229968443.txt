@@ -1,0 +1,1 @@
+@TomGooden the problem with the 3.0 spotlight search is that (currently), 3rd party apps cannot provide data to it 

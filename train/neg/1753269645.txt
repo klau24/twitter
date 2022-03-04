@@ -1,0 +1,1 @@
+@chazdrums you can use links from mySMS in inbox/outbox sections, not from chat yet 

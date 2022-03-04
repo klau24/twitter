@@ -1,0 +1,1 @@
+@easegill good point - in meantime if already logged into a Google product, a direct link in Mahara to GDocs will act as SSO 

@@ -1,0 +1,1 @@
+@enygma MyOracleSQL Standard Edition One. Time to look into Drizzle maybe? 

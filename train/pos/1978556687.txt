@@ -1,0 +1,1 @@
+playing with ant + phpunit + selenium + cruisecontrol + phpundercontrol = continious integration zen 

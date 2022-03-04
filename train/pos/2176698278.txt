@@ -1,0 +1,1 @@
+eXo JCR website live on JBoss.org : http://www.jboss.org/exojcr/ (ok quite minimal but enough  )

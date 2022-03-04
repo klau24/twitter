@@ -1,0 +1,1 @@
+tested successfully DFU on Snow Leopard 

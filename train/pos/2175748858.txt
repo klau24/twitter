@@ -1,0 +1,1 @@
+Good blog post, a few months ago from @mibly, #Ruby #Twitter bot in 25 lines - http://bit.ly/17zBTz (excellent test source, B3ta.com) 

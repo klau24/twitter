@@ -1,0 +1,1 @@
+@anexxia I think I had one crash in build mode trying to add a window, one while choosing a social interaction 

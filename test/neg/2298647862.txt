@@ -1,0 +1,1 @@
+twitter is currently unable to unfollow anyone due to a bug. Tweet snooze won't work right now b/c it just unfollows for you temporarily. 

@@ -1,0 +1,1 @@
+did lj make changes to their layouts? my css is kinda wonky now, like half of the background is transparent, but it's not supposed to be 

@@ -1,0 +1,1 @@
+Now that v0.86 has been released I can concentrate on creating a new and improved Showcase view 

@@ -1,0 +1,1 @@
+How about if DependencyObject could be a DataBinding target? It's a story about convenience.  Check this out: http://gongdosoft.com/406

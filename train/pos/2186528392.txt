@@ -1,0 +1,1 @@
+A robot that navigates by asking people for directions:  http://tinyurl.com/krmujs  Obviously a female robot. 

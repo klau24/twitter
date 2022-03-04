@@ -1,0 +1,1 @@
+Microsoft's font-embedding tool, WEFT, is so badly designed it makes me want to cry 

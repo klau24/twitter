@@ -1,0 +1,1 @@
+@ianbroom true - we should list it. VPS.NET US is actually in the WestHost DC, so westhost.com/datacenter.html would apply 

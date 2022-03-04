@@ -1,0 +1,1 @@
+N97 web browser still not opening after soft reset. Anyone any ideas before i have to totally hard reset and reinstall everything 

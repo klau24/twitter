@@ -1,0 +1,1 @@
+@aarontay intensedebate has a new plugin system -- i'd love to see an ID plugin using the bt connect api 

@@ -1,0 +1,1 @@
+@Lique i got MMS to work momentarily...but now it's resorted back to failing when trying to send 

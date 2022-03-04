@@ -1,0 +1,1 @@
+@NETTUTS never override native objects prototype 

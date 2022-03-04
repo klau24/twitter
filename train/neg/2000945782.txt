@@ -1,0 +1,1 @@
+@jtauber just watched pinax presentation from pycon. sorry but still in the dark as to what it does / how to use it 

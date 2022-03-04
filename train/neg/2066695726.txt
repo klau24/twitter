@@ -1,0 +1,1 @@
+@chip_roberson I'm still working on the use of the twitter search API ... it seems they lag sometimes, and then drop some tweets. 

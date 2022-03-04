@@ -1,0 +1,1 @@
+@IlanBr @cfimages  i guess if I install WP2.8 clean without plugins it should work, but I need the extensions! 

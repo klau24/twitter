@@ -1,0 +1,1 @@
+#jEditable is kinda nice: http://short.ie/2q7788 #jquery Make form fields editable... works pretty well  (via @davidcoallier)

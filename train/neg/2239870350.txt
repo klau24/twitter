@@ -1,0 +1,1 @@
+My awesome Friday has been foiled by a lack of support for thread process shared synchronization on Mac OS X  Damn you Apple.

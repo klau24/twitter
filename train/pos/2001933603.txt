@@ -1,0 +1,1 @@
+@nzpost, don't know if I need the SMS API now that Twitter and Vodafone play so nicely together—after all, that's what I was hoping for 

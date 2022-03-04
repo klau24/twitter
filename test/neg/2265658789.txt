@@ -1,0 +1,1 @@
+Images you send from Aperture to CS4 that open in Camera RAW don't then seem to have their changes reflected back in Aperture. 

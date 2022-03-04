@@ -1,0 +1,1 @@
+@ErikRoseJohnsen I think monitors are built for 96dpi now, (&amp; old monitors cope with 96 perfectly) so I like to make use of the modern 96 

@@ -1,0 +1,1 @@
+Can not do helloworld with METRO on Glassfish tools bundle for eclipse. Same code OK with netbeans  Time wasted .... Shit !!

@@ -1,0 +1,1 @@
+@tbotwit Myeah, but Mac has apache &amp; php support built in. MySQL runs fine too now, but no success with file permissions 

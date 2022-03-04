@@ -1,0 +1,1 @@
+@Cranialstrain Maybe aftere you've upgraded to XP SP3 you should slipstream that in to the CD to at least speed it up? or use Virtualbox 

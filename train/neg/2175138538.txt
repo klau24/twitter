@@ -1,0 +1,1 @@
+#TweetDeck refuses to remember what messages I have marked as read. Every time I restart the application, they're all unread  #fail

@@ -1,0 +1,1 @@
+@AxStaffer Python is executable pseudocode  The syntax does take a bit of getting used to, but that's always the way with new stuff.

@@ -1,0 +1,1 @@
+so sad geekiness abounds, I'm actually impressed that mysql proxy works - 2 servers handling requests &amp; 50% increase over single server 

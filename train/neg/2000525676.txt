@@ -1,0 +1,1 @@
+Failed attempt at booting to a flash drive. Then failed attempt at switching a production site to a new DB engine. Evening is 0 for 2. 

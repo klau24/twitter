@@ -1,0 +1,1 @@
+lesson on partitioned views becomes failure in establishing linked servers 

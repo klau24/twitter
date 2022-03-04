@@ -1,0 +1,1 @@
+trying to work through this &quot;virtual port xxxx has already been defined!&quot; error on an SSG5. fyi virtual port has not been defined. 

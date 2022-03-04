@@ -1,0 +1,1 @@
+@coldfusion You also want to pick a CF hosting provider that knows what they are doing and not just someone who managed the base install, 

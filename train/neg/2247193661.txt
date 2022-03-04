@@ -1,0 +1,1 @@
+@VeriSignMRKTG Verisign seal was taking over 35 seconds to load on our site and stalling a key conversion page, so had to remove. 

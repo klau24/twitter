@@ -1,0 +1,1 @@
+FINALLY got proof of concept code working, so I know new approach can work. Took longer than I thought, though. 

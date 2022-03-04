@@ -1,0 +1,1 @@
+@planetMitch Macs never get good game support unfortunately   If there are windows drivers you could try using it via bootcamp maybe?

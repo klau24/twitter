@@ -1,0 +1,1 @@
+Hmm, Silverlight 2 CoverFlow content no workee in SiteFinity 3.6 in Firefox. Spent all morning trying it, had to resort to forum post  #fb

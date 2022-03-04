@@ -1,0 +1,1 @@
+Pulled everything out and put it back in again. Solved  Now I gotta find a way for my USB modem to stop writing to the log every second.

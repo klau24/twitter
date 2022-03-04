@@ -1,0 +1,1 @@
+@darkliquid thnx it actually just seems to be mail.app not getting email from gmail servers.  gmail is fine.

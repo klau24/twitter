@@ -1,0 +1,1 @@
+@simonech And you directed them to Mono, the OpenSource version of .NET right? Includes ASP.NET MVC and Silverlight  #Mono #DotNet #OSS

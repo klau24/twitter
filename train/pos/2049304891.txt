@@ -1,0 +1,1 @@
+@forteller DM msg has been stable. Still in beta (as all web 2.0 services). 

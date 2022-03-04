@@ -1,0 +1,1 @@
+Dontemplated using #Drupal as a back-end to a [new] personal website. Unfortunately It'll take to much time to familiarize myself with it 

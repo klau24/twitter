@@ -1,0 +1,1 @@
+@twitter please deploy IPV6 on the twitter API. Multiple computers, iPhones and NAT don't go well with the current API limits  #ipv6

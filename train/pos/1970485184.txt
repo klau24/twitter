@@ -1,0 +1,1 @@
+Next month we'll release the first paid flash component on flabell (very low price for testing the payment module). Got a PayPal account? 

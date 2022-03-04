@@ -1,0 +1,1 @@
+laconica not work in localhost, need to be upload in my serever for testing 

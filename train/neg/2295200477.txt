@@ -1,0 +1,1 @@
+Visa/MasterCard is charging all MSP's $.03 for Visa &amp; $.02 for MC transactions 4 PCI Security fees. This is passed on to the Merchant. 

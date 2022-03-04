@@ -1,0 +1,1 @@
+*Almost* managed to retrofit a page with #ajax/#javascript without breaking it in IE  /me boots windows

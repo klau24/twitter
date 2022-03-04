@@ -1,0 +1,1 @@
+First result of Zend 7.0.0 beta for #mac is more alpha then beta. Constant crashes, can't write even a line of code  Hmpf #php

@@ -1,0 +1,1 @@
+@IsaGoksu still no luck with exchange mail  I have tried all: lower/uppercase, full email, username - all. I think it is our exchange srv

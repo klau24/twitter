@@ -1,0 +1,1 @@
+*Sigh* Waking up to hear someone screwed up the gallery i had setup so bad that all i could do was reinstall and bridge the db again 

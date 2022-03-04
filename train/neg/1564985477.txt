@@ -1,0 +1,1 @@
+Big flaw in Tweetie for mac, the 'new message' blue logo thing stays even after you read it. You need to change the view for it to go. 

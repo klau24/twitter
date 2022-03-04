@@ -1,0 +1,1 @@
+I'm finally going to put some serious effort into learning #emacs. Let's see what all the fuss is about 

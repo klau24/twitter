@@ -1,0 +1,1 @@
+Just wrote and ran a little console-base Ruby app on my iPod! I would like to try to add a UI using Rhodes, but I need a mac to compile 

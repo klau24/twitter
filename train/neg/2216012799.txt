@@ -1,0 +1,1 @@
+Not happy with off-centered Google Maps in jQuery UI Tabs. 'Display: none' is a bastard for dimensional computation on initialization. 

@@ -1,0 +1,1 @@
+@mycocoaheads I've decided to use plain SQL lite and then migrate my Code later to core data 

@@ -1,0 +1,1 @@
+Removed python yesterday and forgot that webshell depends on it.  Doh!  No shell at work  #palmpre

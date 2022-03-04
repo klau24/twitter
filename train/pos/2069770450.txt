@@ -1,0 +1,1 @@
+I like how NetNewsWire automatically provides the URL on the clipboard when I click the Subscribe button -- saves me from hitting cmd-V. 

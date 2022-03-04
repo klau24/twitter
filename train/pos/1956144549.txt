@@ -1,0 +1,1 @@
+@snipeyhead just ignore IE, as long as it works on FF and Safari, the rest can go to Redmont 

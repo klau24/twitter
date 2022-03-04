@@ -1,0 +1,1 @@
+@saurik Any reason on why Cydia in 3.0 does not have the Alphabet on the right side as before? It's difficult to browse the packages 

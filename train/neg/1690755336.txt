@@ -1,0 +1,1 @@
+@modernsinglemom no, unfortunately they have to be done manually.  this plugin does import users: http://tinyurl.com/okc6y

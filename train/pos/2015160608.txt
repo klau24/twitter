@@ -1,0 +1,1 @@
+12:52  * anordby turns off Squid on finn.no, hoping to never turn it back on.  \o/ #varnish

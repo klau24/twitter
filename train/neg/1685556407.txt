@@ -1,0 +1,1 @@
+Having a hell of a time inserting flash into this wordpress page because the header is defined in the CSS 

@@ -1,0 +1,1 @@
+Upgrading Drupal 5.7 to 6.11: first modules to 5.14, then to Drupal 5.14, now upgrading to 6.11. There should be a smoother way 

@@ -1,0 +1,1 @@
+VERY COOL, got rid of &quot;category&quot; from Wordpress URL. It's now http://rubenerd.com/show/ instead of http://rubenerd.com/category/show/!!! 

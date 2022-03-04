@@ -1,0 +1,1 @@
+Purely made using javascript (preferably jquery) 

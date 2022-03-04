@@ -1,0 +1,1 @@
+Hmm... So at low levels it probably would help to turn off level updates. 

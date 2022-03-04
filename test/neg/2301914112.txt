@@ -1,0 +1,1 @@
+@santagada I see what you mean: even after tweaking fonts preferences, Thunderbird is mixing Courier New w/ Monaco on all the messages! 

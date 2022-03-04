@@ -1,0 +1,1 @@
+#tweetdeck on iPhone hanging underOS 3.0 when adding a follower to a group. 

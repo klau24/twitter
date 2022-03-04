@@ -1,0 +1,1 @@
+Has been trying to integrate 360Tweet with the Twitter OAuth system which is working but posting the tweets right is not! 

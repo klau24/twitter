@@ -1,0 +1,1 @@
+@dotnetaddict I can't recommend @BobWalsh and his MicroISV resources highly enough. Also BizSpark is a great way to get MS dev tools 

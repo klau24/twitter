@@ -1,0 +1,1 @@
+@LukaBirsa If you got it from Ubuntu then the mozilla-supplied update feature doesn't work.  You have to wait for Ubuntu to update it. 

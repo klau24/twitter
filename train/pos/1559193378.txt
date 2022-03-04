@@ -1,0 +1,1 @@
+@depping I was quoting Edsger Dijkstra who first created the use of semaphore in programming. I do not speak Dutch. Yet 

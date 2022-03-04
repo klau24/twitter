@@ -1,0 +1,1 @@
+attempting to get PCTV working on Vista Premium. The out of the box install failed. 

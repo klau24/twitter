@@ -1,0 +1,1 @@
+installed macdrive to have access to HFS disk in bootcamp. Result: can't boot into Leopard anymore, mbp hangs at blue screen before login 

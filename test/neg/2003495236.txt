@@ -1,0 +1,1 @@
+@zubinmehta things were good till firefox 2.x.x as far as RAM usage is concerned. 3.x came and ate away all my ram 

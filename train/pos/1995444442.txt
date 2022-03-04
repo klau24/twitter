@@ -1,0 +1,1 @@
+@jchiarelli TTS to take text Tweets to the phone and Speech Reco to leave text Tweets back ... all in the works! 

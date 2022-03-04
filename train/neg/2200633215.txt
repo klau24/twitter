@@ -1,0 +1,1 @@
+@richardbair which means Griffon's FxBuilder is broken with JavaFx sdk 1.2 

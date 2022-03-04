@@ -1,0 +1,1 @@
+@somsak now i know the cause of crash in #mbpurple. handshake error and write error! no more 

@@ -1,0 +1,1 @@
+Man, regex and mod_rewrite..  Can anyone help me. I want to take a match and replace dots with pipes - |

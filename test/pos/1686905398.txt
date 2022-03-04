@@ -1,0 +1,1 @@
+twitterena now places a badge on it's icon when you leave the app with unread direct messages in version 2.1 

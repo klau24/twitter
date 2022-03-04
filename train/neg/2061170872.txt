@@ -1,0 +1,1 @@
+@mversion verdict on win7? drivers ok? my main problem is that my soundcard ain't supported yet for 64 bit mode 

@@ -1,0 +1,1 @@
+Why isn't there geopo java api  Well, I'll implement. But, the other language implementations have waste.

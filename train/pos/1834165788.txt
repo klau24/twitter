@@ -1,0 +1,1 @@
+Hudson Selenium Grid Plugin: http://bit.ly/UybPR  Seems almost too easy 

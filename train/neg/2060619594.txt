@@ -1,0 +1,1 @@
+... #MySQL: Less I forget, that only works for single character substrings 

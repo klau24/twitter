@@ -1,0 +1,1 @@
+Ugghhh debugging CSS in IE7 sucks 

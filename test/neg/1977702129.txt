@@ -1,0 +1,1 @@
+Ubuntu's Jaunty is a bust for me. The newest ATI Linux drivers don't support my video card, and Boxee doesn't support Jaunty (yet). 

@@ -1,0 +1,1 @@
+Running sitemap is slow going. On page 1438 of 7461... 7470...7800...wait the total keeps going up faster than the pages scanned 

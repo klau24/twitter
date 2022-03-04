@@ -1,0 +1,1 @@
+@Lizloz there's one field that should have been a real number but got loaded as an integer. Can't reload just one table in software 

@@ -1,0 +1,1 @@
+ugh, the network for this vm running in virtualbox dies every few seconds. Not fun to upgrade packages this way 

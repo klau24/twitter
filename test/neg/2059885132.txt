@@ -1,0 +1,1 @@
+Objective-C's syntax + Cocoa verbose naming is so long winded compared to every other language I've used  Makes iPhone coding so tedious.

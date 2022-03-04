@@ -1,0 +1,1 @@
+@typezero3 The Twitter API is relatively straightforward (although no API is as straightforward as bit.ly 

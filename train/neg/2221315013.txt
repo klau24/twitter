@@ -1,0 +1,1 @@
+My cunning new PHP script won't work on my website because the site uses PHP4 and I developed the script on my local webserver using PHP5 

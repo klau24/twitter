@@ -1,0 +1,1 @@
+Sadly, I'm having to resort to browser sniffing to get something working 

@@ -1,0 +1,1 @@
+Frustrated to discover that Virtual PC under Windows 7 requires hardware virtualisation  - which I don't have! 

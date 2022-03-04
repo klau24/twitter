@@ -1,0 +1,1 @@
+Can't use IVsStatusBar in my project. If I add a ref to the Interop DLL, I start getting compile errors. I think it's another C++/CLI bug 

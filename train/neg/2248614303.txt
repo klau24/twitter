@@ -1,0 +1,1 @@
+There's no option to install plugin using URL in WP now  Upload feature is having some prob. #wordpress

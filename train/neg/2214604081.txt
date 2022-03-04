@@ -1,0 +1,1 @@
+@firefox 3.5 RC1 has killed my TwitterFox, in beta 99 it was going fine. 

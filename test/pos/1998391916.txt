@@ -1,0 +1,1 @@
+@jemmen cat logfile | grep -v a -- that should reduce the size a bit. 

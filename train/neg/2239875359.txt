@@ -1,0 +1,1 @@
+does anyone know if Oracle AQ is available in Oracle XE? if so, what is required to configure it? digging for docs and finding nothing 

@@ -1,0 +1,1 @@
+if at least Assert wasn't a static class, I might be able to inherit from it and add the missing stuff 

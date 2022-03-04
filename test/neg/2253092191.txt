@@ -1,0 +1,1 @@
+hackintosh, first update to 10.5.7 - fail, make my system unbootable  installed wrong driver, result - kernel panic... reinstalling 10.5.5

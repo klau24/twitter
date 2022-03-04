@@ -1,0 +1,1 @@
+XUL - (XML User Interface Language) is Mozilla's XML-based language that lets you build RIA's. Ah ja, daher die Fehlermeldungen in Opera 

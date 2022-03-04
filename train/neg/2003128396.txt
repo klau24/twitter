@@ -1,0 +1,1 @@
+I love Zend Studio f. Eclipse (as the whole Eclipse too).  The RSE SSH plugin simply does not work and kills the IDE. 

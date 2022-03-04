@@ -1,0 +1,1 @@
+1.000 kernel panic later discovered that is a fucking broken RAM stick 

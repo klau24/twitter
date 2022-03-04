@@ -1,0 +1,1 @@
+Process 'loginwindow' not responding -&gt; killed -&gt; screen go blank -&gt; OS X's first &quot;crash&quot; 

@@ -1,0 +1,1 @@
+hrm.  apparently problem is not the power adapter but the battery (or the connection).  Works on AC, but battery doesn't charge 

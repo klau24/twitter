@@ -1,0 +1,1 @@
+'Determining Gapless Playback Information' for ~7000 songs in iTunes takes forever 

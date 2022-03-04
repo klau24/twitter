@@ -1,0 +1,1 @@
+I just cannot get @filamentgroup 's menu plugin for jq ui to popup the goddamn menu! Link changes to selected state... nada. no JS errors 

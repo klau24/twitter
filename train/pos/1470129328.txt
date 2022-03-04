@@ -1,0 +1,1 @@
+http://migre.me/mNs plone4 - We now require Python 2.6! 

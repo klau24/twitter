@@ -1,0 +1,1 @@
+working on the mac for a while, the terminal is &quot;ugly&quot;, with or without antialias-text 

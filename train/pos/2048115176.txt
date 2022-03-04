@@ -1,0 +1,1 @@
+Search Bing for python prettyprinting, and compare the result with Google. See for yourself which is better.  (via @gvanrossum)

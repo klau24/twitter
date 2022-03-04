@@ -1,0 +1,1 @@
+Two days spent profiling, debugging, rewriting huge JavaScript app. But my performance issue was caused by PHP server not set to Fast-CGI 

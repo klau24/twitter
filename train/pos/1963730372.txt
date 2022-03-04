@@ -1,0 +1,1 @@
+Using tables to center dynamic width content; feeling dirty and happy at the same time 

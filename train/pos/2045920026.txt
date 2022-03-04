@@ -1,0 +1,1 @@
+@aushack You can use Inline::Ruby from Perl 

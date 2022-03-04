@@ -1,0 +1,1 @@
+@mecanto client works fine on 5800, but there is no access point options 

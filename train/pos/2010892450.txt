@@ -1,0 +1,1 @@
+TF-IDF algorithm implemented with success  tomorrow I'll be adding search functionalities and, later, a simple servlet for the engine.

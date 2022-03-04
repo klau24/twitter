@@ -1,0 +1,1 @@
+@normalian &quot;You can implement a rudimentary but robust file system in two weeks.&quot; wow,I knew you could do it! 

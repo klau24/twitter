@@ -1,0 +1,1 @@
+@aspiringgeek No  Restore + CHECKDB on *all*, no matter if very, very best. Defense in depth.

@@ -1,0 +1,1 @@
+@_hikky Still got a machine with PCI gfx card. Just PCI, no additional &quot;e&quot;. My VLB machine fubar'd, though 

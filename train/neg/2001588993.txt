@@ -1,0 +1,1 @@
+@robertDouglass as long as we still support MyISAM, no  #MySQL #fail.

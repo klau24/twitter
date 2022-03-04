@@ -1,0 +1,1 @@
+having problems with ZF1.8  Fatal error: Call to undefined method SplFileInfo::getRealPath() .... #zf

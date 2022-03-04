@@ -1,0 +1,1 @@
+@InnovativeGames SEAN! there are a few c&amp;p errors in your code for friday's tutorial. need the fog draw function; i wrote one which fails 

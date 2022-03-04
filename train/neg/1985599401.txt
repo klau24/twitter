@@ -1,0 +1,1 @@
+Adobe Air won't run in my new Sabayon Linux, it only supports RPM and APT based distributions 

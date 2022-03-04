@@ -1,0 +1,1 @@
+@JasnaPaka modp_b64 + něco ve webkit,, Firefox má v plánu integrovat vícevláknové zpracování (už aby to bylo) 

@@ -1,0 +1,1 @@
+@trapwire Firefox.  Instead of opening the java application it just opens a million Firefox windows.  Sad. 

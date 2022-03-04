@@ -1,0 +1,1 @@
+@tayzar44 I used #mootools but Now I use #jquery. Jquery documenation is better than mootools 

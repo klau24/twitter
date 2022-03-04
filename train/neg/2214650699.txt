@@ -1,0 +1,1 @@
+@kellypuffs Well, I got Shake To Delete working but it wanted to prompt me.  Shake To Shuffle didn't do anything for me. #iPhoneOS30

@@ -1,0 +1,1 @@
+overflow:hidden isn't enough to keep &lt;td&gt;'s from stretching. use table-layout: fixed on &lt;table&gt; element. Another day, another lesson 

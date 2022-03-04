@@ -1,0 +1,1 @@
+In other news, I finally got that jQuery-over-content problem sorted! With much thanks to @garazi for providing me with a working sample 

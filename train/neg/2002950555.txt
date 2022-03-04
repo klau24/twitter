@@ -1,0 +1,1 @@
+pc running 50% faster after a couple of bios tweaks. I wonder how much faster I can get it? Still takes 70 secs to load Dontstayin page 

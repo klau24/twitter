@@ -1,0 +1,1 @@
+my irc bot's configuration and custom plugins were lost in a hard drive crash, going to spend most of today rewriting the plugins 

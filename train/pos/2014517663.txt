@@ -1,0 +1,1 @@
+Linus Torwalds: &quot;it just means that I can well see that Xen is a f*cking pain to merge.&quot; #linux #xen http://lkml.org/lkml/2009/6/2/352 

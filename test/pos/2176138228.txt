@@ -1,0 +1,1 @@
+planning out my SQL queries and writing a script to insert a CSV into lots of different tables. FUCK MY LIFE 

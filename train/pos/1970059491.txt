@@ -1,0 +1,1 @@
+Apache Solr (+Views 3) looks very promising... I could use that. 

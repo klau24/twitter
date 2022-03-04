@@ -1,0 +1,1 @@
+@doughellmann I'd suggest The Gimp but it's less nice on OSX thanks to X11 

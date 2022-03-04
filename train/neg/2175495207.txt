@@ -1,0 +1,1 @@
+Gnome-Do always show 'post failed' when tweet via it 

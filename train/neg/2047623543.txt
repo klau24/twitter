@@ -1,0 +1,1 @@
+@jondickinson The only solution appears to be to tell Win7 not to monitor AV status in the Action Center or tell WHS to ignore the issue. 

@@ -1,0 +1,1 @@
+Good bye Selenium 1.0-beta2, say hello to version 1.0 in pom.xml. Already uploaded to maven repositories  http://ff.im/-3v68Q

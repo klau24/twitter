@@ -1,0 +1,1 @@
+*sob* turns out  script/plugin install is very very much not the same as a git submodule add ! doh 

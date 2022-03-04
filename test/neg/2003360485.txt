@@ -1,0 +1,1 @@
+@jat45 The answer was more subtle. The bond wasn't hit testable because some muppet (me) had put IsHitTestVisible=false in the ctor. 

@@ -1,0 +1,1 @@
+@eschaton @mike3k  thx.  getObjects:range was *not* what I wanted, but the first thing that jumped out...  subarrayWithRange is perfect.  

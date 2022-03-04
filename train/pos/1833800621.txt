@@ -1,0 +1,1 @@
+Just got 1080p24 working without stutter on the Tvix M6500, by changing to a new switch 

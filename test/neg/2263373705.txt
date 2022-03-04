@@ -1,0 +1,1 @@
+gmote is great, but just like the rest of XP install it hates (samba)networkshares i've not opened in win. explorer this session  #android

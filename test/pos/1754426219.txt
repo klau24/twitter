@@ -1,0 +1,1 @@
+YAY! Reverting web cam drivers allows my notebook to resume from suspend  Dell, Creative, for the love of GOD, PLEASE QA YOUR DRIVERS!

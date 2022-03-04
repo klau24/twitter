@@ -1,0 +1,1 @@
+resourceInfo in IoC loader now in VEGAS 

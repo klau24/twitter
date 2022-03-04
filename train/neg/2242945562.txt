@@ -1,0 +1,1 @@
+@ChaosSmurf Well I'm trying to install it on a freshly formatted partition, but it tells me it can't copy the files. Google is no help 

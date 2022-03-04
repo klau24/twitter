@@ -1,0 +1,1 @@
+is there a known issue with PageMethods and caching? something ain't right, maybe been looking at code for too long 

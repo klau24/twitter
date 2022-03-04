@@ -1,0 +1,1 @@
+@adam9344 I think that's poor UI  the cancel button was meant to hide the keyboard and reveal the tabs below. Sorry, will fix that.

@@ -1,0 +1,1 @@
+Sadly the thumbnail exif data in the RAW files doesn't have what I need. Need to try and delve deeper  No python module seems available

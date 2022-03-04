@@ -1,0 +1,1 @@
+@tilgovi an XMPP API would be cool. I wonder if there's a market in providing a proxy XMPP api for them? 

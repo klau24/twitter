@@ -1,0 +1,1 @@
+@lazydev What does ALT+ENTER mean in Resharper? I use Express ed so I cannot install extensions 

@@ -1,0 +1,1 @@
+Our current thinking is to launch Vufind once we grow the libray of object detectors to 151 -- i like prime numbers 

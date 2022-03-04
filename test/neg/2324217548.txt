@@ -1,0 +1,1 @@
+Once again I tried to get Mac OS running in Virtual PC or VirtualBox, on AMD platform. Neither iATKOS nor manual for boot132-AMD worked. 

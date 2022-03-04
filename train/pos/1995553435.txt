@@ -1,0 +1,1 @@
+@boxedice Nagios seems as an overkill. I guess I will just have to stop being lazy and write a Munin plugin  good luck with yr product!

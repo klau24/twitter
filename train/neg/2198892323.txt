@@ -1,0 +1,1 @@
+Any #wordpress gurus out there? I upgraded to 2.8 and now my /feed/ redirects to /comments/feed/ which is just plain wrong  How can I fix?

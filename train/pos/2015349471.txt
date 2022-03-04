@@ -1,0 +1,1 @@
+is wondering why the initial release of #jboss Infinispan has codename 'starobrno' 

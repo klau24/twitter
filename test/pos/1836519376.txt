@@ -1,0 +1,1 @@
+wow the ast transformations at compile time in groovy 1.6 is powerful magic and we are seeing behind the curtain  @gr8conf

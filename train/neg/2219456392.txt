@@ -1,0 +1,1 @@
+Neither my cable provider nor #Android tethering route IP protocol 47, so I am unable to open PPTP VPN connections from home now. 

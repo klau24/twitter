@@ -1,0 +1,1 @@
+@casystems I did infact put a disclamer for IE6 users to upgrade but still need to support them a while longer so we wont lose any money 

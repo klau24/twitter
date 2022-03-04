@@ -1,0 +1,1 @@
+really wants to run #OpenSolaris on some servers at work, but just can't.  Compared to #ubuntu, it's too much of a PITA.  

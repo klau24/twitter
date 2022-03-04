@@ -1,0 +1,1 @@
+Never Use Inline Javascript. It�s not 1996!  http://bit.ly/oDlRB

@@ -1,0 +1,1 @@
+@BrendanDeBeasi My site finally displays properly in all versions of IE 

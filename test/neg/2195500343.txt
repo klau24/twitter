@@ -1,0 +1,1 @@
+Upgraded to OSX 10.5.7. Messed up the resolution on my HDTV, apparently due to a DVI-related bug. Now what?! 

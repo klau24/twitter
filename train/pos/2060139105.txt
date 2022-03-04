@@ -1,0 +1,1 @@
+@MossyBlog good luck  could try fdisk /mbr  or format /q  May speed things up

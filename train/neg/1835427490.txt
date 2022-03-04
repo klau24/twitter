@@ -1,0 +1,1 @@
+@jaffa2 doesn't include Tahoma (amongst other fonts). Also, it should be installed by default. Thats what helps Windows win 

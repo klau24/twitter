@@ -1,0 +1,1 @@
+@askseesmic Help!! my userlists have disappeared after the last upgrade to 0.3 

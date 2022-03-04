@@ -1,0 +1,1 @@
+set google reader to offline - it downloaded all posts, another online/offline switch - it is downloading again 

@@ -1,0 +1,1 @@
+A method to get random rows from database. http://is.gd/KU8U WARNING! Can take ages! 

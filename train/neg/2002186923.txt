@@ -1,0 +1,1 @@
+installs #sumatraPDF on a MSwindows machine as alt for Adobe Acrobat. The latter needs20+ sec on a 2core to start up, just to view a PDF! 

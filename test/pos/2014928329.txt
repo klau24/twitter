@@ -1,0 +1,1 @@
+This file has been successfully decoded. ionCube Loaders are correctly installed. &lt;== That's what I wanted to hear  Thanks Zend 4 brkng it

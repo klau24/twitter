@@ -1,0 +1,1 @@
+Only disadvantage of Git so far: No (cool) GUI app so far. 

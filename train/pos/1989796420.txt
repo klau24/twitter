@@ -1,0 +1,1 @@
+@MarcPerel Thanks Marc.  As mentioned in the post,it's all textareas on the widgets page.The only thing left is limiting it to your widget

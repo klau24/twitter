@@ -1,0 +1,1 @@
+first issues with new OS 3 : CDN settings resetted, have issues opening login screen of KLM wifi page - missing out internet in lounge 

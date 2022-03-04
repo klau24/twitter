@@ -1,0 +1,1 @@
+OMG! trying to figure out how to do lower case in actionscript and it was toLowerCase? Not ignoreCase? Coding makes my head hurt 

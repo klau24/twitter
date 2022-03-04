@@ -1,0 +1,1 @@
+trying to surf with a live cd of kde 4.0, but it only has konqueror,so gmail chat is not supported 

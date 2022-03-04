@@ -1,0 +1,1 @@
+When I add new modules, I almost always forget to bzr add before I commit. 

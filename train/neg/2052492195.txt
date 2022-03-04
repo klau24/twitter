@@ -1,0 +1,1 @@
+@zenojones I didn't do anything to it. As of yesterday, the ball only moves from left to right. It was working when I woke up yesterday 

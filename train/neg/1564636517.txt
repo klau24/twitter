@@ -1,0 +1,1 @@
+Firefox greys out often in my Ubuntu 9.04 rc. Is this a bug? 

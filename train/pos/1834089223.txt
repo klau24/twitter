@@ -1,0 +1,1 @@
+is heading to Taipei to hack Forth for OLPC 1.5 A-test hardware bringup! time to learn how it's really done  lucky me!

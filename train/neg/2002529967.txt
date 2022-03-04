@@ -1,0 +1,1 @@
+Given up on #CarPC WiFi. Moved on to touchscreen, and lo, it works!... well, until I suspend and resume. Then it doesn't work any more 

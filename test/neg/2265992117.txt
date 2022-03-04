@@ -1,0 +1,1 @@
+@twibble The app is still crashing on N96  so fast that when I press 9 I see the lines but not enough long to read it.

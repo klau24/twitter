@@ -1,0 +1,1 @@
+What needs to be improved in #LightZone: speed! I have an Athlon64 with 4GB of RAM and LZ is slow. 

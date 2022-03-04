@@ -1,0 +1,1 @@
+@mikeschinkel This article says Parallels wins bnchmarks  - http://is.gd/pG79 - so VMs on Mac seems muddy. Just *try* Virtualbox already. 

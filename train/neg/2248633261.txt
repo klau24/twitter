@@ -1,0 +1,1 @@
+&quot;Find My iPhone&quot; works with the iPod Touch! And &quot;Display a Message&quot; supports unicode. ☃! But it didn't override mute like on the phone. 

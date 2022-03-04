@@ -1,0 +1,1 @@
+Gnus seems to be having trouble with replying to mail sent from outlook. I kinda need that  #emacs

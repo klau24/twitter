@@ -1,0 +1,1 @@
+@nevali Tried OpenSolaris in Parallels earlier today, it freezes when &quot;searching for devices&quot;. 

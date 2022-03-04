@@ -1,0 +1,1 @@
+2 times now, TweetDeck errors out on update download on MacBook. 

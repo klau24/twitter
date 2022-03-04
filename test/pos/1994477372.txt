@@ -1,0 +1,1 @@
+@martinfaux we've the feedback about our browser compatibility story in v3 loud and clear 

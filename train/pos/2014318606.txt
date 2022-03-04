@@ -1,0 +1,1 @@
+just discovered #couchDB something I was really missing for a while...can't wait to try it 

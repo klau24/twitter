@@ -1,0 +1,1 @@
+@macpatible That's the part that really bites! Resource hogging, &amp; API max-ing app-ster!! 

@@ -1,0 +1,1 @@
+I should try to do some simple benchmarking on Windows Azure storage. So here we go 

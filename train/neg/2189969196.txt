@@ -1,0 +1,1 @@
+@superjeans looks like the LC2.5 wiki editor strips out &lt;object&gt; tags 

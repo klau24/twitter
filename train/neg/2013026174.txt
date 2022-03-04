@@ -1,0 +1,1 @@
+@rickvug #tweetdeck which can remove users like @hashdrupal. it needs to be re-set when you re-open tweetdeck. &amp; 1 search / column limit 

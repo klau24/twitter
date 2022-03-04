@@ -1,0 +1,1 @@
+@ashuping Shell scripting's easy - just remember the sh-bang on the first line and to chmod it when you're done.  

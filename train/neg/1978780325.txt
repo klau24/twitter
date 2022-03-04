@@ -1,0 +1,1 @@
+After long time I stopped using Eterm and switch back to rxvt, because I was not able to persuade Eterm to display UTF-8 correctly 

@@ -1,0 +1,1 @@
+@HappyHotelier Well, having eliminated cache we still face problems with currencies &amp; various data formats suppliers provide us with 

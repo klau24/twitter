@@ -1,0 +1,1 @@
+3 days working on performance tweaks only to discover that all my changes made it worse.  

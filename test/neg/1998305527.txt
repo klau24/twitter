@@ -1,0 +1,1 @@
+The good reason of ubuntu is the support for python new version. In CentOS, python version is 2.4 

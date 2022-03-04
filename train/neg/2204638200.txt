@@ -1,0 +1,1 @@
+@AdoMatic We're using 08 with SP 1. My main issue is that when forums posts are submitted for approval they can't be seen in IE6 

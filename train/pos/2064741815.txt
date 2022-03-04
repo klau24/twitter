@@ -1,0 +1,1 @@
+I will create more accurate stats for widget basing on unique ID generated on widget download than on IP address. I have a plan. 

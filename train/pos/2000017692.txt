@@ -1,0 +1,1 @@
+@aditimohan14 If we wrote proper sql, db2 wouldn't complain so much 

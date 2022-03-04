@@ -1,0 +1,1 @@
+@eadvocate I checked all my divs - I thought it might be a problem of the div not working out but everything seems to fit 

@@ -1,0 +1,1 @@
+doing some reading on setting up 802.1q trunking on 3com switches for a Job tomorrow, gunna be fun fun fun 

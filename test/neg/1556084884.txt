@@ -1,0 +1,1 @@
+Redundant pieces of code lying here and there, stealing beauty and elegance from the projects's source, 

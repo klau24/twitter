@@ -1,0 +1,1 @@
+@paulmsmith try virtualBox works alot faster than VMware for me. you will have to create the images again though 

@@ -1,0 +1,1 @@
+@dogcow think you may have just figured out the issue. fans aren't on overdrive, but checked iStat. left fan = 0rpm. prob dead 

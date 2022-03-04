@@ -1,0 +1,1 @@
+unfortunately VirtualBox does not support nested virtualization, so I cannot test Xen HA in my existing CentOS test cluster 

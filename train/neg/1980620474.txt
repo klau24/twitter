@@ -1,0 +1,1 @@
+Whoa! #Firefox Trunk Nightly just shot up to 305MB from 260MB when I RELOADED the page with rather fewer JPEGs. ALL subset of first lot 

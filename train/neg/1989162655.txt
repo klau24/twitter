@@ -1,0 +1,1 @@
+@dueyfinster what about sharing a disk in &quot;/media/mydisk2&quot;. It belongs to root, and I can't change the ownership or share it 

@@ -1,0 +1,1 @@
+@alisonpope Yep I have full local admin rights as well....the restrictions are domain based and as such take precedent over local rights  

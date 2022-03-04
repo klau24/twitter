@@ -1,0 +1,1 @@
+@teddyrised It's causing an XML Parsing Error, which can severely delay page load time 

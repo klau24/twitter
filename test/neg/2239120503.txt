@@ -1,0 +1,1 @@
+@fixedd Send email to the linux-usb mailing list about your usb2 problem. http://www.linux-usb.org/mailing.html Sorry for ignoring you. 

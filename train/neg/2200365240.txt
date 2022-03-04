@@ -1,0 +1,1 @@
+My laconica notices won't sync with twitter.  boo hoo. now im stepping thru the code line by line to fix it. mannnnnnnnnnnnnnnnnnnnnnnnnn

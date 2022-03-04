@@ -1,0 +1,1 @@
+@supercoco9 thanks. I 'm cosidering use jekyll in order to port my blogger to github, but I have some fear for now 

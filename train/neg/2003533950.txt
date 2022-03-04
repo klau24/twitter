@@ -1,0 +1,1 @@
+I'm bugging with Office 2007 numbering problem. e.g  Heading 2 is displayed as &quot;5.1&quot; and Heading 3 under 5.1 showing as &quot;3.1.1&quot;.  

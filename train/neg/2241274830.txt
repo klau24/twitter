@@ -1,0 +1,1 @@
+why is dojo not using JSDoc?  =&gt; No code completion in spket editor

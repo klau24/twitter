@@ -1,0 +1,1 @@
+@studio3v Should be, 5-wire and a VGA connector transmit the same thing, just make sure your V and H aren't backwards.  

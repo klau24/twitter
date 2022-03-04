@@ -1,0 +1,1 @@
+Finally starting to add some 'NSUserDefaults' and save a few strings on application exit 

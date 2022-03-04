@@ -1,0 +1,1 @@
+Hmm, none of the AIR-based Twitter apps will run today. Second time that's happened. All throw the same error in the log 

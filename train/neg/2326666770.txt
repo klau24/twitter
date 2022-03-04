@@ -1,0 +1,1 @@
+My Firefox just got weird! All my extensions stopped working just like that. Tried to reinstall Firefox, but that doesn't work. 

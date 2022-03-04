@@ -1,0 +1,1 @@
+512M shared RAM is painfully show in a PC these days. 

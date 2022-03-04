@@ -1,0 +1,1 @@
+I 've been working with Eclipse Galileo RC1 for C++ a couple of days now. No problems yet  #eclipse35

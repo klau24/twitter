@@ -1,0 +1,1 @@
+re: dependency injected #js, in this case I think the problem is a dependence on the sequential execution of statements in object setup. 

@@ -1,0 +1,1 @@
+@danmatthews I can deal with AS because they like to have backwards and forwards compatibility. It's mysql that's being the ass 

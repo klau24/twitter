@@ -1,0 +1,1 @@
+@jimpeel the api is pretty useful as well. First time i used it I had to write my own!!!  load easier to use with HTML opposed to flash

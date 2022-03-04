@@ -1,0 +1,1 @@
+darn. it seems that my fantastic plan for world domination by mysql privilege tables is not at all possible 

@@ -1,0 +1,1 @@
+Ohh, the NAND manufacturers come up with innovative features, yet hard to support them immediately in the MTD/FS layers  

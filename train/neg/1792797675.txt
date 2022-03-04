@@ -1,0 +1,1 @@
+Anyone have an idea why my firefox stalls at about 90% when I'm viewing websites? It won't load the rest of the page. 

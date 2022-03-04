@@ -1,0 +1,1 @@
+@MuscleNerd When I use redsn0w on ipt1g, it goes to a blank screen after redsn0w says done. From the comments, this seems common 

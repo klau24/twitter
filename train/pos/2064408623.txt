@@ -1,0 +1,1 @@
+Blenver 2.5svn gained some nice stuff a material preview panel and constraints buttons   Progressing nicely!

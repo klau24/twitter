@@ -1,0 +1,1 @@
+@Stubbs Bugger on the appengine front  surprised tho.. thought you could just upload wars.. lucene index dir the problem?

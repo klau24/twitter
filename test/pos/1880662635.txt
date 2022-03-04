@@ -1,0 +1,1 @@
+Got my iPhone working again. Xcode restore didn't work, but option-click and selecting the beta image in iTunes fixed everything 

@@ -1,0 +1,1 @@
+@DHughesy TweetDeck uses a heeeeeeeeap of memory apparently, it may chew your computer up. Twhirl is a sweet alternative 

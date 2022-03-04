@@ -1,0 +1,1 @@
+@adamgoucher the code doesn't lie? it sure can in dynamic languages like Ruby when you have no idea what hasn't been overridden 

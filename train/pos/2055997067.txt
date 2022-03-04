@@ -1,0 +1,1 @@
+Working on report center plugin. Managed to get it started last night, relatively pain free 

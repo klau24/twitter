@@ -1,0 +1,1 @@
+!adium 1.4b7 does no longer work with !identica after the  !identica upgrade (at least not for me) 

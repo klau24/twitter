@@ -1,0 +1,1 @@
+#Pidgin 2.5.6 + #GnuTLS 2.8.0 = #gtalk woes (TLS packet with unexpected length received)  #jabber #xmpp

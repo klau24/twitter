@@ -1,0 +1,1 @@
+@Nelja It should do if it has Linux drivers 

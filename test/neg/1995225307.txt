@@ -1,0 +1,1 @@
+does anyone know why my SBSettings doesnt work? if i push any toggle, its like i didnt touch anything 

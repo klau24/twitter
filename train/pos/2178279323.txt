@@ -1,0 +1,1 @@
+@mantia Have you tried running a program that looks at the phone other than itunes? Like Phoneview, it'll single out the problem. 

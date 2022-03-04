@@ -1,0 +1,1 @@
+@GarethDEdwards find / -name scriptname -print    #  

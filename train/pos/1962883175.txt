@@ -1,0 +1,1 @@
+dojo+cometd+apache camel (light ESB)+grails: the perfect conbination 

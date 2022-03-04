@@ -1,0 +1,1 @@
+@mrBallistic Right. But I�m a stickler for correct DPI export and color value  I�m going to dig in and find out if this is possible

@@ -1,0 +1,1 @@
+#adium 1.4beta1 supports #irc and #twitter. irc client is working, twitter client not yet 

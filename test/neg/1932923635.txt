@@ -1,0 +1,1 @@
+@simonbc can u make it so that Jottit works in a mobile browser? unable to click &quot;publish&quot; after editing a page -doesn't read as a button 

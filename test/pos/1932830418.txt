@@ -1,0 +1,1 @@
+@timriley hmm, that's annoying - but still, why macports ruby? 

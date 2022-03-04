@@ -1,0 +1,1 @@
+I spent my free time over the last few days converting my server to 64bit, getting VT-x working etc just to get something to run. No Luck 

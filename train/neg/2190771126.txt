@@ -1,0 +1,1 @@
+@TweetDeck Since v0.25.1b deleting my tweets via TweetDeck does delete them from my account, but they remain in TD. 

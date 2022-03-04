@@ -1,0 +1,1 @@
+huh, pylint doesn't handle yield expressions, crashes --&gt; my flymake+pylint combo can not be used for coroutines 

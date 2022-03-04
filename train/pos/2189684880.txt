@@ -1,0 +1,1 @@
+@cometbus thanks for response. Yes indeed! I figured out that CURLOPT_NOBODY was responsible through trial and error and lots of coffee 

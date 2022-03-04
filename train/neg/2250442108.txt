@@ -1,0 +1,1 @@
+#Numbers on the Mac really is pants ! 16k rows from a text file to a graph please without crashing. Excel does it with ease why not you? 

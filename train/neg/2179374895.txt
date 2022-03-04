@@ -1,0 +1,1 @@
+@destroytoday trashed read.xml file, restarted DTw and nothing 

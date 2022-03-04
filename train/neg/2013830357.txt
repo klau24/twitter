@@ -1,0 +1,1 @@
+@MiltyKiss I guess it's time to find out what PHP script got exploited, patch/remove it, and roll back to your backups.    Teh suck.

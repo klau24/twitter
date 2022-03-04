@@ -1,0 +1,1 @@
+@scottcowan persistence, transactions, queues/topics are all mutually exclusive in JMS 

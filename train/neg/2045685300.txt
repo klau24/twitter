@@ -1,0 +1,1 @@
+rt @Whoopsie. Gullible sales monkey didn't get the joke - internal sales doc now references the &quot;BOHICA protocol&quot; for cluster failover 

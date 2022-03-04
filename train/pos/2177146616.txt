@@ -1,0 +1,1 @@
+sweet! got a ubuntu webserver running at home now.  can build, test and develop in house! 

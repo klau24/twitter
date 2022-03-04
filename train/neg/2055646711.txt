@@ -1,0 +1,1 @@
+Google Maps Data API is only a kind oh KML repository.There is no relations between different &quot;maps&quot; and neither geospatial operations 

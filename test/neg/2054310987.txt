@@ -1,0 +1,1 @@
+Spending the afternoon refactoring the wave release engine. I think it must have been a late one when i wrote this 

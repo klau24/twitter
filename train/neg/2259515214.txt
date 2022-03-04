@@ -1,0 +1,1 @@
+Epic hack FAIL. Changing iTunes ID in XML and .itl database file only works in versions previous to iTunes 8 

@@ -1,0 +1,1 @@
+@haruki_zaemon Fair call. Lots of smart people I know like JQuery more than Prototype, so I'm sure I'm missing something. 

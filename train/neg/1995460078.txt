@@ -1,0 +1,1 @@
+Bummer: ruby1.9 package in debian lenny seems to be incompatible with release version of Ruby 1.9 

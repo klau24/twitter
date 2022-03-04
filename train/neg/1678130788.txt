@@ -1,0 +1,1 @@
+Been trying to look at iphone tutorial/guide but reading objective-c is giving me a headache 

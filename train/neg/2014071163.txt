@@ -1,0 +1,1 @@
+@williambaobean yes, it seems that wordpress.com, even with your domain is blocked  the best is probably to host it yourself.

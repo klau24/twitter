@@ -1,0 +1,1 @@
+@philsturgeon if you figure out how to extend AR in a nice way, please tweet about it! I've been having to hack this for so long 

@@ -1,0 +1,1 @@
+I think I have the new version ok now. Just committed a couple of bugfixes. Wrapping it up for release 

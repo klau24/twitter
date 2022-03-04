@@ -1,0 +1,1 @@
+@mattgroves easy to host wordpress yourself.  find a web host, grab a domain, and install wordpress   done and done.  #wordpress

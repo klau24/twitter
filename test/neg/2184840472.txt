@@ -1,0 +1,1 @@
+*sighs* Rolling a kernel module forward from 2.6.25 to 2.6.26.  The module uses NUM_DONT_CARE which changed in 2.6.26. 

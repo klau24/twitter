@@ -1,0 +1,1 @@
+@thunderberry wud you mind to tell me how is it going? I'm stuck with my pentium M... The kernel embeded in Moblin does not support P-M 

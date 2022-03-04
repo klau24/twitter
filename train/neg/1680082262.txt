@@ -1,0 +1,1 @@
+@mclazarus our provider supports very few  we'll probably experiment with the more open codecs for our remote soft phone users.

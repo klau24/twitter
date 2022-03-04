@@ -1,0 +1,1 @@
+Worklow: Aptana --&gt; svncommit to Beanstalk --&gt; auto release to --&gt; staging server CMS --&gt; migrate to live site 

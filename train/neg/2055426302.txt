@@ -1,0 +1,1 @@
+I wish every browser supported border-radius, it would make things so much easier 

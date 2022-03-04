@@ -1,0 +1,1 @@
+Adaptec 52445 - Partial success! Repaired tracks, replaced parts. Now appears in host BIOS, but fails 'controller monitor' &amp; hangs 

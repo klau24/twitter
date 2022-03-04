@@ -1,0 +1,1 @@
+@jwilker I'm getting &quot;Error establishing a database connection&quot; on your blog. 

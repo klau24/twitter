@@ -1,0 +1,1 @@
+@chrispirillo Use &quot;Click to Flash&quot; - IE ActiveX-esque object clicking to load - it's brilliant. Flash is a waste of Safari goodness 

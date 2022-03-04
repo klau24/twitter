@@ -1,0 +1,1 @@
+finally! my bitmap fonts render in 8,16 and 32-bit colours and they don't go all funny now when you try and change the colour all is well 

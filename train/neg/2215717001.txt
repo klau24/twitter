@@ -1,0 +1,1 @@
+@Anthrox I tried that first! If it could send on behalf of a distribution group it would work fine, but it can't 

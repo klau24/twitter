@@ -1,0 +1,1 @@
+@jscrinc Click share in game, browse to EA/Exports folder in your Documents and upload the .sims3pack file to your server 

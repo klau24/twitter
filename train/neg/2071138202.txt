@@ -1,0 +1,1 @@
+@terrcin Yeah - our DNS provider has succumbed to a DoS attack 

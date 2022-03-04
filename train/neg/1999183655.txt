@@ -1,0 +1,1 @@
+@gailpotratz re: embedding VT into GoogleMaps - tried to figure this out - ended up with the same info as you.  GMaps isn't VT friendly 

@@ -1,0 +1,1 @@
+Anyone know how I remove sidebar 1 from WordPress? I can't find any accessible workarounds. They all tell me to drag'n'drop something. 

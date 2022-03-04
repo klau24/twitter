@@ -1,0 +1,1 @@
+Trying out identi.ca, the free (also as in freedom) microblogging service. It's based on laconi.ca, which is written in PHP 

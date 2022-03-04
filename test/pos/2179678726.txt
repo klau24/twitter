@@ -1,0 +1,1 @@
+@dawson  fair enough, propagation should be seamless tho if you set everything up on 3rd party provider before switching nameservers

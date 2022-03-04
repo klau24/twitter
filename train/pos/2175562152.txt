@@ -1,0 +1,1 @@
+@ohjeongwook MultibyteToWideChar was used widely.  I found one in one minute.

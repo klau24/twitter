@@ -1,0 +1,1 @@
+Safari 4 breaks the web viewer -many dynamic sites inc Google maps render incorrectly   Looking to patch the issue until an update comes.

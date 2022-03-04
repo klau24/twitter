@@ -1,0 +1,1 @@
+@voxar Didnt seem to work here.. When I try to open the app first thing it does is to close itself..  Is this a problem only for OS 3.0?

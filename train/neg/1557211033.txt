@@ -1,0 +1,1 @@
+my XSD generated class is failing, &quot;unable to generate temporary class&quot; 

@@ -1,0 +1,1 @@
+Tested my code in console app on Mac, ported it over to the iPhone only to find that NSHost is a private SDK there, need to rework code 

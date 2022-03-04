@@ -1,0 +1,1 @@
+@edlea Thought I had that working, but getting the same problem. Setting each of the VC's view's autoresizingmasks fails to fix it too. 

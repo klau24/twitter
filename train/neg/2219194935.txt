@@ -1,0 +1,1 @@
+@mathie I agree, unfortunately this is too late at this point  Could you file a bug nevertheless? http://bugreporter.apple.com

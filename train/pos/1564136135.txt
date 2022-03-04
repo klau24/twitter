@@ -1,0 +1,1 @@
+@tiaralynn Yup, I am using Windows Vista. It's working. Just install AIR before installing DT, it'll work. 

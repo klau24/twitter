@@ -1,0 +1,1 @@
+@ofork Shell rocks, and makes more sense than perl!! Okay, app spawning is evil 

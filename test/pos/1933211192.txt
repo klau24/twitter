@@ -1,0 +1,1 @@
+Working in canberra on setting up a gpu cluster. Infiniband and tesla cards make it go fast (at least for some applications, anyway  )

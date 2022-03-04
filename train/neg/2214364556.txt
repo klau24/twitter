@@ -1,0 +1,1 @@
+Ok #VirtualBox3 is really not stable. I keep getting blue screens from the guest.  Back to 2.2.4

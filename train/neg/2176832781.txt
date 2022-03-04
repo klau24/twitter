@@ -1,0 +1,1 @@
+Upgrading the MacBook from a 320GB drive to a 500GB. SuperDuper estimates eight hours to create the bootable mirror. 

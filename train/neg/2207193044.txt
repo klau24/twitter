@@ -1,0 +1,1 @@
+@canadian_diva Bummer. Looks like you're right. No VoiceOver for 3G.  I wonder why? Perhaps someone smart can port it to 3G.

@@ -1,0 +1,1 @@
+looked again at the original SIOC paper ( http://sw.deri.org/2004/12/sioc/index.pdf ) - and I still like it 

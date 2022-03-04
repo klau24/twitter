@@ -1,0 +1,1 @@
+@TwitterFox updated to FF 3.11 &amp; when I sign in it CHUGS the browser while gathering tweets. my HDD lights stays lit. its just not nice. 

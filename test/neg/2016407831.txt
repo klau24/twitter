@@ -1,0 +1,1 @@
+@silner Unless Pidgin supports voice/video now, there is something wrong with it, sadly. And no one really uses SIP VoIP, so Skype it is 

@@ -1,0 +1,1 @@
+Gah, I love developing with Firefox + Firebug, but it sucks that it's such an unstable environment right now  new profile, here I come!

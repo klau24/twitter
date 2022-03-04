@@ -1,0 +1,1 @@
+So glad I developed a test suite for the Amberdms Billing System SOAP API - makes it so easy to test after making code modifications 

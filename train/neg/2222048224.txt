@@ -1,0 +1,1 @@
+Anyone tried Excellent Analytics and succeeded in getting data into an excel sheet? My sheet stays empty after a performing a query  #ga

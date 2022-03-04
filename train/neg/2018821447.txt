@@ -1,0 +1,1 @@
+Okay when I use &quot;twitteriffic&quot; my outgoing tweets are green and incoming is red. But with twitter.com I don't see any incoming. 

@@ -1,0 +1,1 @@
+Finally worked out that a Skype plugin was causing IE8 on Win7 to run very slowly 
